@@ -1,0 +1,506 @@
+Company	ID	Empl Record	First	Last	Dept ID	Dept Descr	Teams	Job Code	Job Title	FTE	Empl Class	Type	Email	Type	Phone
+TYL	5000019420	1	Dennis	Robertson	101300	Communication	"Arts and Science, Advancement"	10021	Visiting Professor	0	FA1	BUSN	DENNISROBERTSON@UTTYLER.EDU	HOME	903/845-1999
+TYL	6001283694	0	Daniel	Kyzer	101500	Music	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.0668	FA2	HOME	DANKYZER@GMAIL.COM	CELL	601/331-2824
+TYL	6001202550	0	Katherine	McBain	101500	Music	"Arts and Science, Advancement"	10014	Adjunct Instructor	0.075	FA2	BUSN	KMcBain@uttyler.edu	BUSN	585/414-5013
+TYL	6001202434	0	Sharon	Deuby	101500	Music	"Arts and Science, Advancement"	10014	Adjunct Instructor	0.1	FA2	BUSN	SDeuby@uttyler.edu	BUSN	972/731-9201
+TYL	6001122538	0	Jack	Grisham	101450	Mathematics	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.1333	FA2	BUSN	jgrisham@uttyler.edu	HOME	281/493-2279
+TYL	5000101090	0	Dijana	Armstrong	101450	Mathematics	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	darmstrong@uttyler.edu	HOME	903/920-4165
+TYL	6001283194	0	Heather	Babin	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	HEATHERFAITH1@GMAIL.COM	HOME	903/452-2519
+TYL	5000011156	0	John	Baker	101650	Social Sciences	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	HBaker@uttyler.edu	HOME	903/769-2800
+TYL	5000402797	0	Chelsea	Baranski	101150	Art & Art History	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	cbaranski@uttyler.edu	HOME	903/292-7988
+TYL	5000396587	0	Matthew	Boulter	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	mboulter@uttyler.edu	HOME	903/944-8494
+TYL	6001214198	0	Jeffery	Cervantez	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	JCervantez@uttyler.edu	BUSN	562/325-1757
+TYL	5000116246	0	Chastadee	Chain	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	CCHAIN@UTTYLER.EDU	HOME	903/220-0094
+TYL	5000117559	0	Christopher	Chappa	101450	Mathematics	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	cchappa@uttyler.edu	HOME	903/769-9274
+TYL	6001222916	0	Theodore	Crawford	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	TCrawford@uttyler.edu	BUSN	903/952-2318
+TYL	6001124087	0	Michael	Ferguson	101650	Social Sciences	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	mferguson@uttyler.edu	HOME	903/918-4502
+TYL	6001283192	0	Linda	Hemmen	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	LHEMMEN@ATT.NET	HOME	316/652-0198
+TYL	5000121319	0	Heather	Hepler	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	hhepler@uttyler.edu	HOME	903/279-1656
+TYL	5000118027	0	Neal	Katz	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	nkatz@uttyler.edu	HOME	903/372-2686
+TYL	6001283193	0	Man Yin	Leung	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	WENNE.MY@GMAIL.COM	HOME	608/334-5349
+TYL	5000431198	0	Cortney	Lynn	101200	Biology	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	ccharba@uttyler.edu	HOME	972/467-6880
+TYL	5000032308	0	John	Mogle	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	JMogle@uttyler.edu	HOME	903/617-8196
+TYL	5000034333	0	Jessica	Ogilvie	101500	Music	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	JJOGILVIE@GMAIL.COM	HOME	903/452-7787
+TYL	6001130944	0	Douglas	Parsons	101250	Chemistry	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	dparsons@uttyler.edu	HOME	325/338-2425
+TYL	6001156621	0	Meghan	Pressley	101450	Mathematics	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	mcarnes@uttyler.edu	HOME	980/328-8290
+TYL	6001223141	0	Thomas	Ross	101700	SocialSci - Ctr for Exec Educ	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	TRoss@uttyler.edu	BUSN	570/793-3883
+TYL	6001119895	0	Timothy	Rotarius	101700	SocialSci - Ctr for Exec Educ	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	trotarius@uttyler.edu	HOME	407/970-9284
+TYL	5000429876	0	Robert	Stultz	101700	SocialSci - Ctr for Exec Educ	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	rstultz@uttyler.edu	HOME	864/227-3888
+TYL	6001282829	0	Paul	Thompson	101650	Social Sciences	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	HOME	PDT160@GMAIL.COM	HOME	903/736-4371
+TYL	5000059710	0	Michael	Ward	101500	Music	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	MWard@uttyler.edu	HOME	903/939-1975
+TYL	5000438627	0	Rebekah	Young	101700	SocialSci - Ctr for Exec Educ	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2	FA2	BUSN	ryoung@uttyler.edu	HOME	601/266-5388
+TYL	5000405948	1	Weston	Manuel	101250	Chemistry	"Arts and Science, Advancement"	14441	Lab Techn	0.2	FA2	BUSN	wmanuel@uttyler.edu	HOME	903/894-3684
+TYL	6001222968	0	Corey	Robinson	101500	Music	"Arts and Science, Advancement"	10014	Adjunct Instructor	0.2125	FA2	BUSN	CoreyRobinson@uttyler.edu	BUSN	940/600-0217
+TYL	5000050785	2	Sara	Rumbelow	101200	Biology	"Arts and Science, Advancement"	14441	Lab Techn	0.25	CL	BUSN	SRumbelow@uttyler.edu	BUSN	903/368-3325
+TYL	5000007098	0	Abhidnya	Ghuge	101150	Art & Art History	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.2668	FA2	BUSN	aghuge@uttyler.edu	BUSN	903/316-1268
+TYL	5000389346	1	Ashley	Dalby	101200	Biology	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.3	FA2	BUSN	adalby@uttyler.edu	HOME	903/399-8654
+TYL	5000114573	0	Kevin	Rutherford	101200	Biology	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.3	FA2	BUSN	KRutherford@uttyler.edu	BUSN	903/399-1106
+TYL	5000059274	0	Scott	Brown	101250	Chemistry	"Arts and Science, Advancement"	14441	Lab Techn	0.3	CL	BUSN	scottbrown@uttyler.edu	HOME	903/565-0859
+TYL	5000424034	0	Robert	Mason	101250	Chemistry	"Arts and Science, Advancement"	14441	Lab Techn	0.3	CL	BUSN	robertmason@uttyler.edu	HOME	405/642-9046
+TYL	5000068286	0	Hilary	Baltz	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	hbaltz@uttyler.edu	HOME	903/522-1817
+TYL	5000057546	0	Michael	Cerliano	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	mcerliano@uttyler.edu	HOME	903/987-2491
+TYL	5000009315	2	Roger	Conaway	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	ROGERCONAWAY@uttyler.edu	HOME	903/780-9399
+TYL	5000040547	0	Ana	Cuervo-Utley	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	autley@uttyler.edu	HOME	903/565-4729
+TYL	6001168594	0	Justin	Deaton	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	HOME	DEATONMATT@GMAIL.COM	BUSN	865/323-9773
+TYL	6001281621	0	Michael	Funke	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	HOME	MBFUNKE@GMAIL.COM	HOME	813/382-8171
+TYL	6001283692	0	Yasmin	Gad	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	HOME	YASMINEGAD@GMAIL.COM	CAMP	903/566-7289
+TYL	5000386238	2	Catherine	Hanratty	101650	Social Sciences	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	chanratty@uttyler.edu	HOME	682/429-5684
+TYL	5000060396	0	Dennis	Hurley	101600	Political Science	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	DHurley@uttyler.edu	HOME	903/596-0751
+TYL	5000082613	0	Kristen	Jackson	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	kristenjackson@uttyler.edu	HOME	903/780-6009
+TYL	5000024225	0	Kristine	Kirst	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	kkirst@uttyler.edu	HOME	903/565-6131
+TYL	5000006473	0	Jeffrey	Lauman	101250	Chemistry	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	jlauman@uttyler.edu	HOME	903/592-5395
+TYL	5000062392	0	Lena	Liedtke	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	LLiedtke@uttyler.edu	BUSN	903/920-3872
+TYL	5000015198	0	Katherine	Milovich	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	KMilovich@uttyler.edu	BUSN	903/569-9049
+TYL	6001271772	0	Shao-Yin	Peng	101400	Literature and Language	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	HOME	EVASYPENG@HOTMAIL.COM	HOME	903/530-4973
+TYL	5000103556	0	Amanda	Ratcliff	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	aratcliff@uttyler.edu	HOME	903/714-5383
+TYL	5000431044	0	John	Thomas	101450	Mathematics	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	jthomas@uttyler.edu	HOME	281/583-8890
+TYL	5000043699	0	Kiera	Wade	101300	Communication	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	kwade@uttyler.edu	HOME	903/581-9506
+TYL	5000098782	0	Geoffrey	Willbanks	101600	Political Science	"Arts and Science, Advancement"	10013	Adjunct Lecturer	0.4	FA2	BUSN	gwillbanks@uttyler.edu	HOME	903/581-4748
+TYL	5000420140	1	Myrna	Vale Medina	101400	Literature and Language	"Arts and Science, Advancement"	10058	Extension Instructor	0.4	FA2	BUSN	mvale@uttyler.edu	HOME	618/559-2951
+TYL	6001096508	0	David	Allen	101250	Chemistry	"Arts and Science, Advancement"	19071	Clerk	0.4875	CLN	BUSN	DALLEN19@PATRIOTS.UTTYLER.EDU	CELL	903/714-7370
+TYL	5000426094	0	Christy	Hjorth	101250	Chemistry	"Arts and Science, Advancement"	14495	Lab Helper	0.4875	CLN	BUSN	chjorth@uttyler.edu	HOME	903/371-2826
+TYL	5000419575	1	Melissa	Salgado	101600	Political Science	"Arts and Science, Advancement"	11901	Recruiter - Hourly	0.4875	CLN	BUSN	msalgado@uttyler.edu	HOME	903/752-7374
+TYL	6001243966	0	Elena	Daughtery	101500	Music	"Arts and Science, Advancement"	10022	Specialist	0.5	FA2	BUSN	EDaughtery@uttyler.edu	HOME	318/527-2771
+TYL	5000075194	0	Laura	Dykes	101100	College of Arts and Sciences	"Arts and Science, Advancement"	13088	Academic Advisor I	1	CL	HOME	LDYKES@UTTYLER.EDU	HOME	903/352-5978
+TYL	5000362278	0	Kelley	Shorette	101100	College of Arts and Sciences	"Arts and Science, Advancement"	13088	Academic Advisor I	1	CL	BUSN	kconnor@uttyler.edu	HOME	903/353-0816
+TYL	5000099247	0	Mary	Holland	101400	Literature and Language	"Arts and Science, Advancement"	19041	Administrative Asst II - Month	1	CL	BUSN	MHolland@uttyler.edu	HOME	903/593-9334
+TYL	5000020843	0	Misty	Holmes	101600	Political Science	"Arts and Science, Advancement"	19041	Administrative Asst II - Month	1	CL	BUSN	mistybutler@uttyler.edu	HOME	903.504.2791
+TYL	6001140235	0	PATRICIA	PELLETIER	101300	Communication	"Arts and Science, Advancement"	19041	Administrative Asst II - Month	1	CL	BUSN	ppelletier@uttyler.edu	CELL	361/816-1990
+TYL	5000418406	0	Katherine	Prince	101250	Chemistry	"Arts and Science, Advancement"	19041	Administrative Asst II - Month	1	CL	BUSN	KPrince@uttyler.edu	CELL	903/360-1260
+TYL	6001125230	0	Donna	Abbey	101500	Music	"Arts and Science, Advancement"	19040	Administrative Asst III	1	CL	BUSN	dabbey@uttyler.edu	CELL	903/714-5445
+TYL	5000405085	0	Mickie	Mwanzia Koster	101350	History	"Arts and Science, Advancement"	10008	Assoc Professor	1	FA1	BUSN	mmwanziakoster@uttyler.edu	HOME	936/537-1846
+TYL	5000118244	0	Chantal	Zuazu	101400	Literature and Language	"Arts and Science, Advancement"	10008	Assoc Professor	1	FA1	BUSN	CZuazu@uttyler.edu	HOME	903/515-0536
+TYL	6001214417	0	Tsz Yan Clement	Chan	101200	Biology	"Arts and Science, Advancement"	10009	Asst Professor	1	FA1	BUSN	TChan@uttyler.edu	HOME	608/658-2493
+TYL	6001218541	0	Matthew	Kelly	101400	Literature and Language	"Arts and Science, Advancement"	10009	Asst Professor	1	FA1	BUSN	MKelly@uttyler.edu	BUSN	650/796-0622
+TYL	6001222779	0	Amanda	Link	101350	History	"Arts and Science, Advancement"	10009	Asst Professor	1	FA1	BUSN	ALink@uttyler.edu	HOME	406/531-4473
+TYL	5000430753	0	Elizabeth	Lisot-Nelson	101150	Art & Art History	"Arts and Science, Advancement"	10009	Asst Professor	1	FA1	BUSN	elisot@uttyler.edu	HOME	972/948-0688
+TYL	5000431469	0	Soo-Ah	Park	101500	Music	"Arts and Science, Advancement"	10009	Asst Professor	1	FA1	BUSN	spark@uttyler.edu	HOME	512/300-1387
+TYL	5000100835	0	Wendy	Duncan	101100	College of Arts and Sciences	"Arts and Science, Advancement"	14503	College Assessment Coordinator	1	CL	BUSN	WDuncan@uttyler.edu	CELL	903/316-1224
+TYL	6001131594	0	Mary	Brush Hahn	123100	University Advancement	"Arts and Science, Advancement"	10337	Dir Dev - College Based	1	AP	BUSN	bhahn@uttyler.edu	CELL	903/343-4411
+TYL	6001254239	0	Bryan	Hill	123100	University Advancement	"Arts and Science, Advancement"	10337	Dir Dev - College Based	1	AP	HOME	B.GARRETTHILL@GMAIL.COM	HOME	903/472-1593
+TYL	5000050496	0	Marti	Halbrook	101700	SocialSci - Ctr for Exec Educ	"Arts and Science, Advancement"	11525	Ex Hlth Care Admin Prog Cord	1	CL	BUSN	MHalbrook@uttyler.edu	CELL	903/316-2203
+TYL	5000416661	0	Michelle	Taff	101150	Art & Art History	"Arts and Science, Advancement"	18351	Gallery/Media Cord	1	CL	BUSN	MTaff@uttyler.edu	CELL	903/948-4484
+TYL	1000115317	0	Marnie	Rout	101221	Biology-Research-Rout	"Arts and Science, Advancement"	10041	Grant Investigator	1	FA3	BUSN	mrout@uttyler.edu	BUSN	682/554-5872
+TYL	6001223367	0	Alix	Matthews	101210	Biology - Research	"Arts and Science, Advancement"	14441	Lab Techn	1	CL	BUSN	AMatthews@uttyler.edu	CELL	501/351-5559
+TYL	6001161079	0	Jonathan	Belew	101250	Chemistry	"Arts and Science, Advancement"	10011	Lecturer	1	FA1	BUSN	jbelew@uttyler.edu	HOME	469/222-8823
+TYL	5000117468	0	John	Leblanc	101600	Political Science	"Arts and Science, Advancement"	10007	Professor	1	FA1	BUSN	rleblanc@uttyler.edu	HOME	903/593-0450
+TYL	5000117777	0	Kelley	Snowden	101650	Social Sciences	"Arts and Science, Advancement"	14415	Research Associate - Monthly	1	CL	BUSN	ksnowden@uttyler.edu	HOME	903/720-5732
+TYL	6001218542	0	Tara	Propper	101400	Literature and Language	"Arts and Science, Advancement"	10012	Sr Lecturer	1	FA2	BUSN	TPropper@uttyler.edu	BUSN	631/748-2463
+TYL	5000045860	0	Alicia	Quijano	101150	Art & Art History	"Arts and Science, Advancement"	18341	Studio Technician	1	CL	BUSN	aconway@uttyler.edu	HOME	903/237-9612
+TYL	5000397495	0	Alan	Lizarraga	101200	Biology	"Arts and Science, Advancement"	14430	"Supvsr, Lab Tech Srv"	1	CL	BUSN	alizarraga@uttyler.edu	CELL	903/830-9348
+TYL	6001283767	0	Robert	Roy	101450	Mathematics	"Arts and Science, Advancement"	10020	Visiting Asst Professor	1	FA2	BUSN	ROBERTROY@UTTYLER.EDU	HOME	530/680-9959
+TYL	5000420544	0	Anita	Brown	101300	Communication	"Arts and Science, Advancement"	10019	Visiting Lecturer	1	FA2	BUSN	abrown@uttyler.edu	HOME	903/504-6341
+TYL	5000417639	1	Wycliffe	Njororai	105600	Health and Kinesiology	College of Nursing and Technology	10043	Alt Assigmt - Dept	0.0003	FA2	BUSN	wnjororai@uttyler.edu	BUSN	940/595-9190
+TYL	5000353808	0	Gabriela	Sandoval	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.1333	FA2	HOME	GSANDOVAL_28@YAHOO.COM	BUSN	903/714-7300
+TYL	6001284179	0	Darlene	Goode	105300	Nursing - Grad Program	College of Nursing and Technology	14441	Lab Techn	0.1333	CL	HOME	47DGOODE@GMAIL.COM	HOME	903/963-8970
+TYL	5000017512	0	Dona	Atkins	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	HOME	19DATKINS51@GMAIL.COM	BUSN	903/520-2594
+TYL	5000361894	0	Jill	Campbell	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	JCampbell@uttyler.edu	HOME	903/566-8032
+TYL	5000357015	0	Shuntel	Coleman	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	SColeman@uttyler.edu	HOME	903/372-1707
+TYL	5000086889	0	Taleshia	Coleman	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	TColeman@uttyler.edu	HOME	903/343-8975
+TYL	5000063950	0	Annika	Conaway	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	aconaway@uttyler.edu	HOME	903/258-9800
+TYL	5000099130	0	Stephanie	Foster	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	HOME	SFO3985@GMAIL.COM	BUSN	903/452-0827
+TYL	5000054437	0	Christopher	George	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	HOME	CGEORGE8@PATRIOTS.UTTYLER.EDU	HOME	936/208-1457
+TYL	6001156765	0	Jean	Gordon	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	jeangordon@uttyler.edu	HOME	954/923-2404
+TYL	5000060281	0	Judy	Stanley	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	BUSN	JStanley@uttyler.edu	HOME	903/566-0766
+TYL	5000403926	0	Kayla	Tolar	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.2	FA2	HOME	KTOLAR@PATRIOTS.UTTYLER.EDU	HOME	903/261-2464
+TYL	6001165398	0	Patricia	Simmons	105300	Nursing - Grad Program	College of Nursing and Technology	14441	Lab Techn	0.2	CL	HOME	PBROOKEHENDERSON@GMAIL.COM	HOME	903/229-1011
+TYL	6001206230	1	Jeremy	Carter	105200	Nursing - School of Nursing	College of Nursing and Technology	19998	Task Worker	0.2	CLN	BUSN	JeremyCarter@uttyler.edu	BUSN	903/724-4635
+TYL	5000406945	0	Conner	Benson	105600	Health and Kinesiology	College of Nursing and Technology	14445	Lab Technician-P/T	0.25	CLN	BUSN	ConnerBenson@uttyler.edu	HOME	713/826-4383
+TYL	6001162736	0	Cecile	Craft	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.2665	FA2	BUSN	ccraft@uttyler.edu	HOME	903/315-8805
+TYL	6001101754	1	Annala	Shirley	105300	Nursing - Grad Program	College of Nursing and Technology	14441	Lab Techn	0.3333	CLN	HOME	AJS1964@ME.COM	HOME	903/595-7022
+TYL	5000112889	0	Sheri	Battles	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	HOME	SSBATTLES2564@ATT.NET	BUSN	903/720-9925
+TYL	5000433841	0	Kristen	Brady	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	KBrady@uttyler.edu	HOME	903/630-7725
+TYL	6001085347	0	Elizabeth	Custodio	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	HOME	ECUSTODIO@PATRIOTS.UTTYLER.EDU	HOME	903/724-9922
+TYL	6001196737	0	Rebecca	Egdorf	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	REgdorf@uttyler.edu	BUSN	937/726-7253
+TYL	6001223001	0	Kristel	Fredericks	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	KFredericks@uttyler.edu	BUSN	903/241-0998
+TYL	5000432152	0	Elnora	King	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	elnoraking@uttyler.edu	HOME	903/312-2169
+TYL	5000099697	0	Jimmi	Lafaitt	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA1	BUSN	JLafaitt@uttyler.edu	HOME	903/245-5562
+TYL	5000079762	0	Lauren	Main	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	lmoseley@uttyler.edu	HOME	903/335-6826
+TYL	5000031272	0	Rachel	Strode	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA2	BUSN	RStrode@uttyler.edu	HOME	903/388-5903
+TYL	6001270964	0	Bethany	Yearty	105300	Nursing - Grad Program	College of Nursing and Technology	10013	Adjunct Lecturer	0.4	FA1	HOME	BETHANY.YEARTY@GMAIL.COM	BUSN	770/367-4729
+TYL	5000097553	0	Bethany	Starks	105300	Nursing - Grad Program	College of Nursing and Technology	14441	Lab Techn	0.4	CL	BUSN	bstarks@uttyler.edu	HOME	903/253-7859
+TYL	5000070196	0	Colby	Craddock	105600	Health and Kinesiology	College of Nursing and Technology	10013	Adjunct Lecturer	0.4665	FA2	BUSN	ccraddock@uttyler.edu	HOME	903/216-8473
+TYL	5000404225	1	Katie	Dotson	105500	Nursing - Palestine	College of Nursing and Technology	13089	Academic Adv I - Hourly	0.4875	CLN	BUSN	KDotson@uttyler.edu	CELL	903/284-0533
+TYL	6001212931	0	Holly	Cox	105200	Nursing - School of Nursing	College of Nursing and Technology	19071	Clerk	0.4875	CLN	BUSN	HCox@uttyler.edu	CELL	903/330-2136
+TYL	6001212985	0	Tracy	Sawyer	105200	Nursing - School of Nursing	College of Nursing and Technology	19071	Clerk	0.4875	CLN	BUSN	TSawyer@uttyler.edu	CELL	903/253-7960
+TYL	5000437673	0	Sheldon	Sager	105600	Health and Kinesiology	College of Nursing and Technology	13088	Academic Advisor I	1	CL	BUSN	ssager@uttyler.edu	HOME	903/569-4191
+TYL	6001281668	0	Jennifer	Leviston	105300	Nursing - Grad Program	College of Nursing and Technology	13086	Academic Advisor II	1	CL	CAMP	JLEVISTON@UTTYLER.EDU	HOME	580/647-1435
+TYL	5000014375	0	Robert	Hilliard	113100	Accountability and Information	College of Nursing and Technology	19391	Access Control Analyst	1	CL	BUSN	rhilliard@uttyler.edu	CELL	903/245-0794
+TYL	5000397751	0	Lori	Sisemore	105100	Dean Nursing & HS	College of Nursing and Technology	19020	Administrative Assoc	1	CL	BUSN	lsisemore@uttyler.edu	CAMP	903/566-7090
+TYL	6001212320	0	Jaime	Romero	105300	Nursing - Grad Program	College of Nursing and Technology	19042	Administrative Asst I	1	CL	BUSN	JRomero@uttyler.edu	CELL	337/654-9375
+TYL	6001208095	0	Tina	Taylor	105600	Health and Kinesiology	College of Nursing and Technology	19040	Administrative Asst III	1	CL	BUSN	TMcDonald@uttyler.edu	CELL	936/355-0778
+TYL	6001165611	0	Marlys	Thierry	105330	Petersen-Research	College of Nursing and Technology	19040	Administrative Asst III	1	CL	BUSN	mthierry@uttyler.edu	CELL	972/822-1188
+TYL	5000372091	0	Cathy	Miller	105300	Nursing - Grad Program	College of Nursing and Technology	10008	Assoc Professor	1	FA1	BUSN	CATHYMILLER@UTTYLER.EDU	HOME	361/318-4988
+TYL	5000077302	0	Andrea	Oliver	105300	Nursing - Grad Program	College of Nursing and Technology	10009	Asst Professor	1	FA1	BUSN	aoliver@uttyler.edu	HOME	936/254-8175
+TYL	1000779243	0	Patricia	Duncan	113200	Campus Computing Services	College of Nursing and Technology	18545	Classroom Technology Sup	1	CL	BUSN	pduncan@uttyler.edu	CELL	903/714-4304
+TYL	5000397437	0	Steven	Figueroa	113200	Campus Computing Services	College of Nursing and Technology	18548	Classroom Technology Tech	1	CL	BUSN	sfigueroa@uttyler.edu	HOME	903/258-3343
+TYL	5000051267	1	Sharron	Ballard	105330	Petersen-Research	College of Nursing and Technology	10032	Clinical Assoc Professor	1	FA2	BUSN	EBallard@uttyler.edu	HOME	469/877-3812
+TYL	6001279026	0	Julie	Hebert	105100	Dean Nursing & HS	College of Nursing and Technology	10033	Clinical Asst Professor	1	FA1	BUSN	JHEBERT@UTTYLER.EDU	HOME	469/556-3633
+TYL	6001086299	0	Katherine	Hensley	105300	Nursing - Grad Program	College of Nursing and Technology	10033	Clinical Asst Professor	1	FA1	BUSN	khensley@uttyler.edu	HOME	253/229-6809
+TYL	5000437303	0	Mary	McInnis	105300	Nursing - Grad Program	College of Nursing and Technology	10033	Clinical Asst Professor	1	FA1	BUSN	mmcinnis@uttyler.edu	HOME	713/397-9773
+TYL	5000426971	0	Juli	Cotter	105300	Nursing - Grad Program	College of Nursing and Technology	10031	Clinical Instructor	1	FA2	BUSN	JCOTTER@UTTYLER.EDU	BUSN	903/806-0356
+TYL	5000068159	0	Anna	Hanson	105300	Nursing - Grad Program	College of Nursing and Technology	10031	Clinical Instructor	1	FA2	BUSN	AnnaHanson@uttyler.edu	HOME	903/720-0103
+TYL	5000077370	0	David	McIntyre	105300	Nursing - Grad Program	College of Nursing and Technology	10031	Clinical Instructor	1	FA1	BUSN	DMcintyre@uttyler.edu	HOME	903/721-3622
+TYL	6001163469	0	JBrian	Opella	105300	Nursing - Grad Program	College of Nursing and Technology	10031	Clinical Instructor	1	FA2	BUSN	bopella@uttyler.edu	HOME	903/566-5555
+TYL	5000432997	0	Dixie	Rose	105500	Nursing - Palestine	College of Nursing and Technology	10031	Clinical Instructor	1	FA2	BUSN	drose@uttyler.edu	CELL	903/584-0364
+TYL	5000029728	0	Bethany	Rudolph	105300	Nursing - Grad Program	College of Nursing and Technology	10031	Clinical Instructor	1	FA2	BUSN	BRudolph@uttyler.edu	HOME	903/275-8750
+TYL	6001088441	0	LaKeitha	Johnson	105330	Petersen-Research	College of Nursing and Technology	11584	Clinical Liaison/Info Mgr	1	CL	BUSN	LaKeithaJohnson@uttyler.edu	CELL	972/900-2533
+TYL	5000430251	0	Amy	Tiller	113400	Institutional Research	College of Nursing and Technology	13112	Coordinator	1	CL	BUSN	atiller@uttyler.edu	CELL	469/471-6204
+TYL	5000390308	0	Kevin	McDaniel	113400	Institutional Research	College of Nursing and Technology	19354	Data Specialist	1	CL	BUSN	kmcdaniel@uttyler.edu	HOME	936/433-5538
+TYL	6001117229	0	Yong Tai	Wang	105100	Dean Nursing & HS	College of Nursing and Technology	10225	Dean College Nurse & Hlth Sci	1	AP	BUSN	ywang@uttyler.edu	CELL	404/578-2869
+TYL	5000408988	0	Melinda	Morris	105240	CNHS - CRizer	College of Nursing and Technology	19043	Grant Cord	1	CL	BUSN	mmorris@uttyler.edu	HOME	832/387-1811
+TYL	5000356768	0	James	Pagitt	113400	Institutional Research	College of Nursing and Technology	19348	Info Analyst	1	CL	BUSN	jpagitt@uttyler.edu	CELL	903/477-0279
+TYL	5000411225	0	Myranda	DelPrincipe	105500	Nursing - Palestine	College of Nursing and Technology	14442	Lab Info System Mgr	1	CL	BUSN	MDelPrincipe@uttyler.edu	CELL	903/922-3029
+TYL	5000074580	0	Claire	Kelley	105300	Nursing - Grad Program	College of Nursing and Technology	14443	Nursing Lab Coordinator	1	CL	BUSN	CKelley@uttyler.edu	HOME	903/283-2935
+TYL	5000026878	0	Lynne	Fineout-Overholt	105300	Nursing - Grad Program	College of Nursing and Technology	10007	Professor	1	FA1	BUSN	lfineout@uttyler.edu	HOME	585/355-5452
+TYL	6001203297	0	Shih Yu	Lee	105300	Nursing - Grad Program	College of Nursing and Technology	10007	Professor	1	FA1	BUSN	ShihYuLee@uttyler.edu	HOME	678/770-5118
+TYL	5000115639	0	Kimberly	Barge	113300	Information Technology	College of Nursing and Technology	19327	Programmer Analyst	1	CL	BUSN	karagon@uttyler.edu	HOME	903/330-2249
+TYL	5000430645	0	Joel	Christiansen	113300	Information Technology	College of Nursing and Technology	19327	Programmer Analyst	1	CL	HOME	JCHRISTIANSEN00@GMAIL.COM	CELL	903/530-3395
+TYL	6001219094	0	Ramona	Claiborne	115400	IT Security	College of Nursing and Technology	19388	Security Analyst	1	CL	BUSN	RClaiborne@uttyler.edu	CELL	903/721-5986
+TYL	5000005012	0	Megan	Hassell	115400	IT Security	College of Nursing and Technology	19388	Security Analyst	1	CL	BUSN	mhassell@uttyler.edu	CELL	903/721-5468
+TYL	5000036290	0	Kari	Kennel	105240	CNHS - CRizer	College of Nursing and Technology	10022	Specialist	1	FA1	BUSN	KKENNEL@UTTYLER.EDU	HOME	903/738-8491
+TYL	6001282868	0	Terri	Lipps	105330	Petersen-Research	College of Nursing and Technology	10022	Specialist	1	FA2	HOME	TSHUMWAY@UTTYLER.EDU	HOME	309/840-0040
+TYL	5000045096	0	Elisa	Morrison	105240	CNHS - CRizer	College of Nursing and Technology	10022	Specialist	1	FA2	BUSN	EMORRISON@UTTYLER.EDU	HOME	903/253-3501
+TYL	5000063283	0	Alyssa	Amaral Back	105100	Dean Nursing & HS	College of Nursing and Technology	19355	Sr Comp Equip Maint Techn	1	CL	BUSN	aamaral@uttyler.edu	CELL	903/245-9251
+TYL	5000061825	0	Robbie	Woodley	113300	Information Technology	College of Nursing and Technology	19384	Sr Network Analyst/Planner	1	CL	BUSN	RWoodley@uttyler.edu	HOME	903/871-2789
+TYL	5000120673	0	Matt	Scheffrahn	113300	Information Technology	College of Nursing and Technology	19319	Sr Sys Analyst	1	CL	BUSN	mscheffrahn@uttyler.edu	CELL	903/714-6450
+TYL	5000385384	0	Dakota	Dewoody	113200	Campus Computing Services	College of Nursing and Technology	19333	Support Srv Analyst	1	CL	BUSN	ddewoody@uttyler.edu	HOME	903/353-1676
+TYL	5000110597	0	Clinton	Gordon	113200	Campus Computing Services	College of Nursing and Technology	19333	Support Srv Analyst	1	CL	BUSN	CGordon@uttyler.edu	CELL	903/312-7509
+TYL	5000435443	0	Natalie	Barrett	115100	Business Affairs	"Education and Psychology, Finance"	A004	Employee Contractor	0	POI				
+TYL	5000415226	0	Rebecca	Brignac	115100	Business Affairs	"Education and Psychology, Finance"	A004	Employee Contractor	0	POI				
+TYL	5000412957	0	Michael	Quiballo	115100	Business Affairs	"Education and Psychology, Finance"	A004	Employee Contractor	0	POI				
+TYL	5000431438	0	Evelyn	Restivo	124100	Ingenuity Center	"Education and Psychology, Finance"	A002	Adjunct/Clinical Affiliate	0.0003	POI	BUSN	ERESTIVO@UTTYLER.EDU		
+TYL	6001250096	2	Kathy	Ray	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.1333	FA2	HOME	DRKATHYRAY@YAHOO.COM	HOME	254/592-9480
+TYL	6001254496	0	Dalane	Bouillion	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	HOME	DBOUILLION@VLKARCHITECTS.COM	BUSN	713/410-2922
+TYL	6001156042	0	Holley	Collier	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA1	BUSN	hcollier@uttyler.edu	BUSN	903/804-5148
+TYL	5000424787	0	Suzanne	Jungmann	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA1	BUSN	SJungmann@uttyler.edu	BUSN	936/637-0862
+TYL	5000045735	0	Amber	Penn	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA1	BUSN	apenn@uttyler.edu	HOME	903/586-6510
+TYL	5000012949	0	Beatrice	Taylor	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA1	HOME	CHINAGURO@YAHOO.COM	HOME	903/758-8149
+TYL	6001127270	0	Steven	Wurtz	103300	"Education, School of"	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA1	BUSN	swurtz@uttyler.edu	HOME	682/553-9834
+TYL	5000360819	0	Teresa	Smith	103400	"Education, School of"	"Education and Psychology, Finance"	19041	Administrative Asst II - Month	1	CL	BUSN	teresayoung@uttyler.edu	BUSN	903/566-7055
+TYL	6001219585	0	Cheon-woo	Han	103300	"Education, School of"	"Education and Psychology, Finance"	10009	Asst Professor	1	FA1	BUSN	CHan@uttyler.edu	BUSN	512/364-6464
+TYL	6001116063	1	Yanira	Oliveras Ortiz	103400	"Education, School of"	"Education and Psychology, Finance"	10009	Asst Professor	1	FA1	BUSN	yoliverasortiz@uttyler.edu	BUSN	817/706-9056
+TYL	6001282828	0	Christopher	Thomas	103300	"Education, School of"	"Education and Psychology, Finance"	10009	Asst Professor	1	FA1	BUSN	CTHOMAS@UTTYLER.EDU	HOME	812/212-1309
+TYL	5000117943	0	William	Andrews	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	BUSN	PAndrews@uttyler.edu	HOME	903/581-2085
+TYL	5000396087	0	Rachel	Bloser	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	BUSN	ROates@uttyler.edu	HOME	936/465-2459
+TYL	5000061968	0	Ashlee	Coleman	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	BUSN	abraswell@uttyler.edu	HOME	903/372-7578
+TYL	5000362089	0	William	Goette	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	BUSN	wgoette@uttyler.edu	HOME	903/279-1765
+TYL	6001157506	0	Jana	Vanderslice	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.2	FA2	BUSN	jvanderslice@uttyler.edu	HOME	903/283-0364
+TYL	5000084737	0	Donna	Gatewood	103500	Psychology & Counseling	"Education and Psychology, Finance"	10022	Specialist	0.2	FA2	BUSN	dgatewood@uttyler.edu	HOME	903/245-1452
+TYL	6001272157	2	Michael	Barnett	103500	Psychology & Counseling	"Education and Psychology, Finance"	10043	Alt Assigmt - Dept	0.25	FA2	HOME	MICHAELDAVIDBARNETT@GMAIL.COM	BUSN	903/566-7251
+TYL	6001278360	2	Lauren	Kirby	103500	Psychology & Counseling	"Education and Psychology, Finance"	10046	Alt Assigmt - Ind Research	0.25	FA1	BUSN	LKIRBY@UTTYLER.EDU	HOME	334/703-5635
+TYL	5000441090	0	Olivia	Howard	103500	Psychology & Counseling	"Education and Psychology, Finance"	10022	Specialist	0.25	FA2	HOME	OHOWARD3@PATRIOTS.UTTYLER.EDU	BUSN	903.566.7130
+TYL	5000040198	0	Rene	Hernandez	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.4	FA2	BUSN	rhernandez@uttyler.edu	HOME	915/355-1675
+TYL	5000090946	0	Katherine	Pang	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.4	FA2	HOME	KPANG@LAKEWOODWELLNESSPARTNERS.COM	BUSN	214/531-7624
+TYL	6001284906	0	Lauren	Thomas	103500	Psychology & Counseling	"Education and Psychology, Finance"	13086	Academic Advisor II	0.5	CL	HOME	LAURENTHOMAS@UTTYLER.EDU	BUSN	765/265-1945
+TYL	5000012533	0	Anthony	Lawson	103500	Psychology & Counseling	"Education and Psychology, Finance"	10013	Adjunct Lecturer	0.8	FA2	BUSN	alawson@uttyler.edu	HOME	903/939-0009
+TYL	5000420953	0	Christine	McNichols Witt	103500	Psychology & Counseling	"Education and Psychology, Finance"	10009	Asst Professor	1	FA1	BUSN	cmcnichols@uttyler.edu	HOME	361/442-8147
+TYL	6001271456	0	Nakeia	Burrell	115200	Budget Office	"Education and Psychology, Finance"	19174	Budget & Reporting  Mgr	1	CL	BUSN	NBURRELL@UTTYLER.EDU	CELL	936/645-6329
+TYL	5000102696	0	Launa	Bacon	115200	Budget Office	"Education and Psychology, Finance"	19175	Budget & Reporting Analyst II	1	CL	BUSN	LBacon@uttyler.edu	CELL	903/360-3019
+TYL	5000358590	0	Esteici	Licea	115200	Budget Office	"Education and Psychology, Finance"	19175	Budget & Reporting Analyst II	1	CL	BUSN	ELicea@uttyler.edu	CELL	903/780-4890
+TYL	5000117624	0	O	Jones	115300	Financial Services	"Education and Psychology, Finance"	19652	Buyer I	1	CL	BUSN	fjones@uttyler.edu	HOME	903/592-4013
+TYL	5000111415	0	Daniel	Pippin	115300	Financial Services	"Education and Psychology, Finance"	19651	Buyer II	1	CL	BUSN	DPippin@uttyler.edu	CELL	903/452-7784
+TYL	6001137750	0	Sheila	Darcey	115300	Financial Services	"Education and Psychology, Finance"	19650	Buyer III	1	CL	BUSN	sdarcey@uttyler.edu	CELL	903 714 4825
+TYL	5000009427	0	Shaquita	Leadon	115300	Financial Services	"Education and Psychology, Finance"	19603	Cash Manager	1	CL	BUSN	sleadon@uttyler.edu	CELL	903/658-3702
+TYL	6001207034	0	Patricia	Speer	115300	Financial Services	"Education and Psychology, Finance"	19194	Disbursements and Travel Techn	1	CL	BUSN	PSpeer@uttyler.edu	CELL	903/520-2541
+TYL	6001219108	0	Danielle	McDonald	115200	Budget Office	"Education and Psychology, Finance"	19185	Financial Reports Mgr	1	CL	BUSN	DanielleMcDonald@uttyler.edu	CELL	702/296-5813
+TYL	6001086268	0	Kenneth	Lovett	115350	Human Resources	"Education and Psychology, Finance"	19543	HR Assistant	1	CL	BUSN	KLOVETT@UTTYLER.EDU	CELL	903/316-2207
+TYL	5000430954	0	Rhonda	Toole	115350	Human Resources	"Education and Psychology, Finance"	19543	HR Assistant	1	CL	BUSN	rtoole@uttyler.edu	CELL	903/780-6709
+TYL	5000069859	0	Laquita	Graham	115350	Human Resources	"Education and Psychology, Finance"	19555	HR Manager	1	CL	CAMP	LGRAHAM@UTTYLER.EDU	HOME	903/952-7198
+TYL	6001200628	0	Casey	San	115350	Human Resources	"Education and Psychology, Finance"	19542	HR Specialist	1	CL	BUSN	CHeys@uttyler.edu	HOME	903/617-0302
+TYL	6001271309	0	Paula	Grabowski	115300	Financial Services	"Education and Psychology, Finance"	19640	HUB Coordinator	1	CL	OTHR	PELLIS.EASTTX@GMAIL.COM	CELL	903/922-0378
+TYL	5000076660	0	Sharon	Amaral Back	103100	College of Education & Psych	"Education and Psychology, Finance"	18111	Instruct & Eval Support Spec	1	CL	BUSN	sback@uttyler.edu	CELL	903/520-2177
+TYL	6001160797	0	Paul	Fitts	115300	Financial Services	"Education and Psychology, Finance"	10410	Purchasing Manager	1	CL	BUSN	pfitts@uttyler.edu	CELL	936 662 5891
+TYL	5000090222	0	Angela	Bryan	115300	Financial Services	"Education and Psychology, Finance"	19189	Senior Payroll Analyst	1	CL	BUSN	abryan@uttyler.edu	CELL	903/240-0805
+TYL	5000357090	0	Christopher	Powell	124100	Ingenuity Center	"Education and Psychology, Finance"	14440	Sr Lab Techn	1	CL	BUSN	cpowell@uttyler.edu	HOME	903/730-1142
+TYL	6001243921	0	Ambrose	Ononye	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	A002	Adjunct/Clinical Affiliate	0	POI	BUSN	AOnonye@uttyler.edu	BUSN	281/979-1825
+TYL	6001284234	0	James	Vasil	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	A002	Adjunct/Clinical Affiliate	0	POI	HOME	JAMES.VASIL@GMAIL.COM	CELL	214/766-1184
+TYL	6001281816	0	Truman	Edminster	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.0665	FA1	HOME	TEDMINSTER@EHRAINC.COM	BUSN	713/824-7367
+TYL	6001284181	0	Krishna	Goparaju	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.1333	FA2	HOME	KRISHNAGOPARAJU@HOTMAIL.COM	HOME	832/344-6639
+TYL	6001284178	0	Deju	Nation	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.1333	FA2	HOME	DEJUNATION@GMAIL.COM	HOME	832/571-0980
+TYL	6001243923	0	Jennings	Brennion	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.2	FA2	BUSN	JBrennion@uttyler.edu	BUSN	903/759-8217
+TYL	6001283691	0	Vanesha	Nicholson	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.2	FA1	HOME	VANESHWASHINGTON@YAHOO.COM	HOME	832/368-0608
+TYL	6001284180	0	Gelareh	Sanjabi	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.2	FA2	HOME	GELAREHBS@GMAIL.COM	HOME	757/362-7281
+TYL	6001171165	0	Bryanah	Capps	114200	Patriot Center	"Engineering, Athletics, Marketing"	13119	Fitness Instructor	0.25	CLN	HOME	BRYANAHCAPPS15@GMAIL.COM	HOME	903/808-3626
+TYL	6001132013	0	Joseph	Kamto	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	10013	Adjunct Lecturer	0.4668	FA2	BUSN	jkamto@uttyler.edu	HOME	832/630-2683
+TYL	5000028348	0	Alisa	Everett	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CL	BUSN	aeverett@uttyler.edu	HOME	903/571-8619
+TYL	6001205404	0	Kody	Gautreaux	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CLN	BUSN	KGautreaux@uttyler.edu	HOME	337/247-5636
+TYL	6001170387	0	Dennis	Godoy	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CLN	HOME	DGODOY@PATRIOTS.UTTYLER.EDU	HOME	903/262-6985
+TYL	6001115275	0	Mallory	Matthews	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CLN	BUSN	MallorySanders@uttyler.edu	CELL	817/454-5577
+TYL	5000383895	1	David	Nedbalek	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CL	BUSN	DNedbalek@uttyler.edu	HOME	903/316-3847
+TYL	5000437223	0	Hannah	Pascual	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CL	BUSN	hpascual@uttyler.edu	BUSN	903/581-9453
+TYL	5000390392	0	Whitney	Simmons	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CLN	BUSN	wsimmons@uttyler.edu	HOME	903/452-9352
+TYL	6001096619	0	Dalton	Smith	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CLN	HOME	DSMITH86@PATRIOTS.UTTYLER.EDU	HOME	214/770-3780
+TYL	6001163471	0	Anthony	Springer	114100	Athletics	"Engineering, Athletics, Marketing"	13555	Coaching Assistant	0.4875	CL	BUSN	aspringer@uttyler.edu	CELL	903/372-1188
+TYL	6001134593	1	Tahsin	Khajah	104400	Mechanical Engineering	"Engineering, Athletics, Marketing"	10009	Asst Professor	0.9163	FA1	BUSN	tkhajah@uttyler.edu	HOME	757/692-5961
+TYL	6001126138	0	LaTosha	Cleaver	114200	Patriot Center	"Engineering, Athletics, Marketing"	19020	Administrative Assoc	1	CL	BUSN	lcleaver@uttyler.edu	CELL	903/330-9797
+TYL	6001134644	0	Jill	Crist	104100	College of Engineering	"Engineering, Athletics, Marketing"	19020	Administrative Assoc	1	CL	BUSN	jcrist@uttyler.edu	CELL	903/574-4892
+TYL	6001214434	0	Renee	Mayrant Quackenbush	104200	Civil Engineering	"Engineering, Athletics, Marketing"	19041	Administrative Asst II - Month	1	CL	BUSN	RQuackenbush@uttyler.edu	CELL	903 3302237
+TYL	5000006006	0	Kristin	Stephens	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	19041	Administrative Asst II - Month	1	CL	BUSN	KSTEPHENS@UTTYLER.EDU	HOME	903/714-0751
+TYL	5000377013	0	Chelsea	Crain	118200	Graduate Admissions	"Engineering, Athletics, Marketing"	19040	Administrative Asst III	1	CL	BUSN	ccrain@uttyler.edu	CELL	903/730-1010
+TYL	5000036460	0	Tonya	Irwin	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	19040	Administrative Asst III	1	CL	BUSN	tirwin@uttyler.edu	CELL	903/245-9590
+TYL	5000024308	0	Katrina	Smith	104100	College of Engineering	"Engineering, Athletics, Marketing"	19006	Administrative Srv Officer	1	CL	BUSN	KatrinaSmith@uttyler.edu	CELL	903/229-7093
+TYL	6001282929	0	Jill	Patton	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13680	Admissions Asst	1	CL	HOME	PATTONHOUSE4@GMAIL.COM	HOME	903/316-4270
+TYL	5000422133	0	Zachary	Bourne	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	zbourne@uttyler.edu	HOME	713/501-5857
+TYL	6001253439	0	Heather	Hernandez	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	HSEIDENSCHMIDT@UTTYLER.EDU	CELL	817/733-8123
+TYL	5000401881	0	Ashlynn	Jones	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	ashlynnjones@uttyler.edu	BUSN	903/617-6813
+TYL	6001212990	0	Charles	Keith	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	CKeith@uttyler.edu	CELL	903/253-3577
+TYL	6001213012	0	Kathryn	Ramirez	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	KRamirez@uttyler.edu	CELL	760/453-6626
+TYL	5000118150	0	Pamela	Suell	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13615	Admissions Rep	1	CL	BUSN	psuell@uttyler.edu	BUSN	713/718-5916
+TYL	6001278176	0	Tim	Fairhead	114100	Athletics	"Engineering, Athletics, Marketing"	19152	Assistant Director	1	CL	CAMP	TFAIRHEAD@UTTYLER.EDU	HOME	585/447-7268
+TYL	5000390035	0	Caitlin	Cronan	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	BUSN	ccronan@uttyler.edu	HOME	972/904-9050
+TYL	6001164840	0	Kristopher	Mashe	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	BUSN	kmashe@uttyler.edu	CELL	903/918-2089
+TYL	6001201612	0	Joseph	Petrich	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	BUSN	JPetrich@uttyler.edu	CELL	763/291-7799
+TYL	8000149738	1	McKamie	Place	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	BUSN	MPLACE@UTTYLER.EDU	CELL	254/216-3810
+TYL	6001284170	0	Chase	Rathke	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	HOME	CHASE.RATHKE@YAHOO.COM	HOME	512/529-4314
+TYL	6001143040	0	Chynna	Turner	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	BUSN	cturner@uttyler.edu	CELL	832/576-4442
+TYL	6001283205	0	Taylor	White	114100	Athletics	"Engineering, Athletics, Marketing"	10519	Asst Coach	1	AP	HOME	TGWHITE25@GMAIL.COM	HOME	281/352-1612
+TYL	6001283204	0	Tyler	Artley	114200	Patriot Center	"Engineering, Athletics, Marketing"	13548	Asst Dir  Recreational Sports	1	CL	CAMP	TARTLEY@UTTYLER.EDU	HOME	832/693-6952
+TYL	6001162873	0	Katie	Richards	114200	Patriot Center	"Engineering, Athletics, Marketing"	13548	Asst Dir  Recreational Sports	1	CL	BUSN	krichards@uttyler.edu	CELL	217/899-7133
+TYL	6001134594	0	Chung Hyun	Goh	104400	Mechanical Engineering	"Engineering, Athletics, Marketing"	10009	Asst Professor	1	FA1	BUSN	cgoh@uttyler.edu	HOME	405/206-7853
+TYL	6001278361	0	Prabha	Sundaravadivel	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	10009	Asst Professor	1	FA1	BUSN	PSUNDARAVADIVEL@UTTYLER.EDU	HOME	214/682-2331
+TYL	6001281253	0	Kenneth	Leonhard	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	10103	Asst VP Web Dev/Mkt Analytics	1	AP	CAMP	KLEONHARD@UTTYLER.EDU	BUSN	903/566-7124
+TYL	6001211484	1	Diana	Gallegos	114100	Athletics	"Engineering, Athletics, Marketing"	13546	Athl Trainer	1	CL	HOME	DGALLEGOS@ATSU.EDU	HOME	210/632-1581
+TYL	6001197198	0	Scott	Lapinski	116400	Financial Aid	"Engineering, Athletics, Marketing"	10320	Dir  Student Financial Aid	1	AP	BUSN	SLapinski@uttyler.edu	CELL	903/530-7292
+TYL	5000109980	0	Robert	Armstrong	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	10235	Dir Media Production	1	AP	BUSN	RARMSTRONG@UTTYLER.EDU	HOME	979/571-7721
+TYL	6001137202	0	Rick	McGill	114200	Patriot Center	"Engineering, Athletics, Marketing"	10545	Director  Recreational Facilit	1	AP	BUSN	rmcgill@uttyler.edu	CELL	319/464-2005
+TYL	6001201034	0	Whitney	Rains	116300	Admissions	"Engineering, Athletics, Marketing"	13105	Dual Credit Coordinator	1	CL	BUSN	WRains@uttyler.edu	CELL	936/234-0440
+TYL	5000055129	0	Sarah	Yosten	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18622	Editorial Specialist	1	CL	BUSN	syosten@uttyler.edu	CELL	903/348-2492
+TYL	5000382324	0	Madison	Payne	116310	Undergraduate Recruitment	"Engineering, Athletics, Marketing"	13121	Enrollment Communication Coord	1	CL	BUSN	mpayne@uttyler.edu	CELL	903 316 1190
+TYL	5000008050	0	Christon	Carroll	116100	Enrollment Management	"Engineering, Athletics, Marketing"	13612	Enrolmt Srv Officer I	1	CL	OTHR	CHRISTONECARROLL@GMAIL.COM	CELL	903/245-3401
+TYL	6001176802	0	John	Nelson	116100	Enrollment Management	"Engineering, Athletics, Marketing"	13612	Enrolmt Srv Officer I	1	CL	HOME	LUKENELSON10@GMAIL.COM	HOME	214/789-4315
+TYL	5000354558	0	Amanda	Pierce	116100	Enrollment Management	"Engineering, Athletics, Marketing"	13612	Enrolmt Srv Officer I	1	CL	BUSN	APierce@uttyler.edu	HOME	903/594-9582
+TYL	6001227133	0	Victoria	Adams	116400	Financial Aid	"Engineering, Athletics, Marketing"	19395	Financial Aid Analyst	1	CL	HOME	VICTORIANICOLEADAMS@YAHOO.COM	HOME	512/753-9844
+TYL	6001213075	0	Zakkary	Washington	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18331	Graphic Designer	1	CL	BUSN	ZWashington@uttyler.edu	CELL	325/660-0635
+TYL	5000114361	0	Chris	Stonestreet	114100	Athletics	"Engineering, Athletics, Marketing"	10507	Head Coach	1	AP	BUSN	cstonestreet@uttyler.edu	HOME	817/819-6049
+TYL	6001281256	0	Jeannette	Mosher	114100	Athletics	"Engineering, Athletics, Marketing"	10511	Head Women's Basketball Coach	1	AP	BUSN	JMOSHER@UTTYLER.EDU	HOME	574/200-9005
+TYL	6001281765	0	Gilbert	Abel	104600	Construction Management	"Engineering, Athletics, Marketing"	10011	Lecturer	1	FA2	HOME	GABEL98@GMAIL.COM	HOME	310/461-9103
+TYL	6001214432	0	Andres	Garcia	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	10011	Lecturer	1	FA2	BUSN	AGarcia@uttyler.edu	HOME	956/535-3163
+TYL	6001129886	0	Tyler	Hall	104100	College of Engineering	"Engineering, Athletics, Marketing"	10011	Lecturer	1	FA2	BUSN	thall@uttyler.edu	HOME	303/883-6065
+TYL	6001284073	1	Shariful	Huq	104200	Civil Engineering	"Engineering, Athletics, Marketing"	10011	Lecturer	1	FA1	BUSN	SHUQ@UTTYLER.EDU	HOME	713/598-5129
+TYL	6001271773	0	Kirsten	Penberthy	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18620	Marketing Coordinator	1	CL	BUSN	KPENBERTHY@UTTYLER.EDU	CELL	314/808-7601
+TYL	5000406699	0	Cayla	Ward	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18620	Marketing Coordinator	1	CL	BUSN	caylaward@uttyler.edu	HOME	903/530-9470
+TYL	6001284407	0	Stephen	Myers	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18624	Media Production Coordinator	1	CL	HOME	STEVOXMYERS@GMAIL.COM	HOME	469/371-2409
+TYL	1001535129	0	Seyed Mohammad Ali	Ghorshi	104300	Electrical Engineering	"Engineering, Athletics, Marketing"	10012	Sr Lecturer	1	FA1	BUSN	SGHORSHI@UTTYLER.EDU	HOME	312/468-9025
+TYL	6001254450	0	Samantha	Cockrell	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	HOME	SCOCKRELL824@GMAIL.COM	CELL	330/651-4040
+TYL	5000433722	0	Alyssa	Finley	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	HOME	ALYSSAFINLEY14@GMAIL.COM	HOME	903/617-4141
+TYL	5000022252	0	Pam	Hudgins	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	BUSN	phudgins@uttyler.edu	CELL	903/790-0131
+TYL	5000015457	0	Nicholas	Lindsay	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	BUSN	nlindsay@uttyler.edu	CELL	903/930-1327
+TYL	6001211257	0	Elizabeth	Lucas	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	BUSN	ELucas@uttyler.edu	CELL	405/651-0294
+TYL	6001172702	0	Mark	Tiller	116400	Financial Aid	"Engineering, Athletics, Marketing"	13047	Student Financial Aid Officer	1	CL	BUSN	MTiller@uttyler.edu	HOME	214/930-1160
+TYL	5000362348	0	Jonathan	Mcswain	116600	Marketing and Communications	"Engineering, Athletics, Marketing"	18623	Video Producer	1	CL	BUSN	jmcswain@uttyler.edu	HOME	903/368-0744
+TYL	6001116678	1	Bradley	Brazill	106100	College of Pharmacy	"Pharmacy, Student Success"	10032	Clinical Assoc Professor	0.0003	FA1	BUSN	bbrazill@uttyler.edu	HOME	530/219-1440
+TYL	5000423383	0	David	Cox	106100	College of Pharmacy	"Pharmacy, Student Success"	10013	Adjunct Lecturer	0.1333	FA2	HOME	PCOX@UTTYLER.EDU	HOME	903/881-6500
+TYL	5000033936	0	Shlene	Eli	122300	Student Services	"Pharmacy, Student Success"	19071	Clerk	0.4875	CLN	BUSN	seli@uttyler.edu	HOME	903/266-0933
+TYL	6001271005	0	Tracy	Walker	122300	Student Services	"Pharmacy, Student Success"	11257	Interpreter - Hourly	0.4875	CLN	HOME	WALKERTERP@YAHOO.COM	HOME	903/920-3765
+TYL	5000408011	0	Morgan	Leever	122100	Student Affairs	"Pharmacy, Student Success"	19041	Administrative Asst II - Month	1	CL	BUSN	mleever@uttyler.edu	HOME	682/704-0399
+TYL	6001270554	0	Carolyn	Nanni	115600	Student Business Services	"Pharmacy, Student Success"	19041	Administrative Asst II - Month	1	CL	HOME	CJNANNI22@YAHOO.COM	CELL	903/530-1495
+TYL	6001222757	0	Ashley	Summerford	115600	Student Business Services	"Pharmacy, Student Success"	19041	Administrative Asst II - Month	1	CL	BUSN	ASummerford@uttyler.edu	CELL	662/891-3063
+TYL	5000078173	0	Tanya	Showen	122300	Student Services	"Pharmacy, Student Success"	19040	Administrative Asst III	1	CL	BUSN	tshowen@uttyler.edu	CELL	903/312-9679
+TYL	6001254058	0	Katie	Taylor	114300	Residence Life	"Pharmacy, Student Success"	19040	Administrative Asst III	1	CL	BUSN	KATIETAYLOR@UTTYLER.EDU	CELL	903/790-1124
+TYL	5000120815	0	Tessa	Wilson	106100	College of Pharmacy	"Pharmacy, Student Success"	19006	Administrative Srv Officer	1	CL	BUSN	twilson@uttyler.edu	CELL	903/330-5462
+TYL	5000097204	0	Cindy	Lowery	122300	Student Services	"Pharmacy, Student Success"	19152	Assistant Director	1	CL	BUSN	clowery@uttyler.edu	CELL	903/279-3522
+TYL	6001243852	0	David	Romerill	106100	College of Pharmacy	"Pharmacy, Student Success"	10236	Assoc Dean / Instruction	1	AP	BUSN	DRomerill@uttyler.edu	HOME	317/502-3056
+TYL	6001218028	0	Joseph	Glavy	106100	College of Pharmacy	"Pharmacy, Student Success"	10008	Assoc Professor	1	FA1	BUSN	JGlavy@uttyler.edu	BUSN	917/558-3347
+TYL	6001271840	0	Ayman	Hamouda	106100	College of Pharmacy	"Pharmacy, Student Success"	10008	Assoc Professor	1	FA1	BUSN	AHAMOUDA@UTTYLER.EDU	HOME	339/203-7541
+TYL	6001130319	0	Leanne	Merritt	106100	College of Pharmacy	"Pharmacy, Student Success"	10008	Assoc Professor	1	FA1	BUSN	lcoyne@uttyler.edu	HOME	209/955-6991
+TYL	6001157783	0	Michael	Veronin	106100	College of Pharmacy	"Pharmacy, Student Success"	10008	Assoc Professor	1	FA1	BUSN	mveronin@uttyler.edu	HOME	361/232-2281
+TYL	6001222580	0	May	Abdelaziz	106100	College of Pharmacy	"Pharmacy, Student Success"	10009	Asst Professor	1	FA1	BUSN	MAbdelaziz@uttyler.edu	CELL	415/881-0139
+TYL	5000358411	0	Natalie	Cooper	101310	Communication - Publications	"Pharmacy, Student Success"	19814	Bus Cord	1	CL	BUSN	ncooper@uttyler.edu	CELL	903/746-0299
+TYL	6001222890	0	Jonathan	Newsome	106100	College of Pharmacy	"Pharmacy, Student Success"	10032	Clinical Assoc Professor	1	FA1	BUSN	JonathanNewsome@uttyler.edu	CELL	832/236-9320
+TYL	6001223102	0	Elizabeth	Cook	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	BUSN	ECook@uttyler.edu	HOME	607/321-5042
+TYL	6001281744	0	Norman	Fenn	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	HOME	NFENN@UTTYLER.EDU	CELL	303/641-9602
+TYL	6001222882	0	Karen	Ratekin	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	BUSN	KRatekin@uttyler.edu	CELL	903/316-9040
+TYL	6001281960	0	Justin	Reinert	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	HOME	JREINERT@UTTYLER.EDU	HOME	484/332-7002
+TYL	6001213174	0	Kawanda	Williams	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	BUSN	KawandaWilliams@uttyler.edu	HOME	318/288-3432
+TYL	6001281857	0	Tianrui	Yang	106100	College of Pharmacy	"Pharmacy, Student Success"	10033	Clinical Asst Professor	1	FA1	HOME	YCINDY1026@GMAIL.COM	HOME	832/367-9112
+TYL	6001284183	0	Winter	Smith	106100	College of Pharmacy	"Pharmacy, Student Success"	10034	Clinical Professor	1	FA1	CAMP	WSMITH@UTTYLER.EDU	HOME	405/464-3050
+TYL	5000116684	0	Christina	McQuigg	115600	Student Business Services	"Pharmacy, Student Success"	19177	Collections Clerk - 10036950	1	CL	BUSN	ChristinaMcquigg@uttyler.edu	CELL	903/805-2428
+TYL	5000419127	0	Kayla	Christiansen	115600	Student Business Services	"Pharmacy, Student Success"	19178	Collections Officer	1	CL	BUSN	kchristiansen@uttyler.edu	CELL	903/530-3365
+TYL	6001045561	1	Ashleigh	Dinkins	122100	Student Affairs	"Pharmacy, Student Success"	13120	Conference & Camp Coord	1	CL	BUSN	Ashleigh.Dinkins@utsa.edu	HOME	210/870-0159
+TYL	5000359694	0	Patty	Bell	106100	College of Pharmacy	"Pharmacy, Student Success"	13112	Coordinator	1	CL	BUSN	pbell@uttyler.edu	CELL	903/987-4230
+TYL	5000013051	0	Sonja	Warren	122300	Student Services	"Pharmacy, Student Success"	13108	Cord  Testing Srv	1	CL	HOME	SONJAWARREN1985@GMAIL.COM	HOME	903/570-3097
+TYL	5000037830	0	Jodi	Bane	122300	Student Services	"Pharmacy, Student Success"	11579	Counselor	1	CL	BUSN	JALEXANDER8806@GMAIL.COM	HOME	903/780-4488
+TYL	5000116458	0	Jahn	Quattlebaum	122300	Student Services	"Pharmacy, Student Success"	11579	Counselor	1	CL	BUSN	jquattlebaum@uttyler.edu	BUSN	903/565-5513
+TYL	5000066448	0	Kimber	Harvey-Livingston	122300	Student Services	"Pharmacy, Student Success"	10226	Dean	1	AP	BUSN	klivingston@uttyler.edu	HOME	903/780-3260
+TYL	6001142515	0	Jennifer	Waters	114300	Residence Life	"Pharmacy, Student Success"	10552	Director	1	AP	BUSN	jwaters@uttyler.edu	CELL	936/585-2700
+TYL	6001155593	0	Joshua	Neaves	122500	Student Life and Leadership	"Pharmacy, Student Success"	13601	"Director, Stdt Engage/Exp Lear"	1	AP	BUSN	jneaves@uttyler.edu	CELL	254/592-3983
+TYL	5000067675	0	Ashley	Davis	122300	Student Services	"Pharmacy, Student Success"	11578	Disability Srv Case Mgr	1	CL	HOME	ASHLEYE.DAVIS@YAHOO.COM	HOME	972.989.5127
+TYL	6001196186	0	Demetrius	Jett	114300	Residence Life	"Pharmacy, Student Success"	15314	Hvac Techn	1	CL	BUSN	DJett@uttyler.edu	CELL	903/539-9931
+TYL	6001139755	0	Thayer	Merritt	106100	College of Pharmacy	"Pharmacy, Student Success"	19307	Information Technology Cord II	1	CL	BUSN	tmerritt@uttyler.edu	CELL	916/241-3491
+TYL	6001102294	0	Benjamin	Jordan	106192	Pharmacy -JGlavy	"Pharmacy, Student Success"	14441	Lab Techn	1	CL	BUSN	BJordan@uttyler.edu	BUSN	903/920-1991
+TYL	6001206092	0	John	Fulmer	114300	Residence Life	"Pharmacy, Student Success"	15289	Maintenance Worker II	1	CL	BUSN	JFulmer@uttyler.edu	CELL	903/570-4213
+TYL	6001217642	0	Ryan	Lanchester	114300	Residence Life	"Pharmacy, Student Success"	15289	Maintenance Worker II	1	CL	BUSN	RLanchester@uttyler.edu	CELL	903/279-6816
+TYL	6001284182	0	Jessica	Farese	114300	Residence Life	"Pharmacy, Student Success"	13068	Residence Coord I	1	CL	HOME	JESSIEFARESE@GMAIL.COM	HOME	732/850-5350
+TYL	5000397971	0	Nicholas	Ruth	114300	Residence Life	"Pharmacy, Student Success"	13068	Residence Coord I	1	CL	BUSN	nruth@uttyler.edu	HOME	281/312-1148
+TYL	6001281711	0	Shanese	Williams	114300	Residence Life	"Pharmacy, Student Success"	13068	Residence Coord I	1	CL	HOME	SHANESETAMAR@HOTMAIL.COM	HOME	516/444-2928
+TYL	6001223521	0	Quaderic	Howard	114300	Residence Life	"Pharmacy, Student Success"	13070	Residence Coordinator II	1	CL	BUSN	QHoward@uttyler.edu	CELL	832/752-9291
+TYL	6001278290	0	Farah	Deba	106100	College of Pharmacy	"Pharmacy, Student Success"	14407	Sr Research Associate	1	CL	BUSN	FDEBA@UTTYLER.EDU		
+TYL	5000437417	0	Michael	Marlow	122300	Student Services	"Pharmacy, Student Success"	13052	Student Development Spec I	1	CL	BUSN	mmarlow@uttyler.edu	HOME	903/374-5914
+TYL	5000420195	0	Shawn	Rogers	122100	Student Affairs	"Pharmacy, Student Success"	13052	Student Development Spec I	1	CL	BUSN	shawnrogers@uttyler.edu	CELL	903/508-8576
+TYL	6001166206	0	Dana	Simmons	122400	Student Life	"Pharmacy, Student Success"	13052	Student Development Spec I	1	CL	BUSN	dsimmons@uttyler.edu	CELL	479/427-1224
+TYL	6001285806	0	Robert	Smith	122100	Student Affairs	"Pharmacy, Student Success"	13051	Student Development Spec II	1	CL	CAMP	ROBERTSMITH@UTTYLER.EDU	HOME	814/572-8030
+TYL	6001165762	0	Camry	Tharp	122500	Student Life and Leadership	"Pharmacy, Student Success"	13051	Student Development Spec II	1	CL	BUSN	cfarhat@uttyler.edu	CELL	214/462-0077
+TYL	5000358741	0	Erica	Chase	106100	College of Pharmacy	"Pharmacy, Student Success"	14430	"Supvsr, Lab Tech Srv"	1	CL	BUSN	echase@uttyler.edu	CELL	530/353-7133
+TYL	6001162415	0	Blake	Bumbard	114700	Title IX	"Pharmacy, Student Success"	13114	Title IX Coordinator	1	CL	BUSN	bbumbard@uttyler.edu	CELL	214/675-7593
+TYL	5000103900	0	Elizabeth	Caulkins	114700	Title IX	"Pharmacy, Student Success"	13115	Title IX Investigator	1	CL	BUSN	ecaulkins@uttyler.edu	HOME	903/521-8596
+TYL	6001272088	0	Randall	Holland	123300	Cowan Fine Arts Center	President	19005	Business Mgr - Performing Arts	1	CL	BUSN	RHOLLAND@UTTYLER.EDU	HOME	903/812-1248
+TYL	5000115947	0	Elizabeth	Hutson	123300	Cowan Fine Arts Center	President	18373	Coordinator of Patron Services	1	CL	BUSN	EHutson@uttyler.edu	CELL	903/724-6991
+TYL	5000032745	0	Mike	Stephens	123300	Cowan Fine Arts Center	President	18360	Technical Srv Mgr	1	CL	BUSN	MStephens@uttyler.edu	CELL	214/906-0852
+TYL	6001130943	2	Jennifer	Parsons	111800	PATSS	Provost and University Academy	10043	Alt Assigmt - Dept	0	FA2	BUSN	jparsons@uttyler.edu	CELL	325/650-0657
+TYL	5000103146	0	Sandra	Hunt	111500	Longview University Center	Provost and University Academy	19096	Clerical Asst	0.4875	CLN	BUSN	shunt@uttyler.edu	CELL	903/932-0999
+TYL	6001253907	0	Maristela	Andrade Clayton	103320	English Language Institute	Provost and University Academy	18112	Inst. & Eval Sup Spec - Hourly	0.4875	CLN	HOME	MACLAYTON53@YAHOO.COM	HOME	903/346-0723
+TYL	5000117562	0	Daniel	Hawley	111500	Longview University Center	Provost and University Academy	14316	Technical Staff Asst	0.4875	CLN	BUSN	dhawley@uttyler.edu	HOME	903/236-8489
+TYL	5000117779	0	Lynne	Martin	111500	Longview University Center	Provost and University Academy	14316	Technical Staff Asst	0.4875	CLN	BUSN	lmartin@uttyler.edu	HOME	903/295-8593
+TYL	5000117820	0	Bobbie	Reliford	111500	Longview University Center	Provost and University Academy	14316	Technical Staff Asst	0.4875	CLN	BUSN	breliford@uttyler.edu	HOME	903/663-1689
+TYL	6001283843	0	K'Lin	Noble	111700	Honors Program	Provost and University Academy	19041	Administrative Asst II - Month	0.5	CL	CAMP	KNOBLE@UTTYLER.EDU	CAMP	903/566-7482
+TYL	6001157053	0	Meghan	Aldredge	124200	University Academy	Provost and University Academy	10054	School Teacher	0.5	FA2	BUSN	maldredge@uttyler.edu	HOME	903/930-0203
+TYL	5000107034	0	Loni	Kinsey	124200	University Academy	Provost and University Academy	10054	School Teacher	0.5	FA2	BUSN	lkinsey@uttyler.edu	BUSN	903/312-3446
+TYL	6001136595	0	Linda	Butler	124200	Innovation Academy	Provost and University Academy	19006	Administrative Srv Officer	0.75	CL	BUSN	lbutler@uttyler.edu	CELL	719/580-5483
+TYL	5000042582	0	Cori	Mackey	124200	University Academy	Provost and University Academy	11055	Head School Nurse - RN -PT	0.75	FA2	BUSN	cmackey@uttyler.edu	HOME	903/253-6036
+TYL	5000010884	0	Jennifer	Simmons	120100	Library	Provost and University Academy	18070	Library Asst II	0.75	CL	BUSN	JENNIFERSIMMONS@UTTYLER.EDU	HOME	903/504-4172
+TYL	6001099077	0	Amelia	Duran	111200	Assessment & Instit Eff	Provost and University Academy	19020	Administrative Assoc	1	CL	BUSN	AMCCALISTER@UTTYLER.EDU	HOME	903/721-1020
+TYL	8000067201	0	Lindsay	James	112000	University College	Provost and University Academy	19020	Administrative Assoc	1	CL	BUSN	LJames@uttyler.edu	CELL	903/331-2323
+TYL	5000423283	0	Zachary	Adams	124300	Discovery Science Place	Provost and University Academy	19041	Administrative Asst II - Month	1	CL	BUSN	zadams@uttyler.edu	CELL	903/243-6433
+TYL	6001204051	0	Kerry	Bonilla	124200	Innovation Academy	Provost and University Academy	19041	Administrative Asst II - Month	1	CL	BUSN	KBonilla@uttyler.edu	OTR	903/216-8315
+TYL	6001160593	0	Amanda	Whitt	124200	Innovation Academy	Provost and University Academy	19041	Administrative Asst II - Month	1	CL	BUSN	awhitt@uttyler.edu	CELL	903/360-0701
+TYL	6001125586	0	Jennifer	Williamson	124200	Innovation Academy	Provost and University Academy	19041	Administrative Asst II - Month	1	CL	BUSN	jenniferwilliamson@uttyler.edu	HOME	903/530-0257
+TYL	5000417208	0	Amy	Curry	124300	Discovery Science Place	Provost and University Academy	19073	Clerk M	1	CL	BUSN	acurry@uttyler.edu	HOME	903/878-7577
+TYL	6001200144	0	Katherine	Hellmann	111700	Honors Program	Provost and University Academy	13112	Coordinator	1	CL	BUSN	KHellmann@uttyler.edu	HOME	952/818-2191
+TYL	6001213374	0	Jennifer	Bell	113500	Office of Digital Learning	Provost and University Academy	15328	Ed Tech Support Spec	1	CL	BUSN	JenniferBell@uttyler.edu	CELL	903/275-9679
+TYL	5000097799	0	Brittany	Folden	113500	Office of Digital Learning	Provost and University Academy	15328	Ed Tech Support Spec	1	CL	BUSN	BFolden@uttyler.edu	CELL	903/752-3144
+TYL	6001213436	0	Ernesto	Stepter	113500	Office of Digital Learning	Provost and University Academy	15328	Ed Tech Support Spec	1	CL	BUSN	EStepter@uttyler.edu	CELL	414/732-5523
+TYL	5000106636	0	Christian	Chesnut	124200	Innovation Academy	Provost and University Academy	19185	Financial Reports Mgr	1	CL	BUSN	CMoist@uttyler.edu	HOME	903/217-3580
+TYL	5000052461	0	Latresa	Jackson-Hawkins	124300	Discovery Science Place	Provost and University Academy	19043	Grant Cord	1	CL	BUSN	ljackson@uttyler.edu	HOME	903/539-1020
+TYL	6001110407	0	Kay	Jenkins	111400	Ofc of Research & TechTransfer	Provost and University Academy	19055	Grant Writer	1	CL	HOME	KAY-JENKINS@SBCGLOBAL.NET	HOME	361/790-6092
+TYL	5000086669	0	Kathy	Parker	124200	University Academy	Provost and University Academy	11583	Guidance Counselor/High School	1	CL	BUSN	KathyParker@uttyler.edu	HOME	903/839-6097
+TYL	6001244282	0	Brian	Head	112100	Academic Success	Provost and University Academy	19348	Info Analyst	1	CL	BUSN	BHead@uttyler.edu	BUSN	919/623-9342
+TYL	6001126546	0	Gay	Kato	103320	English Language Institute	Provost and University Academy	18111	Instruct & Eval Support Spec	1	CL	BUSN	gkato@uttyler.edu	CELL	903/920-4726
+TYL	5000117736	0	Jana	Roman	113500	Office of Digital Learning	Provost and University Academy	18108	Instructional Designer II	1	CL	BUSN	jroman@uttyler.edu	CELL	903/253-8070
+TYL	5000093904	0	Aimee	Dennis	124200	Innovation Academy	Provost and University Academy	10214	Instructional Leader	1	AP	BUSN	adennis@uttyler.edu	CELL	903/985-3233
+TYL	5000104099	0	Rachel	Hawkins	124200	Innovation Academy	Provost and University Academy	10214	Instructional Leader	1	AP	BUSN	rhawkins@uttyler.edu	CELL	903/407-5457
+TYL	6001156368	0	Margaret	Morgan	136700	Office International Programs	Provost and University Academy	13065	International Advisor II	1	CL	BUSN	mmorgan@uttyler.edu	CELL	972/415-9224
+TYL	6001219519	0	Torrey	Wang	136700	Office International Programs	Provost and University Academy	13065	International Advisor II	1	CL	BUSN	TWang@uttyler.edu	CELL	574/404-1442
+TYL	6001209828	0	Geoff	Doepker	120100	Library	Provost and University Academy	18070	Library Asst II	1	CL	BUSN	GeoffDoepker@uttyler.edu	CELL	229/563-1127
+TYL	5000383831	0	Wilson	DeWoody	113500	Office of Digital Learning	Provost and University Academy	19316	LMS Administrator	1	CL	BUSN	wdewoody@uttyler.edu	CELL	903/767-0076
+TYL	6001199720	0	Juan	Cabrera	124200	Innovation Academy	Provost and University Academy	15289	Maintenance Worker II	1	CL	BUSN	JCabrera@uttyler.edu	HOME	903/316-3956
+TYL	6001166349	0	Suzanne	Abbey	120100	Library	Provost and University Academy	10080	Professional Librarian	1	AP	BUSN	sabbey@uttyler.edu	CELL	214 8024187
+TYL	6001205254	0	Christine	Forisha	120100	Library	Provost and University Academy	10080	Professional Librarian	1	AP	BUSN	CForisha@uttyler.edu	CELL	832/428-1142
+TYL	5000395878	0	Terra	Gullings	120100	Library	Provost and University Academy	10080	Professional Librarian	1	AP	BUSN	tbianchi@uttyler.edu	HOME	281/740-5989
+TYL	6001161891	0	Sarah	Norrell	120100	Library	Provost and University Academy	10080	Professional Librarian	1	AP	BUSN	snorrell@uttyler.edu	CELL	903/340-4419
+TYL	6001097583	0	Rachaelle	Browning	116500	Registrar	Provost and University Academy	19023	Records Specialist	1	CL	CAMP	RBROWNING@UTTYLER.EDU	HOME	903/340-1739
+TYL	6001196582	0	Catherine	Salinas	116500	Registrar	Provost and University Academy	19023	Records Specialist	1	CL	BUSN	CSalinas@uttyler.edu	CELL	432/853-0172
+TYL	5000074455	0	Morgan	Birdwell	124200	University Academy	Provost and University Academy	19053	School Aide	1	FA2	BUSN	MBirdwell@uttyler.edu	OTR	903/922-4939
+TYL	6001283748	0	Allison	Freeman	124200	University Academy	Provost and University Academy	19053	School Aide	1	CL	HOME	ADFREEMAN0909@GMAIL.COM	HOME	903/373-1680
+TYL	6001161892	0	Rica	Payton	124200	University Academy	Provost and University Academy	19053	School Aide	1	FA2	BUSN	rpayton@uttyler.edu	CELL	903/291-8814
+TYL	6001283750	0	Nicole	Arnold	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	HOME	NICOLEARNOLD76@YAHOO.COM	HOME	903/720-9982
+TYL	6001223255	0	Jamie	Atchley	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JAtchley@uttyler.edu	HOME	903/724-8901
+TYL	5000027601	0	Karen	Buckland	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	kbuckland@uttyler.edu	CELL	903/724-9502
+TYL	6001155954	0	Jaime	Burke Hicks	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	jburke@uttyler.edu	HOME	903/472-8679
+TYL	6001283755	0	Julie	Canales	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	JCANALESINTX@GMAIL.COM	HOME	903/431-7817
+TYL	6001159346	0	Jordan	Carns	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	jcarns@uttyler.edu	HOME	520/895-9443
+TYL	6001162416	0	Kayla	Clark	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	kaylaclark@uttyler.edu	HOME	903/452-3853
+TYL	5000438689	0	Jessie	English	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	ENGLISHJME@GMAIL.COM	HOME	903/353-6662
+TYL	5000391573	0	Sarah	Evans	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	sevans@uttyler.edu	CELL	903/235-7253
+TYL	5000020000	0	Kristian	Fischer	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	FISCHER.KRISTIAN.E@GMAIL.COM	HOME	903/253-2855
+TYL	5000099576	0	Jonathan	Gray	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	JCGRAY78@YAHOO.COM	HOME	903/241-2540
+TYL	5000040119	0	Nicole	Hart	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	nwebb@uttyler.edu	HOME	903/720-9211
+TYL	6001284071	0	Ashlee	Hazelbaker	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	MELEAHADAILY@GMAIL.COM	HOME	903/570-4153
+TYL	6001157604	0	Hollie	Hogan	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	hhogan@uttyler.edu	HOME	903/241-8818
+TYL	5000087697	0	Mary	Howell	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	MHowell@uttyler.edu	HOME	903/780-2185
+TYL	5000437221	0	Staci	Kilsby	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	SKILSBY@UTTIA.ORG	HOME	903/590-6293
+TYL	6001244191	0	Lauren	Kraus	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	LaurenKraus@uttyler.edu	HOME	903/452-4686
+TYL	6001109370	0	Lanette	Lanchester	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	LLanchester@uttyler.edu	HOME	903/747-2597
+TYL	6001223253	0	Leanne	Lewis	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	LeanneLewis@uttyler.edu	HOME	903/352-1064
+TYL	5000366185	0	Jenna	Long	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JLong@uttyler.edu	HOME	903/780-5384
+TYL	6001220066	0	Paige	Marley	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	PMarley@uttyler.edu	BUSN	832/622-3088
+TYL	6001283745	0	Heather	McCullin	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	HAMCCULLIN@GMAIL.COM	HOME	817/718-6409
+TYL	5000019351	0	Jenny	McDonald	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JMcdonald@uttyler.edu	HOME	903/723-9180
+TYL	6001162929	0	Jason	McGregor	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JmcGregor@uttyler.edu	CELL	903/241-5872
+TYL	5000074964	0	Rachel	Mcdaniel	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	rmcdaniel@uttyler.edu	HOME	903/355-0072
+TYL	6001223328	0	Jennifer	Mitchell	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JenniferMitchell@uttyler.edu	HOME	903/407-1332
+TYL	5000054831	0	Jill	Newsome	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	JNewsome@uttyler.edu	HOME	903/570-0642
+TYL	6001223254	0	Shelly	Parsons	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	SParsons@uttyler.edu	HOME	903/948-5554
+TYL	6001283747	0	Patadora	Sams	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	PSAMS@UTTIA.ORG	HOME	903/714-8961
+TYL	6001086919	0	Rachel	Schulik	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	RSchulik@uttyler.edu	HOME	903/235-4747
+TYL	6001283746	0	Christi	Smith	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	TOBESTRONG2017@GMAIL.COM	HOME	469/374-4984
+TYL	6001283754	0	Rae Lynn	Sutsch	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	RSUTSCH@ATT.NET	HOME	903/954-1372
+TYL	6001223256	0	Samantha	Swanson	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	SSwanson@uttyler.edu	HOME	903/747-0979
+TYL	6001223433	0	Sara	Teichgraeber	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	STeichgraeber@uttyler.edu	HOME	903/617-6351
+TYL	5000406007	0	Chandra	Tucker	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	DATJAT30@HOTMAIL.COM	HOME	940/390-7000
+TYL	5000360537	0	Oscar	Urieta Albarran	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	OUrietaAlbarran@uttyler.edu	HOME	903/574-1664
+TYL	6001243967	0	Aki	Vanbuskirk	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	AVanbuskirk@uttyler.edu	HOME	903/581-7453
+TYL	5000430038	0	Michael	Vogt	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	mvogt@uttyler.edu	HOME	903/603-5783
+TYL	5000361248	0	Emily	Wood	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA1	BUSN	ewood@uttyler.edu	CELL	903/521-0089
+TYL	5000046394	0	Natalie	Woods	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	BUSN	njames@uttyler.edu	HOME	903/720-4326
+TYL	6001283749	0	Kazia	Wren	124200	University Academy	Provost and University Academy	10054	School Teacher	1	FA2	HOME	KAZIAWREN@GMAIL.COM	HOME	903/738-4314
+TYL	6001115389	0	Jahir	Sanchez	124300	Discovery Science Place	Provost and University Academy	18334	Shop and Maintenance Asst	1	CL	BUSN	jahirsanchez@uttyler.edu	HOME	903/245-3031
+TYL	5000034286	0	Chelsea	Nardozza	124200	University Academy	Provost and University Academy	13103	Special Education Coord	1	FA2	BUSN	CNardozza@uttyler.edu	HOME	903/570-5666
+TYL	5000044224	0	Pamela	Beall	116500	Registrar	Provost and University Academy	19063	Special Programs Manager	1	CL	BUSN	PBEALL@UTTYLER.EDU	CELL	903/752-3252
+TYL	5000417221	0	Paul	Parchert	116500	Registrar	Provost and University Academy	19063	Special Programs Manager	1	CL	BUSN	pparchert@uttyler.edu	HOME	414/801-2554
+TYL	6001285790	0	Kimberly	Tucker	116500	Registrar	Provost and University Academy	19063	Special Programs Manager	1	CL	HOME	KIMBERLYGTUCKER80@GMAIL.COM	HOME	903/245-0584
+TYL	6001129595	0	Rachel	Evans	103320	English Language Institute	Provost and University Academy	13052	Student Development Spec I	1	CL	BUSN	revans@uttyler.edu	HOME	903.316.8125
+TYL	5000418854	0	Sean	Winters	124100	University Academy	Provost and University Academy	19335	Support Analyst I	1	CL	BUSN	swinters@uttyler.edu	HOME	903/423-7156
+TYL	5000365564	0	Dianna	Wrinkle	121100	Physical Plant	Soules and Operations	A004	Employee Contractor	0.0003	POI				
+TYL	5000079603	0	Paula	Anthony-McMann	104500	Computer Science	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	PAnthonyMcMann@uttyler.edu	BUSN	903/360-7676
+TYL	5000119820	0	Afton	Barber	102400	Management & Marketing	Soules and Operations	10013	Adjunct Lecturer	0.2	FA3	BUSN	abarber@uttyler.edu	HOME	903/721-9020
+TYL	5000379648	0	Christian	Bushardt	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	HOME	CBUSHARDT@UTTYLER.EDU	HOME	601/466-2219
+TYL	5000012303	0	Sharon	Cathcart	104500	Computer Science	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	SCathcart@uttyler.edu	HOME	903/894-6330
+TYL	5000008359	1	Terry	Cowan	102500	Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	tcowan@uttyler.edu	HOME	903/581-2238
+TYL	5000028368	0	Randell	Farley	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	HOME	RFARLEY2@PATRIOTS.UTTYLER.EDU	HOME	903/253-4902
+TYL	5000012149	1	Michael	Henderson	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	mhenderson@uttyler.edu	CELL	903/283-0211
+TYL	5000385837	0	Samuel	Kaemmerling	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	skaemmerling@uttyler.edu	HOME	936/632-0460
+TYL	5000063957	0	Traci	Kenner	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	HOME	TRACI.KENNER@YAHOO.COM	HOME	903.539.6157
+TYL	5000017245	0	Joshua	Leamons	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	jleamons@uttyler.edu	BUSN	806/252-9810
+TYL	5000386240	0	Jason	Mazingo	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.2	FA2	BUSN	jmazingo@uttyler.edu	HOME	903/445-7357
+TYL	6001122419	1	Kimmy	Nimon	102300	HR Development	Soules and Operations	10043	Alt Assigmt - Dept	0.25	FA1	BUSN	knimon@uttyler.edu	HOME	214/675-4872
+TYL	5000416505	1	Venugopal	Gopalakrishna Remani	102400	Management & Marketing	Soules and Operations	10046	Alt Assigmt - Ind Research	0.25	FA1	BUSN	venugopal@uttyler.edu	HOME	330/289-4055
+TYL	5000039062	0	Debra	Blain	115500	University Police	Soules and Operations	16348	Communications Operator	0.25	CLN	BUSN	DebraBlain@uttyler.edu	CELL	903/539-1909
+TYL	5000037009	0	Elisabeth	Carr	115500	University Police	Soules and Operations	16348	Communications Operator	0.25	CLN	BUSN	epeden@uttyler.edu	HOME	903/352-4495
+TYL	5000062766	4	Kerrie Anne	Clark	102100	Dean - Business & Technology	Soules and Operations	10551	Executive Director	0.3685	AP	BUSN	KAClark@uttyler.edu	HOME	512/731-3215
+TYL	5000438700	0	Bryn	Brown	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.4	FA1	BUSN	BBrown@uttyler.edu	BUSN	817/586-9398
+TYL	6001087869	0	John	Connolly II	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.4	FA2	HOME	JCONNOLLY@PATRIOTS.UTTYLER.EDU	BUSN	805/458-4987
+TYL	6001197842	0	Christopher	Shaw	102200	"Accounting, Finance & B Law"	Soules and Operations	10013	Adjunct Lecturer	0.4	FA2	BUSN	CShaw@uttyler.edu	BUSN	903/618-9083
+TYL	5000013814	0	Kristen	Stovall	102100	Dean - Business & Technology	Soules and Operations	10013	Adjunct Lecturer	0.4	FA2	HOME	KRISTEN.STOVALL@TVCC.EDU	HOME	903/566-7310
+TYL	6001213433	0	Darrien	Robinson	115500	University Police	Soules and Operations	16347	"Guard, University Police"	0.4875	CL	BUSN	DarrienRobinson@uttyler.edu	CELL	903/353-6994
+TYL	5000380734	0	Charles	Steen	115500	University Police	Soules and Operations	16347	"Guard, University Police"	0.4875	CLN	BUSN	CSteen@uttyler.edu	HOME	903/724-4039
+TYL	6001200570	0	Terence	Johnson	121200	Building Maintenance	Soules and Operations	15290	Maintenance Worker I	0.4875	CL	BUSN	TerenceJohnson@uttyler.edu	CELL	214/205-3369
+TYL	6001143549	0	Roger	Henry	115500	University Police	Soules and Operations	16337	Police Officer	0.4875	CLN	BUSN	rhenry@uttyler.edu	HOME	903/245-2943
+TYL	6001089045	0	Unisha	Maskey	102400	Management & Marketing	Soules and Operations	14419	Research Asst - Hourly	0.4875	CLN	BUSN	umaskey@uttyler.edu	CELL	903/258-4450
+TYL	6001136538	1	Hui	Liang	102100	Dean - Business & Technology	Soules and Operations	10009	Asst Professor	0.5	FA1	BUSN	hjames@uttyler.edu	HOME	830/328-0266
+TYL	5000119862	0	Ada	Bravo	102100	Dean - Business & Technology	Soules and Operations	13088	Academic Advisor I	1	CL	BUSN	ABravo@uttyler.edu	CELL	903/312-9476
+TYL	5000094852	0	Amanda	Watkins	102100	Dean - Business & Technology	Soules and Operations	13085	Academic Advisor III	1	CL	BUSN	AWatkins@uttyler.edu	CELL	979/204-8186
+TYL	5000363791	0	RaeJean	Griffin	102400	Management & Marketing	Soules and Operations	19020	Administrative Assoc	1	CL	BUSN	RGriffin@uttyler.edu	BUSN	903/565-5585
+TYL	5000030747	0	Johnna	Thedford	115500	University Police	Soules and Operations	19020	Administrative Assoc	1	CL	BUSN	jthedford@uttyler.edu	CELL	903/521-3685
+TYL	5000024798	0	Rosalinda	Edwards	114400	Copy Center	Soules and Operations	19041	Administrative Asst II - Month	1	CL	BUSN	redwards@uttyler.edu	HOME	903/372-3915
+TYL	6001222480	0	Jeffrey	Lindenmoyer	104500	Computer Science	Soules and Operations	19041	Administrative Asst II - Month	1	CL	BUSN	JLindenmoyer@uttyler.edu	CELL	904/716-5311
+TYL	5000361956	0	Jacqueline	Richardson	102200	"Accounting, Finance & B Law"	Soules and Operations	19041	Administrative Asst II - Month	1	CL	BUSN	jrichardson@uttyler.edu	CELL	409/789-1557
+TYL	6001120375	0	Kyung-Ah	Byun	102400	Management & Marketing	Soules and Operations	10009	Asst Professor	1	FA1	BUSN	kbyun@uttyler.edu	BUSN	319/321-2197
+TYL	6001155821	0	Shirl	Donaldson	102500	Technology	Soules and Operations	10009	Asst Professor	1	FA1	BUSN	sdonaldson@uttyler.edu	HOME	765/426-7143
+TYL	6001278362	0	David	Hull	104500	Computer Science	Soules and Operations	10009	Asst Professor	1	FA1	BUSN	DHULL@UTTYLER.EDU	HOME	913/660-8379
+TYL	6001282727	0	Jordan	Ratliff	115500	University Police	Soules and Operations	13101	Campus Park and Transp Coord	1	CL	HOME	JORDAN.RATLIFFVS@GMAIL.COM	HOME	903/752-0709
+TYL	6001112254	0	Halley	Graham	102100	Dean - Business & Technology	Soules and Operations	14503	College Assessment Coordinator	1	CL	BUSN	HGraham@uttyler.edu	BUSN	832/689-8172
+TYL	6001157646	0	Natalie	Goodall	115500	University Police	Soules and Operations	16345	Communications Operator	1	CL	BUSN	nboggs@uttyler.edu	CELL	903/539-0559
+TYL	6001285548	0	Mary	Perez	115500	University Police	Soules and Operations	16345	Communications Operator	1	CL	HOME	BETHWRIGHT688@GMAIL.COM	HOME	903/343-4612
+TYL	5000370680	0	Zachary	Speer	115500	University Police	Soules and Operations	16345	Communications Operator	1	CL	BUSN	ZSpeer@uttyler.edu	CELL	903/279-7865
+TYL	5000079824	0	Randal	Duke	115500	University Police	Soules and Operations	16340	Emergency Mgmt Coordinator	1	CL	BUSN	rduke@uttyler.edu	HOME	903/363-6430
+TYL	5000438014	0	Cheyanne	Bowen	115500	University Police	Soules and Operations	16355	Guard Supervisor	1	CL	BUSN	cbowen@uttyler.edu	CELL	903/352-9218
+TYL	6001143861	0	Matthew	Graham	115500	University Police	Soules and Operations	16343	"Guard, University Police"	1	CL	BUSN	matthewgraham@uttyler.edu	CELL	903/494-1435
+TYL	5000406332	0	John	Gundy	115500	University Police	Soules and Operations	16343	"Guard, University Police"	1	CL	BUSN	jgundy@uttyler.edu	HOME	903/922-7028
+TYL	6001223093	0	Brandon	Perez	115500	University Police	Soules and Operations	16343	"Guard, University Police"	1	CL	BUSN	BPerez@uttyler.edu	CELL	903/574-9745
+TYL	6001222400	0	Darren	Smith	115500	University Police	Soules and Operations	16343	"Guard, University Police"	1	CL	BUSN	DarrenSmith@uttyler.edu	HOME	903/216-9993
+TYL	6001162600	0	Joshua	Smith	115500	University Police	Soules and Operations	16343	"Guard, University Police"	1	CL	BUSN	josmith@uttyler.edu	HOME	903/426-1555
+TYL	5000020180	0	Jennifer	Hicks Martinez	102400	Management & Marketing	Soules and Operations	10011	Lecturer	1	FA2	BUSN	jmartinez@uttyler.edu	HOME	903/216-3436
+TYL	6001254063	0	Ruben	Chavez	121200	Building Maintenance	Soules and Operations	15290	Maintenance Worker I	1	CL	BUSN	RCHAVEZ@UTTYLER.EDU	CELL	903/952-8487
+TYL	6001216655	0	Austin	Ferrell	121200	Building Maintenance	Soules and Operations	15290	Maintenance Worker I	1	CL	BUSN	AFerrell@uttyler.edu	CELL	903/738-1068
+TYL	6001215710	0	Russell	Fortner	121200	Building Maintenance	Soules and Operations	15290	Maintenance Worker I	1	CL	BUSN	RFortner@uttyler.edu	HOME	903/262-4085
+TYL	6001158410	0	Christopher	Bratton	115500	University Police	Soules and Operations	16336	Police Officer	1	CL	BUSN	cbratton@uttyler.edu	CELL	704/291-1433
+TYL	6001197450	0	Jack	Lanier	115500	University Police	Soules and Operations	16336	Police Officer	1	CL	BUSN	JLanier@uttyler.edu	CELL	903/920-4941
+TYL	6001223295	0	Donald	Myers	115500	University Police	Soules and Operations	16336	Police Officer	1	CL	BUSN	DMyers@uttyler.edu	HOME	903/373-4678
+TYL	6001161153	0	Brad	Williams	115500	University Police	Soules and Operations	16336	Police Officer	1	CL	BUSN	bradwilliams@uttyler.edu	CELL	903/920-2017
+TYL	6001271242	0	Ronald	Young	115500	University Police	Soules and Operations	16336	Police Officer	1	CL	HOME	RYOUNGFOREVER133@GMAIL.COM	HOME	903/574-3920
+TYL	6001253520	0	Brandi	Ballard	115450	Environmental H&S	Soules and Operations	16619	Safety Specialist I	1	CL	HOME	BBALLARD929@GMAIL.COM	CELL	817/727-1171
+TYL	6001216814	0	Christopher	Frydenlund	115450	Environmental H&S	Soules and Operations	16619	Safety Specialist I	1	CL	BUSN	CFrydenlund@uttyler.edu	CELL	707/217-8563
+TYL	8000086612	0	Leslie	Stewart	102200	"Accounting, Finance & B Law"	Soules and Operations	10012	Sr Lecturer	1	FA2	BUSN	LVoss@uttyler.edu	HOME	432/559-3679
+TYL	8000086612	0	Leslie	Voss	102200	"Accounting, Finance & B Law"	Soules and Operations	10012	Sr Lecturer	1	FA2	BUSN	LVoss@uttyler.edu	HOME	432/559-3679
+TYL	6001136069	1	Manuel	Reyes	102230	Acctg & Finance - Hibbs Ins	Soules and Operations	14409	Sr Research Analyst	1	CL	BUSN	MLREYES2@UTEP.EDU	HOME	915/603-1174

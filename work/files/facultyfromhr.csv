@@ -1,0 +1,1098 @@
+﻿Company,ID,Empl Record,First,Last,fullname,Dept ID,Dept Descr,Teams,Job Code,Job Title,FTE,Empl Class,Type,Email,Type,Phone
+TYL,6001119894,1,Jennifer,Klein,JenniferKlein,101650,Social Sciences,"Arts and Science, Advancement",10044,Alt Assigmt - College,0,FA1,BUSN,jenniferklein@uttyler.edu,BUSN,352 3181566
+TYL,5000117396,1,Lance,Williams,LanceWilliams,101200,Biology,"Arts and Science, Advancement",10018,Chair,0,FA1,BUSN,LWilliams@uttyler.edu,HOME,903/952-9448
+TYL,5000117741,2,Anthony,Back,AnthonyBack,101450,Mathematics,"Arts and Science, Advancement",10041,Grant Investigator,0,FA2,BUSN,RBack@uttyler.edu,BUSN,903/312-4411
+TYL,5000091370,1,Fredericka,Brown,FrederickaBrown,101450,Mathematics,"Arts and Science, Advancement",10041,Grant Investigator,0,FA2,BUSN,FBrown@uttyler.edu,HOME,903/534-5828
+TYL,5000069833,2,Cynthia,Sherman,CynthiaSherman,101450,Mathematics,"Arts and Science, Advancement",10041,Grant Investigator,0,FA2,BUSN,csherman@uttyler.edu,BUSN,903/520-8695
+TYL,5000118083,1,Nathan,Smith,NathanSmith,101450,Mathematics,"Arts and Science, Advancement",10041,Grant Investigator,0,FA2,BUSN,nathansmith@uttyler.edu,HOME,903/894-8341
+TYL,5000045443,1,Howard,Gray,HowardGray,101250,Chemistry,"Arts and Science, Advancement",10007,Professor,0,FA1,BUSN,ngray@uttyler.edu,HOME,903/849-3999
+TYL,5000019420,1,Dennis,Robertson,DennisRobertson,101300,Communication,"Arts and Science, Advancement",10021,Visiting Professor,0,FA1,BUSN,DENNISROBERTSON@UTTYLER.EDU,HOME,903/845-1999
+TYL,5000048920,1,Suzanne,Pundt,SuzannePundt,101200,Biology,"Arts and Science, Advancement",10043,Alt Assigmt - Dept,0.0003,FA2,BUSN,SPundt@uttyler.edu,BUSN,903/216-8576
+TYL,6001283694,0,Daniel,Kyzer,DanielKyzer,101500,Music,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.0668,FA2,HOME,DANKYZER@GMAIL.COM,CELL,601/331-2824
+TYL,5000061220,0,Sue,Bugg,SueBugg,101500,Music,"Arts and Science, Advancement",10014,Adjunct Instructor,0.075,FA2,BUSN,sbugg@uttyler.edu,BUSN,903/530-9168
+TYL,6001202550,0,Katherine,McBain,KatherineMcBain,101500,Music,"Arts and Science, Advancement",10014,Adjunct Instructor,0.075,FA2,BUSN,KMcBain@uttyler.edu,BUSN,585/414-5013
+TYL,6001202434,0,Sharon,Deuby,SharonDeuby,101500,Music,"Arts and Science, Advancement",10014,Adjunct Instructor,0.1,FA2,BUSN,SDeuby@uttyler.edu,BUSN,972/731-9201
+TYL,5000120730,0,Danny,Vinson,DannyVinson,101500,Music,"Arts and Science, Advancement",10014,Adjunct Instructor,0.125,FA2,BUSN,dvinson@uttyler.edu,HOME,940/783-5828
+TYL,6001122538,0,Jack,Grisham,JackGrisham,101450,Mathematics,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.1333,FA2,BUSN,jgrisham@uttyler.edu,HOME,281/493-2279
+TYL,5000101090,0,Dijana,Armstrong,DijanaArmstrong,101450,Mathematics,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,darmstrong@uttyler.edu,HOME,903/920-4165
+TYL,6001283194,0,Heather,Babin,HeatherBabin,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,HEATHERFAITH1@GMAIL.COM,HOME,903/452-2519
+TYL,5000011156,0,John,Baker,JohnBaker,101650,Social Sciences,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,HBaker@uttyler.edu,HOME,903/769-2800
+TYL,5000402797,0,Chelsea,Baranski,ChelseaBaranski,101150,Art & Art History,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,cbaranski@uttyler.edu,HOME,903/292-7988
+TYL,5000396587,0,Matthew,Boulter,MatthewBoulter,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,mboulter@uttyler.edu,HOME,903/944-8494
+TYL,6001214198,0,Jeffery,Cervantez,JefferyCervantez,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,JCervantez@uttyler.edu,BUSN,562/325-1757
+TYL,5000116246,0,Chastadee,Chain,ChastadeeChain,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,CCHAIN@UTTYLER.EDU,HOME,903/220-0094
+TYL,5000117559,0,Christopher,Chappa,ChristopherChappa,101450,Mathematics,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,cchappa@uttyler.edu,HOME,903/769-9274
+TYL,6001222916,0,Theodore,Crawford,TheodoreCrawford,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,TCrawford@uttyler.edu,BUSN,903/952-2318
+TYL,6001124087,0,Michael,Ferguson,MichaelFerguson,101650,Social Sciences,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,mferguson@uttyler.edu,HOME,903/918-4502
+TYL,6001283192,0,Linda,Hemmen,LindaHemmen,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,LHEMMEN@ATT.NET,HOME,316/652-0198
+TYL,5000121319,0,Heather,Hepler,HeatherHepler,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,hhepler@uttyler.edu,HOME,903/279-1656
+TYL,5000118027,0,Neal,Katz,NealKatz,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,nkatz@uttyler.edu,HOME,903/372-2686
+TYL,6001283193,0,Man Yin,Leung,Man YinLeung,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,WENNE.MY@GMAIL.COM,HOME,608/334-5349
+TYL,5000431198,0,Cortney,Lynn,CortneyLynn,101200,Biology,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,ccharba@uttyler.edu,HOME,972/467-6880
+TYL,5000032308,0,John,Mogle,JohnMogle,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,JMogle@uttyler.edu,HOME,903/617-8196
+TYL,5000034333,0,Jessica,Ogilvie,JessicaOgilvie,101500,Music,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,JJOGILVIE@GMAIL.COM,HOME,903/452-7787
+TYL,6001130944,0,Douglas,Parsons,DouglasParsons,101250,Chemistry,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,dparsons@uttyler.edu,HOME,325/338-2425
+TYL,6001156621,0,Meghan,Pressley,MeghanPressley,101450,Mathematics,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,mcarnes@uttyler.edu,HOME,980/328-8290
+TYL,6001223141,0,Thomas,Ross,ThomasRoss,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,TRoss@uttyler.edu,BUSN,570/793-3883
+TYL,6001119895,0,Timothy,Rotarius,TimothyRotarius,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,trotarius@uttyler.edu,HOME,407/970-9284
+TYL,5000429876,0,Robert,Stultz,RobertStultz,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,rstultz@uttyler.edu,HOME,864/227-3888
+TYL,6001282829,0,Paul,Thompson,PaulThompson,101650,Social Sciences,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,HOME,PDT160@GMAIL.COM,HOME,903/736-4371
+TYL,5000059710,0,Michael,Ward,MichaelWard,101500,Music,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,MWard@uttyler.edu,HOME,903/939-1975
+TYL,6001204452,0,Paul,Watts,PaulWatts,101650,Social Sciences,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,PWatts@uttyler.edu,BUSN,202/725-5690
+TYL,5000438627,0,Rebekah,Young,RebekahYoung,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2,FA2,BUSN,ryoung@uttyler.edu,HOME,601/266-5388
+TYL,6001154558,2,Lorri,Allen,LorriAllen,101600,Political Science,"Arts and Science, Advancement",10043,Alt Assigmt - Dept,0.2,FA1,BUSN,lorriallen@uttyler.edu,HOME,214/878-8610
+TYL,5000361700,1,Susan,Doty,SusanDoty,101350,History,"Arts and Science, Advancement",10043,Alt Assigmt - Dept,0.2,FA1,BUSN,SusanDoty@uttyler.edu,HOME,903/570-9020
+TYL,5000430626,1,Janell,Fisher,JanellFisher,101300,Communication,"Arts and Science, Advancement",10058,Extension Instructor,0.2,FA2,BUSN,jfisher@uttyler.edu,BUSN,423/741-5854
+TYL,5000405948,1,Weston,Manuel,WestonManuel,101250,Chemistry,"Arts and Science, Advancement",14441,Lab Techn,0.2,FA2,BUSN,wmanuel@uttyler.edu,HOME,903/894-3684
+TYL,6001222968,0,Corey,Robinson,CoreyRobinson,101500,Music,"Arts and Science, Advancement",10014,Adjunct Instructor,0.2125,FA2,BUSN,CoreyRobinson@uttyler.edu,BUSN,940/600-0217
+TYL,5000117580,1,Sheldon,Davis,SheldonDavis,101450,Mathematics,"Arts and Science, Advancement",10018,Chair,0.25,FA1,BUSN,SDavis@uttyler.edu,HOME,903/566-6549
+TYL,5000120646,1,Thomas,Guderjan,ThomasGuderjan,101650,Social Sciences,"Arts and Science, Advancement",10018,Chair,0.25,FA1,BUSN,TGuderjan@uttyler.edu,HOME,817/831-9011
+TYL,5000118132,1,Tanya,Shtoyko,TanyaShtoyko,101250,Chemistry,"Arts and Science, Advancement",10018,Chair,0.25,FA1,BUSN,TShtoyko@uttyler.edu,HOME,903/871-3687
+TYL,5000117451,1,Marcus,Stadelmann,MarcusStadelmann,101600,Political Science,"Arts and Science, Advancement",10018,Chair,0.25,FA1,BUSN,mstadelmann@uttyler.edu,HOME,903/894-1053
+TYL,5000361567,1,Hui,Wu,HuiWu,101400,Literature and Language,"Arts and Science, Advancement",10018,Chair,0.25,FA1,BUSN,HWu@uttyler.edu,HOME,501/269-1449
+TYL,5000050785,2,Sara,Rumbelow,SaraRumbelow,101200,Biology,"Arts and Science, Advancement",14441,Lab Techn,0.25,CL,BUSN,SRumbelow@uttyler.edu,BUSN,903/368-3325
+TYL,5000007098,0,Abhidnya,Ghuge,AbhidnyaGhuge,101150,Art & Art History,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.2668,FA2,BUSN,aghuge@uttyler.edu,BUSN,903/316-1268
+TYL,5000389346,1,Ashley,Dalby,AshleyDalby,101200,Biology,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.3,FA2,BUSN,adalby@uttyler.edu,HOME,903/399-8654
+TYL,5000114573,0,Kevin,Rutherford,KevinRutherford,101200,Biology,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.3,FA2,BUSN,KRutherford@uttyler.edu,BUSN,903/399-1106
+TYL,5000059274,0,Scott,Brown,ScottBrown,101250,Chemistry,"Arts and Science, Advancement",14441,Lab Techn,0.3,CL,BUSN,scottbrown@uttyler.edu,HOME,903/565-0859
+TYL,5000424034,0,Robert,Mason,RobertMason,101250,Chemistry,"Arts and Science, Advancement",14441,Lab Techn,0.3,CL,BUSN,robertmason@uttyler.edu,HOME,405/642-9046
+TYL,5000068286,0,Hilary,Baltz,HilaryBaltz,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,hbaltz@uttyler.edu,HOME,903/522-1817
+TYL,5000057546,0,Michael,Cerliano,MichaelCerliano,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,mcerliano@uttyler.edu,HOME,903/987-2491
+TYL,5000009315,2,Roger,Conaway,RogerConaway,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,ROGERCONAWAY@uttyler.edu,HOME,903/780-9399
+TYL,5000040547,0,Ana,Cuervo-Utley,AnaCuervo-Utley,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,autley@uttyler.edu,HOME,903/565-4729
+TYL,6001168594,0,Justin,Deaton,JustinDeaton,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,HOME,DEATONMATT@GMAIL.COM,BUSN,865/323-9773
+TYL,6001281621,0,Michael,Funke,MichaelFunke,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,HOME,MBFUNKE@GMAIL.COM,HOME,813/382-8171
+TYL,6001283692,0,Yasmin,Gad,YasminGad,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,HOME,YASMINEGAD@GMAIL.COM,CAMP,903/566-7289
+TYL,5000386238,2,Catherine,Hanratty,CatherineHanratty,101650,Social Sciences,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,chanratty@uttyler.edu,HOME,682/429-5684
+TYL,5000060396,0,Dennis,Hurley,DennisHurley,101600,Political Science,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,DHurley@uttyler.edu,HOME,903/596-0751
+TYL,5000082613,0,Kristen,Jackson,KristenJackson,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,kristenjackson@uttyler.edu,HOME,903/780-6009
+TYL,5000024225,0,Kristine,Kirst,KristineKirst,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,kkirst@uttyler.edu,HOME,903/565-6131
+TYL,5000006473,0,Jeffrey,Lauman,JeffreyLauman,101250,Chemistry,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,jlauman@uttyler.edu,HOME,903/592-5395
+TYL,5000062392,0,Lena,Liedtke,LenaLiedtke,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,LLiedtke@uttyler.edu,BUSN,903/920-3872
+TYL,5000015198,0,Katherine,Milovich,KatherineMilovich,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,KMilovich@uttyler.edu,BUSN,903/569-9049
+TYL,5000044988,0,Maria,Ogburn,MariaOgburn,101500,Music,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,mogburn@uttyler.edu,HOME,903/681-1435
+TYL,6001271772,0,Shao-Yin,Peng,Shao-YinPeng,101400,Literature and Language,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,HOME,EVASYPENG@HOTMAIL.COM,HOME,903/530-4973
+TYL,5000103556,0,Amanda,Ratcliff,AmandaRatcliff,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,aratcliff@uttyler.edu,HOME,903/714-5383
+TYL,5000431044,0,John,Thomas,JohnThomas,101450,Mathematics,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,jthomas@uttyler.edu,HOME,281/583-8890
+TYL,5000043699,0,Kiera,Wade,KieraWade,101300,Communication,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,kwade@uttyler.edu,HOME,903/581-9506
+TYL,5000417168,0,Edward,Whyte,EdwardWhyte,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,ewhyte@uttyler.edu,HOME,985/447-3263
+TYL,5000098782,0,Geoffrey,Willbanks,GeoffreyWillbanks,101600,Political Science,"Arts and Science, Advancement",10013,Adjunct Lecturer,0.4,FA2,BUSN,gwillbanks@uttyler.edu,HOME,903/581-4748
+TYL,5000420140,1,Myrna,Vale Medina,MyrnaVale Medina,101400,Literature and Language,"Arts and Science, Advancement",10058,Extension Instructor,0.4,FA2,BUSN,mvale@uttyler.edu,HOME,618/559-2951
+TYL,6001096508,0,David,Allen,DavidAllen,101250,Chemistry,"Arts and Science, Advancement",19071,Clerk,0.4875,CLN,BUSN,DALLEN19@PATRIOTS.UTTYLER.EDU,CELL,903/714-7370
+TYL,5000426094,0,Christy,Hjorth,ChristyHjorth,101250,Chemistry,"Arts and Science, Advancement",14495,Lab Helper,0.4875,CLN,BUSN,chjorth@uttyler.edu,HOME,903/371-2826
+TYL,5000419575,1,Melissa,Salgado,MelissaSalgado,101600,Political Science,"Arts and Science, Advancement",11901,Recruiter - Hourly,0.4875,CLN,BUSN,msalgado@uttyler.edu,HOME,903/752-7374
+TYL,5000117929,1,Kenneth,Wink,KennethWink,101100,College of Arts and Sciences,"Arts and Science, Advancement",10044,Alt Assigmt - College,0.5,FA1,BUSN,kwink@uttyler.edu,HOME,903/630-2561
+TYL,6001243966,0,Elena,Daughtery,ElenaDaughtery,101500,Music,"Arts and Science, Advancement",10022,Specialist,0.5,FA2,BUSN,EDaughtery@uttyler.edu,HOME,318/527-2771
+TYL,5000118405,0,Merrie,Wright,MerrieWright,101150,Art & Art History,"Arts and Science, Advancement",10008,Assoc Professor,0.75,FA1,BUSN,MeWright@uttyler.edu,HOME,903/352-9212
+TYL,5000118376,0,Jeffrey,Emge,JeffreyEmge,101500,Music,"Arts and Science, Advancement",10007,Professor,0.75,FA1,BUSN,jemge@uttyler.edu,HOME,903526825
+TYL,5000075194,0,Laura,Dykes,LauraDykes,101100,College of Arts and Sciences,"Arts and Science, Advancement",13088,Academic Advisor I,1,CL,HOME,LDYKES@UTTYLER.EDU,HOME,903/352-5978
+TYL,5000362278,0,Kelley,Shorette,KelleyShorette,101100,College of Arts and Sciences,"Arts and Science, Advancement",13088,Academic Advisor I,1,CL,BUSN,kconnor@uttyler.edu,HOME,903/353-0816
+TYL,5000117989,0,Michael,Millett,MichaelMillett,101100,College of Arts and Sciences,"Arts and Science, Advancement",13085,Academic Advisor III,1,CL,BUSN,MMillett@uttyler.edu,HOME,903/216-4477
+TYL,5000067531,0,Joy,Shogry,JoyShogry,101100,College of Arts and Sciences,"Arts and Science, Advancement",19020,Administrative Assoc,1,CL,BUSN,JShogry@uttyler.edu,BUSN,903/566-7011
+TYL,5000099247,0,Mary,Holland,MaryHolland,101400,Literature and Language,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,MHolland@uttyler.edu,HOME,903/593-9334
+TYL,5000020843,0,Misty,Holmes,MistyHolmes,101600,Political Science,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,mistybutler@uttyler.edu,HOME,903.504.2791
+TYL,5000423228,0,Maequeta,Humber,MaequetaHumber,101200,Biology,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,mhumber@uttyler.edu,HOME,903/944-6064
+TYL,6001140235,0,PATRICIA,PELLETIER,PATRICIAPELLETIER,101300,Communication,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,ppelletier@uttyler.edu,CELL,361/816-1990
+TYL,5000418406,0,Katherine,Prince,KatherinePrince,101250,Chemistry,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,KPrince@uttyler.edu,CELL,903/360-1260
+TYL,5000413703,0,Christy,Simmons,ChristySimmons,101650,Social Sciences,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,christysimmons@uttyler.edu,CELL,903/330-0688
+TYL,5000120835,0,Lori,Wages,LoriWages,101450,Mathematics,"Arts and Science, Advancement",19041,Administrative Asst II - Month,1,CL,BUSN,LWages@uttyler.edu,BUSN,903/565-5839
+TYL,6001125230,0,Donna,Abbey,DonnaAbbey,101500,Music,"Arts and Science, Advancement",19040,Administrative Asst III,1,CL,BUSN,dabbey@uttyler.edu,CELL,903/714-5445
+TYL,5000117257,0,Gail,Andrews,GailAndrews,101150,Art & Art History,"Arts and Science, Advancement",19040,Administrative Asst III,1,CL,BUSN,gandrews@uttyler.edu,HOME,903/617-6346
+TYL,6001131788,0,Sally,Bouis,SallyBouis,122200,Career Success,"Arts and Science, Advancement",19040,Administrative Asst III,1,CL,BUSN,sbouis@uttyler.edu,CELL,972/835-3591
+TYL,5000083929,0,Cheryl,Cushatt,CherylCushatt,101100,College of Arts and Sciences,"Arts and Science, Advancement",19006,Administrative Srv Officer,1,CL,BUSN,Ccushatt@uttyler.edu,HOME,903/279-6387
+TYL,5000433599,0,Susan,Kleam,SusanKleam,123100,University Advancement,"Arts and Science, Advancement",19006,Administrative Srv Officer,1,CL,BUSN,skleam@uttyler.edu,CELL,903/343-3615
+TYL,5000418141,0,Erica,Goss,EricaGoss,123100,University Advancement,"Arts and Science, Advancement",19152,Assistant Director,1,CL,BUSN,egoss@uttyler.edu,HOME,903/805-9190
+TYL,5000436074,0,Gwendolyn,Williams,GwendolynWilliams,123100,University Advancement,"Arts and Science, Advancement",19152,Assistant Director,1,CL,BUSN,gwilliams@uttyler.edu,CELL,903/714-1814
+TYL,5000404083,0,Joshua,Banta,JoshuaBanta,101200,Biology,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,jbanta@uttyler.edu,HOME,646/460-7116
+TYL,5000118221,0,Jon,Beckham,JonBeckham,101450,Mathematics,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,RBeckham@uttyler.edu,HOME,870/818-5238
+TYL,5000118361,0,Ann,Beebe,AnnBeebe,101400,Literature and Language,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,ABeebe@uttyler.edu,BUSN,903/714-0401
+TYL,5000079993,0,Sean,Butler,SeanButler,101250,Chemistry,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,sbutler@uttyler.edu,HOME,614/886-5141
+TYL,5000417565,0,Marco,Castaneda,MarcoCastaneda,101650,Social Sciences,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,mcastaneda@uttyler.edu,HOME,903/266-9335
+TYL,5000418004,0,Luis,Gautier,LuisGautier,101650,Social Sciences,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,lgautier@uttyler.edu,HOME,618/559-2940
+TYL,5000360914,0,Stephen,Graves,StephenGraves,101450,Mathematics,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,SGraves@uttyler.edu,CELL,903/707-0974
+TYL,5000407992,0,Kyle,Gullings,KyleGullings,101500,Music,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,kgullings@uttyler.edu,CELL,763/516-2022
+TYL,5000427448,0,Richard,Helfers,RichardHelfers,101650,Social Sciences,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,rhelfers@uttyler.edu,HOME,972/412-1678
+TYL,5000361932,0,Mary,Linehan,MaryLinehan,101350,History,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,mlinehan@uttyler.edu,HOME,903/504-5178
+TYL,5000381058,0,Rachel,Mason,RachelMason,101250,Chemistry,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,rmason@uttyler.edu,HOME,405/642-9068
+TYL,5000118125,0,Marsha,Matthews,MarshaMatthews,101300,Communication,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,MMatthews@uttyler.edu,BUSN,903/780-6711
+TYL,5000117950,0,David,Milan,DavidMilan,101450,Mathematics,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,DMilan@uttyler.edu,BUSN,402/304-7618
+TYL,5000405085,0,Mickie,Mwanzia Koster,MickieMwanzia Koster,101350,History,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,mmwanziakoster@uttyler.edu,HOME,936/537-1846
+TYL,5000118203,0,John,Placyk,JohnPlacyk,101200,Biology,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,JPlacyk@uttyler.edu,HOME,903/469-3800
+TYL,5000118579,0,Cameron,Rose,CameronRose,101500,Music,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,CRose@uttyler.edu,BUSN,903/969-0235
+TYL,5000017615,0,Catherine,Ross,CatherineRoss,101400,Literature and Language,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,cross@uttyler.edu,CELL,903/520-5492
+TYL,5000117348,0,Jason,Smee,JasonSmee,101250,Chemistry,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,JSmee@uttyler.edu,CELL,903/780-8910
+TYL,5000117745,0,Robert,Sterken,RobertSterken,101600,Political Science,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,RobertSterken@uttyler.edu,HOME,903/534-1848
+TYL,5000404228,0,Matthew,Stith,MatthewStith,101350,History,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,mstith@uttyler.edu,BUSN,903/520-4778
+TYL,5000117648,0,Edward,Tabri,EdwardTabri,101350,History,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,ETabri@uttyler.edu,HOME,903/597-2334
+TYL,5000117832,0,Carolyn,Tilghman,CarolynTilghman,101400,Literature and Language,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,ctilghman@uttyler.edu,HOME,903/343-1626
+TYL,5000117948,0,Gregory,Utley,GregoryUtley,101400,Literature and Language,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,gutley@uttyler.edu,BUSN,903/312-2270
+TYL,5000118244,0,Chantal,Zuazu,ChantalZuazu,101400,Literature and Language,"Arts and Science, Advancement",10008,Assoc Professor,1,FA1,BUSN,CZuazu@uttyler.edu,HOME,903/515-0536
+TYL,5000439133,0,Katherine,Anders,KatherineAnders,101450,Mathematics,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,kanders@uttyler.edu,BUSN,318/537-2765
+TYL,5000440128,2,Kassie,Archer,KassieArcher,101450,Mathematics,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,karcher@uttyler.edu,HOME,518/779-4380
+TYL,6001142013,0,Danielle,Bailey,DanielleBailey,101650,Social Sciences,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,dbailey@uttyler.edu,BUSN,314/640-4082
+TYL,6001223297,0,Clifford,Bearden,CliffordBearden,101450,Mathematics,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,CBearden@uttyler.edu,BUSN,501/276-0358
+TYL,6001119103,0,Brent,Bill,BrentBill,101200,Biology,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,bbill@uttyler.edu,CELL,310/913-5949
+TYL,6001156725,0,Gregory,Bock,GregoryBock,101400,Literature and Language,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,gbock@uttyler.edu,HOME,903/295-0725
+TYL,6001222743,0,Kenneth,Bryant,KennethBryant,101600,Political Science,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,KBryant@uttyler.edu,BUSN,573/355-4424
+TYL,6001214417,0,Tsz Yan Clement,Chan,Tsz Yan ClementChan,101200,Biology,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,TChan@uttyler.edu,HOME,608/658-2493
+TYL,5000439134,0,Rachel,Head,RachelHead,101650,Social Sciences,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,rhead@uttyler.edu,BUSN,919/914-3193
+TYL,6001199106,0,Anett,Jessop,AnettJessop,101400,Literature and Language,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,AJessop@uttyler.edu,CELL,530/601-7943
+TYL,5000424580,1,Katrin,Kellner,KatrinKellner,101200,Biology,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,kkellner@uttyler.edu,HOME,314/556-2403
+TYL,6001218541,0,Matthew,Kelly,MatthewKelly,101400,Literature and Language,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,MKelly@uttyler.edu,BUSN,650/796-0622
+TYL,5000440077,0,Scott,LaLonde,ScottLaLonde,101450,Mathematics,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,slalonde@uttyler.edu,HOME,518/232-7079
+TYL,6001222779,0,Amanda,Link,AmandaLink,101350,History,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,ALink@uttyler.edu,HOME,406/531-4473
+TYL,5000430753,0,Elizabeth,Lisot-Nelson,ElizabethLisot-Nelson,101150,Art & Art History,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,elisot@uttyler.edu,HOME,972/948-0688
+TYL,6001199141,0,Kaia,Magnusen,KaiaMagnusen,101150,Art & Art History,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,KMagnusen@uttyler.edu,CELL,630/740-6045
+TYL,6001130530,0,Jeremy,McBain,JeremyMcBain,101500,Music,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,jmcbain@uttyler.edu,CELL,585/414-4410
+TYL,5000430754,0,Stephanie,Odom,StephanieOdom,101400,Literature and Language,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,sodom@uttyler.edu,HOME,512/585-4933
+TYL,6001138974,0,Mark,Owens,MarkOwens,101600,Political Science,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,mowens@uttyler.edu,HOME,352/284-3197
+TYL,5000431469,0,Soo-Ah,Park,Soo-AhPark,101500,Music,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,spark@uttyler.edu,HOME,512/300-1387
+TYL,5000438593,0,Dustin,Patterson,DustinPatterson,101250,Chemistry,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,dpatterson@uttyler.edu,HOME,419/306-6233
+TYL,6001122713,0,Sarah,Roberts,SarahRoberts,101500,Music,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,sroberts@uttyler.edu,HOME,940/390-8470
+TYL,5000430755,0,Meryem,Saygili,MeryemSaygili,101650,Social Sciences,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,msaygili@uttyler.edu,CELL,512/934-7937
+TYL,6001200148,0,Emily,Scheinfeld,EmilyScheinfeld,101300,Communication,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,EScheinfeld@uttyler.edu,HOME,770/401-5058
+TYL,5000078985,0,David,Scott,DavidScott,101650,Social Sciences,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,dscott@uttyler.edu,HOME,903/387-0773
+TYL,5000424491,0,Jon,Seal,JonSeal,101200,Biology,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,jseal@uttyler.edu,BUSN,314/398-0849
+TYL,5000431439,0,Elizabeth,Sills,ElizabethSills,101650,Social Sciences,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,esills@uttyler.edu,HOME,214/683-5161
+TYL,5000404087,0,Emily,Standridge,EmilyStandridge,101400,Literature and Language,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,estandridge@uttyler.edu,HOME,903/283-6376
+TYL,5000408078,0,Justin,Velten,JustinVelten,101300,Communication,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,jvelten@uttyler.edu,HOME,334/303-4980
+TYL,5000380386,1,Amentahru,Wahlrab,AmentahruWahlrab,101600,Political Science,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,awahlrab@uttyler.edu,HOME,303/349-0303
+TYL,6001118983,0,Riqing,Yu,RiqingYu,101200,Biology,"Arts and Science, Advancement",10009,Asst Professor,1,FA1,BUSN,ryu@uttyler.edu,CELL,908/565-6686
+TYL,6001142441,0,Michael,Cichowicz,MichaelCichowicz,122200,Career Success,"Arts and Science, Advancement",10326,Asst. Director Career Success,1,CL,BUSN,mcichowicz@uttyler.edu,CELL,475/422-1172
+TYL,5000026834,0,Lolillian,Durr,LolillianDurr,122200,Career Success,"Arts and Science, Advancement",13106,Career Success Coach,1,CL,BUSN,FDURR@UTTYLER.EDU,HOME,903/372-4632
+TYL,6001284162,0,Travis,Gladhill,TravisGladhill,122200,Career Success,"Arts and Science, Advancement",13106,Career Success Coach,1,CL,HOME,GHILL921@GMAIL.COM,HOME,254.291.7070
+TYL,6001161187,0,Pamela,Rodriguez,PamelaRodriguez,122200,Career Success,"Arts and Science, Advancement",13106,Career Success Coach,1,CL,BUSN,prodriguez@uttyler.edu,CELL,903/521-5441
+TYL,5000100835,0,Wendy,Duncan,WendyDuncan,101100,College of Arts and Sciences,"Arts and Science, Advancement",14503,College Assessment Coordinator,1,CL,BUSN,WDuncan@uttyler.edu,CELL,903/316-1224
+TYL,5000376169,0,Hannah,Thompson,HannahThompson,123200,Alumni Engagement,"Arts and Science, Advancement",10402,Coordinator Alumni Relations,1,CL,HOME,HKTHOMPSON92@GMAIL.COM,CELL,903/279-8221
+TYL,6001253965,0,Ian,Ostmeyer,IanOstmeyer,123100,University Advancement,"Arts and Science, Advancement",19354,Data Specialist,1,CL,HOME,OSTMEYER@GMAIL.COM,CELL,903/952-7054
+TYL,6001139459,0,Danny,Elzner,DannyElzner,123100,University Advancement,"Arts and Science, Advancement",19113,Development Officer,1,CL,BUSN,delzner@uttyler.edu,HOME,903/894-6367
+TYL,6001115350,0,Kathryn,Gohmert,KathrynGohmert,123100,University Advancement,"Arts and Science, Advancement",19113,Development Officer,1,CL,BUSN,kgohmert@uttyler.edu,HOME,903/571-1638
+TYL,6001250107,0,Susan,Rossman,SusanRossman,123100,University Advancement,"Arts and Science, Advancement",10338,Dir Dev - Co and Fo Rel,1,AP,BUSN,SROSSMAN@UTTYLER.EDU,CELL,903/521-9652
+TYL,6001131594,0,Mary,Brush Hahn,MaryBrush Hahn,123100,University Advancement,"Arts and Science, Advancement",10337,Dir Dev - College Based,1,AP,BUSN,bhahn@uttyler.edu,CELL,903/343-4411
+TYL,6001278465,0,Elizabeth,Carlson,ElizabethCarlson,123100,University Advancement,"Arts and Science, Advancement",10337,Dir Dev - College Based,1,AP,BUSN,ECARLSON@UTTYLER.EDU,HOME,706/410-7088
+TYL,6001254239,0,Bryan,Hill,BryanHill,123100,University Advancement,"Arts and Science, Advancement",10337,Dir Dev - College Based,1,AP,HOME,B.GARRETTHILL@GMAIL.COM,HOME,903/472-1593
+TYL,5000121982,0,Daniel,Onderko,DanielOnderko,123100,University Advancement,"Arts and Science, Advancement",10339,Dir of Annual Giving,1,AP,BUSN,DONDERKO@UTTYLER.EDU,HOME,903/830-8917
+TYL,6001206095,0,Daniel,Carrell,DanielCarrell,123100,University Advancement,"Arts and Science, Advancement",10336,Dir of Planned Giving,1,AP,BUSN,DCarrell@uttyler.edu,CELL,903/283-0044
+TYL,5000385951,0,Sharon,Brown,SharonBrown,123100,University Advancement,"Arts and Science, Advancement",10552,Director,1,AP,BUSN,sharonbrown@uttyler.edu,CELL,903/920-3521
+TYL,6001202142,0,Patricia,Royal,PatriciaRoyal,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",10552,Director,1,AP,BUSN,PRoyal@uttyler.edu,CELL,910/214-1170
+TYL,5000050496,0,Marti,Halbrook,MartiHalbrook,101700,SocialSci - Ctr for Exec Educ,"Arts and Science, Advancement",11525,Ex Hlth Care Admin Prog Cord,1,CL,BUSN,MHalbrook@uttyler.edu,CELL,903/316-2203
+TYL,5000416661,0,Michelle,Taff,MichelleTaff,101150,Art & Art History,"Arts and Science, Advancement",18351,Gallery/Media Cord,1,CL,BUSN,MTaff@uttyler.edu,CELL,903/948-4484
+TYL,1000115317,0,Marnie,Rout,MarnieRout,101221,Biology-Research-Rout,"Arts and Science, Advancement",10041,Grant Investigator,1,FA3,BUSN,mrout@uttyler.edu,BUSN,682/554-5872
+TYL,6001223367,0,Alix,Matthews,AlixMatthews,101210,Biology - Research,"Arts and Science, Advancement",14441,Lab Techn,1,CL,BUSN,AMatthews@uttyler.edu,CELL,501/351-5559
+TYL,5000061276,0,Nancy,Bailey,NancyBailey,101450,Mathematics,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,NBailey@uttyler.edu,HOME,903/565-6625
+TYL,6001202309,0,Jennifer,Belew,JenniferBelew,101250,Chemistry,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,JenniferBelew@uttyler.edu,BUSN,936/250-2486
+TYL,6001161079,0,Jonathan,Belew,JonathanBelew,101250,Chemistry,"Arts and Science, Advancement",10011,Lecturer,1,FA1,BUSN,jbelew@uttyler.edu,HOME,469/222-8823
+TYL,5000012528,0,Jessica,Coleman,JessicaColeman,101200,Biology,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,JColeman@uttyler.edu,HOME,903/595-4624
+TYL,5000386233,0,Stephanie,Daugherty,StephanieDaugherty,101200,Biology,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,sdaugherty@uttyler.edu,BUSN,903/617-9775
+TYL,5000115475,0,Maddox,Dotson,MaddoxDotson,101350,History,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,mdotson@uttyler.edu,HOME,903/746-6314
+TYL,5000074033,0,Lauren,Johnson,LaurenJohnson,101250,Chemistry,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,laurenjohnson@uttyler.edu,BUSN,972/816-9161
+TYL,5000416342,0,Gayathri,Kambhampati,GayathriKambhampati,101450,Mathematics,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,gkambhampati@uttyler.edu,HOME,785/317-2576
+TYL,5000427400,0,Eric,Lopez,EricLopez,101600,Political Science,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,elopez@uttyler.edu,HOME,915/820-2180
+TYL,5000120798,0,Natalia,Menkina-Snider,NataliaMenkina-Snider,101400,Literature and Language,"Arts and Science, Advancement",10011,Lecturer,1,FA1,BUSN,nmenkina@uttyler.edu,HOME,903/952-8276
+TYL,5000117527,0,Fara,Meza,FaraMeza,101450,Mathematics,"Arts and Science, Advancement",10011,Lecturer,1,FA2,BUSN,fmeza@uttyler.edu,HOME,903/363-7171
+TYL,5000095356,0,Ali,Azghani,AliAzghani,101200,Biology,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,AAzghani@uttyler.edu,BUSN,903/245-8183
+TYL,5000361699,0,Dennis,Cali,DennisCali,101300,Communication,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,dcali@uttyler.edu,HOME,903/787-5702
+TYL,5000035604,0,Neil,Ford,NeilFord,101200,Biology,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,NFord@uttyler.edu,HOME,903/566-4012
+TYL,5000361919,0,Christina,Graves,ChristinaGraves,101450,Mathematics,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,ChristinaGraves@uttyler.edu,BUSN,903/707-0973
+TYL,5000113135,0,Gary,Hatcher,GaryHatcher,101150,Art & Art History,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,ghatcher@uttyler.edu,HOME,903/857-2271
+TYL,5000117464,0,Alexis,Hughes,AlexisHughes,101150,Art & Art History,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,ASerio@uttyler.edu,HOME,863/221-1647
+TYL,5000117553,0,Dewane,Hughes,DewaneHughes,101150,Art & Art History,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,DHughes@uttyler.edu,,
+TYL,5000117468,0,John,Leblanc,JohnLeblanc,101600,Political Science,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,rleblanc@uttyler.edu,HOME,903/593-0450
+TYL,5000117734,0,James,Pace,JamesPace,101150,Art & Art History,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,JPace@uttyler.edu,HOME,903/253-1136
+TYL,5000117629,0,David,Strong,DavidStrong,101400,Literature and Language,"Arts and Science, Advancement",10007,Professor,1,FA1,BUSN,DStrong@uttyler.edu,HOME,512/780-9234
+TYL,5000117777,0,Kelley,Snowden,KelleySnowden,101650,Social Sciences,"Arts and Science, Advancement",14415,Research Associate - Monthly,1,CL,BUSN,ksnowden@uttyler.edu,HOME,903/720-5732
+TYL,6001203173,0,Jared,Sexton,JaredSexton,123100,University Advancement,"Arts and Science, Advancement",19019,Sr Administrative Assoc,1,CL,BUSN,JSexton@uttyler.edu,CELL,903/445-0494
+TYL,5000386135,0,Richard,Batman,RichardBatman,101250,Chemistry,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,rbatman@uttyler.edu,BUSN,330/819-2838
+TYL,5000118045,0,Shaun,Black,ShaunBlack,101250,Chemistry,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,SBlack@uttyler.edu,HOME,903/581-7539
+TYL,5000361886,0,Laura,Boyd,LauraBoyd,101250,Chemistry,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,lboyd@uttyler.edu,BUSN,662/512-2391
+TYL,5000047378,0,Vicki,Conway,VickiConway,101500,Music,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,vconway@uttyler.edu,CELL,903/238-6121
+TYL,5000120640,0,Vanessa,Joyner,VanessaJoyner,101300,Communication,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,VJoyner@uttyler.edu,HOME,314/378-2876
+TYL,5000117783,0,Deborah,Koslover,DeborahKoslover,101450,Mathematics,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,DKoslover@uttyler.edu,HOME,903/565-0389
+TYL,5000107658,0,James,Newsom,JamesNewsom,101350,History,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,JNewsom@uttyler.edu,HOME,903/253-7035
+TYL,6001218542,0,Tara,Propper,TaraPropper,101400,Literature and Language,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA2,BUSN,TPropper@uttyler.edu,BUSN,631/748-2463
+TYL,6001122711,0,Mark,Sidey,MarkSidey,101400,Literature and Language,"Arts and Science, Advancement",10012,Sr Lecturer,1,FA1,BUSN,msidney@uttyler.edu,HOME,903/653-0458
+TYL,5000045860,0,Alicia,Quijano,AliciaQuijano,101150,Art & Art History,"Arts and Science, Advancement",18341,Studio Technician,1,CL,BUSN,aconway@uttyler.edu,HOME,903/237-9612
+TYL,5000016179,0,Jason,DiStefano,JasonDiStefano,101250,Chemistry,"Arts and Science, Advancement",14430,"Supvsr, Lab Tech Srv",1,CL,BUSN,JDistefano@uttyler.edu,HOME,903/504-0344
+TYL,5000397495,0,Alan,Lizarraga,AlanLizarraga,101200,Biology,"Arts and Science, Advancement",14430,"Supvsr, Lab Tech Srv",1,CL,BUSN,alizarraga@uttyler.edu,CELL,903/830-9348
+TYL,6001283767,0,Robert,Roy,RobertRoy,101450,Mathematics,"Arts and Science, Advancement",10020,Visiting Asst Professor,1,FA2,BUSN,ROBERTROY@UTTYLER.EDU,HOME,530/680-9959
+TYL,5000420544,0,Anita,Brown,AnitaBrown,101300,Communication,"Arts and Science, Advancement",10019,Visiting Lecturer,1,FA2,BUSN,abrown@uttyler.edu,HOME,903/504-6341
+TYL,6001278114,0,Orrie,Covert,OrrieCovert,123100,University Advancement,"Arts and Science, Advancement",10114,VP For University Advancement,1,AP,BUSN,OCOVERT@UTTYLER.EDU,HOME,352/278-5443
+TYL,5000094414,1,Belinda,Deal,BelindaDeal,105100,Dean Nursing & HS,College of Nursing and Technology,10044,Alt Assigmt - College,0,FA1,BUSN,bdeal@uttyler.edu,BUSN,903/530-3787
+TYL,5000072121,1,Colleen,Marzilli,ColleenMarzilli,105200,Nursing - School of Nursing,College of Nursing and Technology,10043,Alt Assigmt - Dept,0,FA2,BUSN,cmarzilli@uttyler.edu,HOME,903/571-4739
+TYL,5000417639,1,Wycliffe,Njororai,WycliffeNjororai,105600,Health and Kinesiology,College of Nursing and Technology,10043,Alt Assigmt - Dept,0.0003,FA2,BUSN,wnjororai@uttyler.edu,BUSN,940/595-9190
+TYL,5000118310,1,Scott,Spier,ScottSpier,105600,Health and Kinesiology,College of Nursing and Technology,10043,Alt Assigmt - Dept,0.0003,FA3,BUSN,sspier@uttyler.edu,BUSN,903/312-8747
+TYL,5000353808,0,Gabriela,Sandoval,GabrielaSandoval,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.1333,FA2,HOME,GSANDOVAL_28@YAHOO.COM,BUSN,903/714-7300
+TYL,6001284179,0,Darlene,Goode,DarleneGoode,105300,Nursing - Grad Program,College of Nursing and Technology,14441,Lab Techn,0.1333,CL,HOME,47DGOODE@GMAIL.COM,HOME,903/963-8970
+TYL,5000017512,0,Dona,Atkins,DonaAtkins,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,HOME,19DATKINS51@GMAIL.COM,BUSN,903/520-2594
+TYL,5000361894,0,Jill,Campbell,JillCampbell,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,JCampbell@uttyler.edu,HOME,903/566-8032
+TYL,5000357015,0,Shuntel,Coleman,ShuntelColeman,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,SColeman@uttyler.edu,HOME,903/372-1707
+TYL,5000086889,0,Taleshia,Coleman,TaleshiaColeman,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,TColeman@uttyler.edu,HOME,903/343-8975
+TYL,5000063950,0,Annika,Conaway,AnnikaConaway,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,aconaway@uttyler.edu,HOME,903/258-9800
+TYL,5000099130,0,Stephanie,Foster,StephanieFoster,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,HOME,SFO3985@GMAIL.COM,BUSN,903/452-0827
+TYL,5000054437,0,Christopher,George,ChristopherGeorge,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,HOME,CGEORGE8@PATRIOTS.UTTYLER.EDU,HOME,936/208-1457
+TYL,6001156765,0,Jean,Gordon,JeanGordon,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,jeangordon@uttyler.edu,HOME,954/923-2404
+TYL,5000397411,0,Timothy,Lowe,TimothyLowe,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,tlowe@uttyler.edu,HOME,936/645-4889
+TYL,5000060281,0,Judy,Stanley,JudyStanley,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,BUSN,JStanley@uttyler.edu,HOME,903/566-0766
+TYL,5000403926,0,Kayla,Tolar,KaylaTolar,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.2,FA2,HOME,KTOLAR@PATRIOTS.UTTYLER.EDU,HOME,903/261-2464
+TYL,6001165398,0,Patricia,Simmons,PatriciaSimmons,105300,Nursing - Grad Program,College of Nursing and Technology,14441,Lab Techn,0.2,CL,HOME,PBROOKEHENDERSON@GMAIL.COM,HOME,903/229-1011
+TYL,6001206230,1,Jeremy,Carter,JeremyCarter,105200,Nursing - School of Nursing,College of Nursing and Technology,19998,Task Worker,0.2,CLN,BUSN,JeremyCarter@uttyler.edu,BUSN,903/724-4635
+TYL,5000089157,1,Gloria,Duke,GloriaDuke,105300,Nursing - Grad Program,College of Nursing and Technology,10044,Alt Assigmt - College,0.25,FA1,BUSN,GDuke@uttyler.edu,HOME,903/581-6398
+TYL,5000406945,0,Conner,Benson,ConnerBenson,105600,Health and Kinesiology,College of Nursing and Technology,14445,Lab Technician-P/T,0.25,CLN,BUSN,ConnerBenson@uttyler.edu,HOME,713/826-4383
+TYL,6001162736,0,Cecile,Craft,CecileCraft,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.2665,FA2,BUSN,ccraft@uttyler.edu,HOME,903/315-8805
+TYL,6001101754,1,Annala,Shirley,AnnalaShirley,105300,Nursing - Grad Program,College of Nursing and Technology,14441,Lab Techn,0.3333,CLN,HOME,AJS1964@ME.COM,HOME,903/595-7022
+TYL,5000112889,0,Sheri,Battles,SheriBattles,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,HOME,SSBATTLES2564@ATT.NET,BUSN,903/720-9925
+TYL,5000433841,0,Kristen,Brady,KristenBrady,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,KBrady@uttyler.edu,HOME,903/630-7725
+TYL,6001085347,0,Elizabeth,Custodio,ElizabethCustodio,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,HOME,ECUSTODIO@PATRIOTS.UTTYLER.EDU,HOME,903/724-9922
+TYL,6001196737,0,Rebecca,Egdorf,RebeccaEgdorf,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,REgdorf@uttyler.edu,BUSN,937/726-7253
+TYL,6001223001,0,Kristel,Fredericks,KristelFredericks,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,KFredericks@uttyler.edu,BUSN,903/241-0998
+TYL,5000432152,0,Elnora,King,ElnoraKing,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,elnoraking@uttyler.edu,HOME,903/312-2169
+TYL,5000099697,0,Jimmi,Lafaitt,JimmiLafaitt,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA1,BUSN,JLafaitt@uttyler.edu,HOME,903/245-5562
+TYL,5000079762,0,Lauren,Main,LaurenMain,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,lmoseley@uttyler.edu,HOME,903/335-6826
+TYL,5000031272,0,Rachel,Strode,RachelStrode,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA2,BUSN,RStrode@uttyler.edu,HOME,903/388-5903
+TYL,6001270964,0,Bethany,Yearty,BethanyYearty,105300,Nursing - Grad Program,College of Nursing and Technology,10013,Adjunct Lecturer,0.4,FA1,HOME,BETHANY.YEARTY@GMAIL.COM,BUSN,770/367-4729
+TYL,5000097553,0,Bethany,Starks,BethanyStarks,105300,Nursing - Grad Program,College of Nursing and Technology,14441,Lab Techn,0.4,CL,BUSN,bstarks@uttyler.edu,HOME,903/253-7859
+TYL,5000070196,0,Colby,Craddock,ColbyCraddock,105600,Health and Kinesiology,College of Nursing and Technology,10013,Adjunct Lecturer,0.4665,FA2,BUSN,ccraddock@uttyler.edu,HOME,903/216-8473
+TYL,5000404225,1,Katie,Dotson,KatieDotson,105500,Nursing - Palestine,College of Nursing and Technology,13089,Academic Adv I - Hourly,0.4875,CLN,BUSN,KDotson@uttyler.edu,CELL,903/284-0533
+TYL,6001212931,0,Holly,Cox,HollyCox,105200,Nursing - School of Nursing,College of Nursing and Technology,19071,Clerk,0.4875,CLN,BUSN,HCox@uttyler.edu,CELL,903/330-2136
+TYL,6001212985,0,Tracy,Sawyer,TracySawyer,105200,Nursing - School of Nursing,College of Nursing and Technology,19071,Clerk,0.4875,CLN,BUSN,TSawyer@uttyler.edu,CELL,903/253-7960
+TYL,5000079743,0,Carol,Rizer,CarolRizer,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,0.5,FA1,BUSN,crizer@uttyler.edu,BUSN,903/681-4372
+TYL,5000069065,1,Sandra,Petersen,SandraPetersen,105330,Petersen-Research,College of Nursing and Technology,10041,Grant Investigator,0.5,FA2,BUSN,spetersen@uttyler.edu,HOME,214/213-4726
+TYL,6001119512,0,David,Criswell,DavidCriswell,105600,Health and Kinesiology,College of Nursing and Technology,10007,Professor,0.75,FA1,BUSN,dcriswell@uttyler.edu,BUSN,903/830-5488
+TYL,5000112487,0,Peggy,Sadler,PeggySadler,105300,Nursing - Grad Program,College of Nursing and Technology,13088,Academic Advisor I,1,CL,BUSN,psadler@uttyler.edu,BUSN,903/566-8222
+TYL,5000437673,0,Sheldon,Sager,SheldonSager,105600,Health and Kinesiology,College of Nursing and Technology,13088,Academic Advisor I,1,CL,BUSN,ssager@uttyler.edu,HOME,903/569-4191
+TYL,5000112063,0,Douglas,Vardeman,DouglasVardeman,105600,Health and Kinesiology,College of Nursing and Technology,13088,Academic Advisor I,1,CL,BUSN,dvardeman@uttyler.edu,HOME,903/405-9402
+TYL,6001281668,0,Jennifer,Leviston,JenniferLeviston,105300,Nursing - Grad Program,College of Nursing and Technology,13086,Academic Advisor II,1,CL,CAMP,JLEVISTON@UTTYLER.EDU,HOME,580/647-1435
+TYL,6001130099,0,Marie,Dullard,MarieDullard,105300,Nursing - Grad Program,College of Nursing and Technology,13085,Academic Advisor III,1,CL,BUSN,mdullard@uttyler.edu,CELL,903/407-5405
+TYL,5000016569,0,Charlotte,Thompson,CharlotteThompson,105300,Nursing - Grad Program,College of Nursing and Technology,13085,Academic Advisor III,1,CL,BUSN,cthompson@uttyler.edu,HOME,903/839-1020
+TYL,5000014375,0,Robert,Hilliard,RobertHilliard,113100,Accountability and Information,College of Nursing and Technology,19391,Access Control Analyst,1,CL,BUSN,rhilliard@uttyler.edu,CELL,903/245-0794
+TYL,5000397751,0,Lori,Sisemore,LoriSisemore,105100,Dean Nursing & HS,College of Nursing and Technology,19020,Administrative Assoc,1,CL,BUSN,lsisemore@uttyler.edu,CAMP,903/566-7090
+TYL,6001212320,0,Jaime,Romero,JaimeRomero,105300,Nursing - Grad Program,College of Nursing and Technology,19042,Administrative Asst I,1,CL,BUSN,JRomero@uttyler.edu,CELL,337/654-9375
+TYL,6001132418,0,Theresa,Moore,TheresaMoore,105300,Nursing - Grad Program,College of Nursing and Technology,19041,Administrative Asst II - Month,1,CL,BUSN,tscarborough@uttyler.edu,HOME,903/539-0234
+TYL,5000117750,0,Bonnie,Staples,BonnieStaples,105500,Nursing - Palestine,College of Nursing and Technology,19041,Administrative Asst II - Month,1,CL,BUSN,bstaples@uttyler.edu,CELL,903/316-7248
+TYL,6001127214,0,Linda,Friedemann,LindaFriedemann,105300,Nursing - Grad Program,College of Nursing and Technology,19040,Administrative Asst III,1,CL,BUSN,lfriedemann@uttyler.edu,CELL,217/649-1801
+TYL,6001208095,0,Tina,Taylor,TinaTaylor,105600,Health and Kinesiology,College of Nursing and Technology,19040,Administrative Asst III,1,CL,BUSN,TMcDonald@uttyler.edu,CELL,936/355-0778
+TYL,6001165611,0,Marlys,Thierry,MarlysThierry,105330,Petersen-Research,College of Nursing and Technology,19040,Administrative Asst III,1,CL,BUSN,mthierry@uttyler.edu,CELL,972/822-1188
+TYL,5000367409,0,Cheryl,Samuel,CherylSamuel,105100,Dean Nursing & HS,College of Nursing and Technology,19006,Administrative Srv Officer,1,CL,BUSN,csamuel@uttyler.edu,BUSN,903/565-5595
+TYL,5000115089,0,Barbara,Haas,BarbaraHaas,105300,Nursing - Grad Program,College of Nursing and Technology,10249,Assoc Dean CNHS/ExecDir-SON,1,AP,BUSN,bhaas@uttyler.edu,HOME,903/245-2330
+TYL,5000417637,0,Arturo,Arce-Esquivel,ArturoArce-Esquivel,105600,Health and Kinesiology,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,aarce@uttyler.edu,HOME,573/823-2332
+TYL,5000081387,0,Jenifer,Chilton,JeniferChilton,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,JChilton@uttyler.edu,HOME,903/586-9367
+TYL,5000044314,0,Cheryl,Cooper,CherylCooper,105600,Health and Kinesiology,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,CCooper@uttyler.edu,HOME,903/894-3774
+TYL,5000056491,0,Danice,Greer,DaniceGreer,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,DGreer@uttyler.edu,HOME,903/569-3103
+TYL,5000054867,0,Melinda,Hermanns,MelindaHermanns,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,MHermanns@uttyler.edu,BUSN,903/714-3269
+TYL,5000117655,0,Beth,Mastel-Smith,BethMastel-Smith,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,BMastel-Smith@uttyler.edu,BUSN,713/416-5690
+TYL,5000353874,0,Barbara,McAlister,BarbaraMcAlister,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,BMcalister@uttyler.edu,BUSN,214/240-3035
+TYL,5000372091,0,Cathy,Miller,CathyMiller,105300,Nursing - Grad Program,College of Nursing and Technology,10008,Assoc Professor,1,FA1,BUSN,CATHYMILLER@UTTYLER.EDU,HOME,361/318-4988
+TYL,5000112964,0,Katheryn,Courville,KatherynCourville,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,kcourville@uttyler.edu,HOME,903/235-5890
+TYL,6001119896,0,Jimi,Francis,JimiFrancis,105600,Health and Kinesiology,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,jfrancis@uttyler.edu,BUSN,775/303-3849
+TYL,5000098423,0,Christine,Gipson,ChristineGipson,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,cgipson@uttyler.edu,HOME,903/918-1684
+TYL,5000435867,0,Zhaomin,He,ZhaominHe,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,zhe@uttyler.edu,BUSN,806/445-3776
+TYL,5000021999,0,Pamela,Lake,PamelaLake,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,PLake@uttyler.edu,BUSN,903/721-1101
+TYL,5000355793,0,Marcie,Lusk,MarcieLusk,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,MLusk@uttyler.edu,HOME,325/864-2497
+TYL,5000077302,0,Andrea,Oliver,AndreaOliver,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,aoliver@uttyler.edu,HOME,936/254-8175
+TYL,5000431368,0,Jerri,Post,JerriPost,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,jpost@uttyler.edu,HOME,870/260-2276
+TYL,6001095300,0,Tanya,Schlemmer,TanyaSchlemmer,105300,Nursing - Grad Program,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,tschlemmer@uttyler.edu,HOME,469/223-4170
+TYL,6001119350,0,Benjamin,Tseng,BenjaminTseng,105600,Health and Kinesiology,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,btseng@uttyler.edu,HOME,214/918-2004
+TYL,6001144280,0,Michael,Wiggs,MichaelWiggs,105600,Health and Kinesiology,College of Nursing and Technology,10009,Asst Professor,1,FA1,BUSN,mwiggs@uttyler.edu,HOME,979/229-9293
+TYL,5000068186,0,Cindy,Rutledge,CindyRutledge,113400,Institutional Research,College of Nursing and Technology,19843,Bus Intelligence Analyst,1,CL,BUSN,CRutledge@uttyler.edu,HOME,903/829-5058
+TYL,5000438455,0,Jacki,Wyman,JackiWyman,113400,Institutional Research,College of Nursing and Technology,19843,Bus Intelligence Analyst,1,CL,BUSN,jwyman@uttyler.edu,CELL,903/216-6895
+TYL,1000779243,0,Patricia,Duncan,PatriciaDuncan,113200,Campus Computing Services,College of Nursing and Technology,18545,Classroom Technology Sup,1,CL,BUSN,pduncan@uttyler.edu,CELL,903/714-4304
+TYL,5000397437,0,Steven,Figueroa,StevenFigueroa,113200,Campus Computing Services,College of Nursing and Technology,18548,Classroom Technology Tech,1,CL,BUSN,sfigueroa@uttyler.edu,HOME,903/258-3343
+TYL,5000051267,1,Sharron,Ballard,SharronBallard,105330,Petersen-Research,College of Nursing and Technology,10032,Clinical Assoc Professor,1,FA2,BUSN,EBallard@uttyler.edu,HOME,469/877-3812
+TYL,6001219332,0,Diane,Brown,DianeBrown,105100,Dean Nursing & HS,College of Nursing and Technology,10032,Clinical Assoc Professor,1,FA2,BUSN,DBrown@uttyler.edu,BUSN,903/565-5714
+TYL,5000077143,0,John,Sloan,JohnSloan,105600,Health and Kinesiology,College of Nursing and Technology,10032,Clinical Assoc Professor,1,FA2,BUSN,jsloan@uttyler.edu,HOME,903/566-6968
+TYL,5000117772,0,Deborah,Crumpler,DeborahCrumpler,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,dcrumpler@uttyler.edu,HOME,903/759-2409
+TYL,6001279026,0,Julie,Hebert,JulieHebert,105100,Dean Nursing & HS,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,JHEBERT@UTTYLER.EDU,HOME,469/556-3633
+TYL,5000054699,0,Kathleen,Helgesen,KathleenHelgesen,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,KHelgesen@uttyler.edu,BUSN,619/838-6855
+TYL,6001086299,0,Katherine,Hensley,KatherineHensley,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,khensley@uttyler.edu,HOME,253/229-6809
+TYL,5000014296,0,Kara,Jones,KaraJones,105500,Nursing - Palestine,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,karajones@uttyler.edu,HOME,903/394-4412
+TYL,5000437303,0,Mary,McInnis,MaryMcInnis,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,mmcinnis@uttyler.edu,HOME,713/397-9773
+TYL,6001250185,0,Cheryl,Parker,CherylParker,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,CPARKER@UTTYLER.EDU,CELL,214/766-1326
+TYL,5000051108,0,Lynn,Summers,LynnSummers,105300,Nursing - Grad Program,College of Nursing and Technology,10033,Clinical Asst Professor,1,FA1,BUSN,LSummers@uttyler.edu,HOME,903/780-5077
+TYL,5000111366,0,Laurie,Brantley,LaurieBrantley,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,LBrantley@uttyler.edu,HOME,903/729-1157
+TYL,5000111178,0,Ann,Campbell,AnnCampbell,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,acampbell@uttyler.edu,HOME,903/871-8964
+TYL,5000117949,0,Kleanthe,Caruso,KleantheCaruso,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,kcaruso@uttyler.edu,BUSN,903/262-6804
+TYL,5000426971,0,Juli,Cotter,JuliCotter,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,JCOTTER@UTTYLER.EDU,BUSN,903/806-0356
+TYL,6001123250,0,Gina,Dudley,GinaDudley,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,gdudley@uttyler.edu,CELL,903/948-0232
+TYL,6001156370,0,Carol,Dyck,CarolDyck,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,cdyck@uttyler.edu,HOME,903/312-5323
+TYL,5000100371,0,Lavada,Fields,LavadaFields,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,LFields@uttyler.edu,HOME,903/570-9868
+TYL,5000115171,0,Julie,George,JulieGeorge,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,jgeorge@uttyler.edu,HOME,936/208-9418
+TYL,5000012386,0,Rose,Guidry,RoseGuidry,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,rguidry@uttyler.edu,HOME,409/789-1806
+TYL,5000051959,0,Amanda,Hall,AmandaHall,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,ahall@uttyler.edu,HOME,903/780-3935
+TYL,5000068159,0,Anna,Hanson,AnnaHanson,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,AnnaHanson@uttyler.edu,HOME,903/720-0103
+TYL,5000026496,0,Janice,Hawes,JaniceHawes,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,jhawes@uttyler.edu,CAMP,903/663-8220
+TYL,5000017381,0,Christi,Hawkins,ChristiHawkins,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,CHawkins@uttyler.edu,HOME,903/746-1798
+TYL,5000117473,0,Pamela,Heasley,PamelaHeasley,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,PHeasley@uttyler.edu,CELL,903/521-6546
+TYL,5000065915,0,Lisa,Herterich,LisaHerterich,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,LHerterich@uttyler.edu,HOME,903/235-8222
+TYL,5000374298,0,Shawn,Hillhouse,ShawnHillhouse,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,shillhouse@uttyler.edu,HOME,903/932-7497
+TYL,5000039319,0,Kathleen,Hudson,KathleenHudson,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,KHudson@uttyler.edu,HOME,903/240-7040
+TYL,5000119121,0,Teresa,Hunt,TeresaHunt,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,THunt@uttyler.edu,HOME,903/939-0245
+TYL,5000069260,0,Lee,Johnson,LeeJohnson,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,ljohnson@uttyler.edu,BUSN,903/312-8106
+TYL,5000079256,0,Janet,Jordan,JanetJordan,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,jjordan@uttyler.edu,HOME,903/725-3466
+TYL,5000106161,0,Vicki,Jowell,VickiJowell,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,vjowell@uttyler.edu,HOME,903/520-5788
+TYL,5000095604,0,Janet,King,JanetKing,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,JKing@uttyler.edu,HOME,903/863-2188
+TYL,5000363442,0,Autumn,Ladd,AutumnLadd,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,aladd@uttyler.edu,HOME,903/859-9861
+TYL,5000366380,0,Anita,Lowe,AnitaLowe,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,alowe@uttyler.edu,BUSN,903/445-9626
+TYL,6001165486,0,Kara,Marrs,KaraMarrs,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,kmarrs@uttyler.edu,BUSN,360/259-3338
+TYL,5000024580,0,Janelle,Martinez,JanelleMartinez,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,janellemartinez@uttyler.edu,HOME,903/553-9739
+TYL,5000077370,0,David,McIntyre,DavidMcIntyre,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA1,BUSN,DMcintyre@uttyler.edu,HOME,903/721-3622
+TYL,5000085376,0,Janice,Miles,JaniceMiles,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,JMiles@uttyler.edu,CELL,903/714-8647
+TYL,5000067724,0,Vicki,Nackos,VickiNackos,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,vnackos@uttyler.edu,CELL,903/714-7374
+TYL,6001163469,0,JBrian,Opella,JBrianOpella,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,bopella@uttyler.edu,HOME,903/566-5555
+TYL,5000042585,0,Angela,Preston,AngelaPreston,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,APreston@uttyler.edu,HOME,903/368-2072
+TYL,5000099706,0,Linda,Raymond,LindaRaymond,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,LRaymond@uttyler.edu,BUSN,903/279-5563
+TYL,5000432997,0,Dixie,Rose,DixieRose,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,drose@uttyler.edu,CELL,903/584-0364
+TYL,5000029728,0,Bethany,Rudolph,BethanyRudolph,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,BRudolph@uttyler.edu,HOME,903/275-8750
+TYL,5000068321,0,Sandra,Savage,SandraSavage,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,ssavage@uttyler.edu,HOME,903/882-4823
+TYL,5000064348,0,Linda,Southerland,LindaSoutherland,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,lsoutherland@uttyler.edu,HOME,903/876-3173
+TYL,5000042491,0,Theresa,Steele,TheresaSteele,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,TSteele@uttyler.edu,BUSN,903/235-9639
+TYL,5000021459,0,Katherine,Strout,KatherineStrout,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,kstrout@uttyler.edu,BUSN,903/407-6000
+TYL,5000117981,0,Karen,Walker,KarenWalker,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,kday@uttyler.edu,HOME,903/521-6854
+TYL,5000015549,0,Angela,Walters,AngelaWalters,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,awalters@uttyler.edu,HOME,903/922-9210
+TYL,5000043272,0,Mary,Williams,MaryWilliams,105500,Nursing - Palestine,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,marywilliams@uttyler.edu,HOME,903/312-4550
+TYL,5000042955,0,Rebecca,Williams,RebeccaWilliams,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,rebeccawilliams@uttyler.edu,HOME,903/244-4766
+TYL,6001144003,0,Kathleen,Wilson,KathleenWilson,105300,Nursing - Grad Program,College of Nursing and Technology,10031,Clinical Instructor,1,FA2,BUSN,kathleenwilson@uttyler.edu,CELL,903/521-3363
+TYL,6001088441,0,LaKeitha,Johnson,LaKeithaJohnson,105330,Petersen-Research,College of Nursing and Technology,11584,Clinical Liaison/Info Mgr,1,CL,BUSN,LaKeithaJohnson@uttyler.edu,CELL,972/900-2533
+TYL,5000421429,0,Christina,Chatman,ChristinaChatman,105100,Dean Nursing & HS,College of Nursing and Technology,14503,College Assessment Coordinator,1,CL,BUSN,cchatman@uttyler.edu,HOME,620/717-8118
+TYL,5000430251,0,Amy,Tiller,AmyTiller,113400,Institutional Research,College of Nursing and Technology,13112,Coordinator,1,CL,BUSN,atiller@uttyler.edu,CELL,469/471-6204
+TYL,5000390308,0,Kevin,McDaniel,KevinMcDaniel,113400,Institutional Research,College of Nursing and Technology,19354,Data Specialist,1,CL,BUSN,kmcdaniel@uttyler.edu,HOME,936/433-5538
+TYL,6001117229,0,Yong Tai,Wang,Yong TaiWang,105100,Dean Nursing & HS,College of Nursing and Technology,10225,Dean College Nurse & Hlth Sci,1,AP,BUSN,ywang@uttyler.edu,CELL,404/578-2869
+TYL,5000109201,0,Gregory,Mekalip,GregoryMekalip,113300,Information Technology,College of Nursing and Technology,10552,Director,1,AP,BUSN,gmekalip@uttyler.edu,HOME,903/852-4767
+TYL,5000061693,0,Cindy,Strawn,CindyStrawn,113400,Institutional Research,College of Nursing and Technology,10552,Director,1,AP,BUSN,CStrawn@uttyler.edu,HOME,903/595-5350
+TYL,5000117548,0,Christopher,Green,ChristopherGreen,115400,IT Security,College of Nursing and Technology,10472,"Director, Information Security",1,AP,BUSN,CGreen@uttyler.edu,HOME,903/534-1867
+TYL,6001134799,0,Greg,Brandenburg,GregBrandenburg,113300,Information Technology,College of Nursing and Technology,10551,Ex Director,1,AP,BUSN,gbrandenburg@uttyler.edu,CELL,903/530-1753
+TYL,5000408988,0,Melinda,Morris,MelindaMorris,105240,CNHS - CRizer,College of Nursing and Technology,19043,Grant Cord,1,CL,BUSN,mmorris@uttyler.edu,HOME,832/387-1811
+TYL,6001212737,0,Brenda,Matzke,BrendaMatzke,105330,Petersen-Research,College of Nursing and Technology,10041,Grant Investigator,1,FA2,BUSN,BMatzke@uttyler.edu,CELL,985/502-7133
+TYL,5000356768,0,James,Pagitt,JamesPagitt,113400,Institutional Research,College of Nursing and Technology,19348,Info Analyst,1,CL,BUSN,jpagitt@uttyler.edu,CELL,903/477-0279
+TYL,5000053173,0,Geanina,King,GeaninaKing,113300,Information Technology,College of Nursing and Technology,19390,IT Training & Comm Specialist,1,CL,BUSN,GBarna@uttyler.edu,HOME,972/672-2237
+TYL,5000411225,0,Myranda,DelPrincipe,MyrandaDelPrincipe,105500,Nursing - Palestine,College of Nursing and Technology,14442,Lab Info System Mgr,1,CL,BUSN,MDelPrincipe@uttyler.edu,CELL,903/922-3029
+TYL,5000011804,0,Reuben,Cowan,ReubenCowan,105600,Health and Kinesiology,College of Nursing and Technology,10011,Lecturer,1,FA2,BUSN,rcowan@uttyler.edu,HOME,903/216-7104
+TYL,5000108717,0,Michael,Vick,MichaelVick,113200,Campus Computing Services,College of Nursing and Technology,19306,Mgr  Campus Computing Srv,1,CL,BUSN,MVick@uttyler.edu,BUSN,903/566-7357
+TYL,5000101776,0,Jason,McQuigg,JasonMcQuigg,113300,Information Technology,College of Nursing and Technology,19315,Mgr Programming Srv,1,CL,BUSN,jmcquigg@uttyler.edu,HOME,903/330-4377
+TYL,5000433087,0,Jack,Rothrock,JackRothrock,113300,Information Technology,College of Nursing and Technology,19385,Network Analyst,1,CL,BUSN,jrothrock@uttyler.edu,HOME,713/269-7114
+TYL,5000116955,0,Shane,Mitchell,ShaneMitchell,113300,Information Technology,College of Nursing and Technology,19389,Network Techn,1,CL,BUSN,smitchell@uttyler.edu,BUSN,903/566-7199
+TYL,5000118286,0,Tammie,Cooper,TammieCooper,105300,Nursing - Grad Program,College of Nursing and Technology,11903,Nurse Recruiter,1,CL,BUSN,TCooper@uttyler.edu,CELL,903/330-9866
+TYL,5000058096,0,Lindsey,Rice,LindseyRice,105300,Nursing - Grad Program,College of Nursing and Technology,11903,Nurse Recruiter,1,CL,BUSN,lrice@uttyler.edu,HOME,903/316-8839
+TYL,5000074580,0,Claire,Kelley,ClaireKelley,105300,Nursing - Grad Program,College of Nursing and Technology,14443,Nursing Lab Coordinator,1,CL,BUSN,CKelley@uttyler.edu,HOME,903/283-2935
+TYL,5000007498,0,Danita,Alfred,DanitaAlfred,105300,Nursing - Grad Program,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,dalfred@uttyler.edu,BUSN,903/539-7019
+TYL,5000386235,0,Xuanliang,Dong,XuanliangDong,105600,Health and Kinesiology,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,xdong@uttyler.edu,HOME,903/565-5615
+TYL,5000026878,0,Lynne,Fineout-Overholt,LynneFineout-Overholt,105300,Nursing - Grad Program,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,lfineout@uttyler.edu,HOME,585/355-5452
+TYL,6001203297,0,Shih Yu,Lee,Shih YuLee,105300,Nursing - Grad Program,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,ShihYuLee@uttyler.edu,HOME,678/770-5118
+TYL,5000417790,0,Amy,Roberts,AmyRoberts,105300,Nursing - Grad Program,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,ARoberts@uttyler.edu,HOME,325/320-2032
+TYL,5000117664,0,William,Sorensen,WilliamSorensen,105600,Health and Kinesiology,College of Nursing and Technology,10007,Professor,1,FA1,BUSN,WSorensen@uttyler.edu,HOME,903/330-0817
+TYL,5000115639,0,Kimberly,Barge,KimberlyBarge,113300,Information Technology,College of Nursing and Technology,19327,Programmer Analyst,1,CL,BUSN,karagon@uttyler.edu,HOME,903/330-2249
+TYL,5000430645,0,Joel,Christiansen,JoelChristiansen,113300,Information Technology,College of Nursing and Technology,19327,Programmer Analyst,1,CL,HOME,JCHRISTIANSEN00@GMAIL.COM,CELL,903/530-3395
+TYL,6001219094,0,Ramona,Claiborne,RamonaClaiborne,115400,IT Security,College of Nursing and Technology,19388,Security Analyst,1,CL,BUSN,RClaiborne@uttyler.edu,CELL,903/721-5986
+TYL,5000005012,0,Megan,Hassell,MeganHassell,115400,IT Security,College of Nursing and Technology,19388,Security Analyst,1,CL,BUSN,mhassell@uttyler.edu,CELL,903/721-5468
+TYL,5000110780,0,Erica,Conway,EricaConway,105300,Nursing - Grad Program,College of Nursing and Technology,14446,Sim. Hospital & Skills Lab Dir,1,CL,BUSN,econway@uttyler.edu,CELL,903/312-0221
+TYL,5000036290,0,Kari,Kennel,KariKennel,105240,CNHS - CRizer,College of Nursing and Technology,10022,Specialist,1,FA1,BUSN,KKENNEL@UTTYLER.EDU,HOME,903/738-8491
+TYL,6001282868,0,Terri,Lipps,TerriLipps,105330,Petersen-Research,College of Nursing and Technology,10022,Specialist,1,FA2,HOME,TSHUMWAY@UTTYLER.EDU,HOME,309/840-0040
+TYL,5000045096,0,Elisa,Morrison,ElisaMorrison,105240,CNHS - CRizer,College of Nursing and Technology,10022,Specialist,1,FA2,BUSN,EMORRISON@UTTYLER.EDU,HOME,903/253-3501
+TYL,5000416949,0,Karen,Lutes,KarenLutes,113300,Information Technology,College of Nursing and Technology,19019,Sr Administrative Assoc,1,CL,BUSN,klutes@uttyler.edu,HOME,903/521-2121
+TYL,5000063283,0,Alyssa,Amaral Back,AlyssaAmaral Back,105100,Dean Nursing & HS,College of Nursing and Technology,19355,Sr Comp Equip Maint Techn,1,CL,BUSN,aamaral@uttyler.edu,CELL,903/245-9251
+TYL,5000061627,0,Matthew,Izard,MatthewIzard,113200,Campus Computing Services,College of Nursing and Technology,19355,Sr Comp Equip Maint Techn,1,CL,BUSN,mizard@uttyler.edu,BUSN,903/566-7102
+TYL,5000048538,0,Michael,Martin,MichaelMartin,113200,Campus Computing Services,College of Nursing and Technology,19355,Sr Comp Equip Maint Techn,1,CL,BUSN,mmartin@uttyler.edu,HOME,903/279-6385
+TYL,5000061825,0,Robbie,Woodley,RobbieWoodley,113300,Information Technology,College of Nursing and Technology,19384,Sr Network Analyst/Planner,1,CL,BUSN,RWoodley@uttyler.edu,HOME,903/871-2789
+TYL,5000061825,0,William,Woodley,WilliamWoodley,113300,Information Technology,College of Nursing and Technology,19384,Sr Network Analyst/Planner,1,CL,BUSN,RWoodley@uttyler.edu,HOME,903/871-2789
+TYL,5000117278,0,James,Reed,JamesReed,113300,Information Technology,College of Nursing and Technology,19326,Sr Programmer Analyst,1,CL,BUSN,JReed@uttyler.edu,HOME,903/769-9224
+TYL,5000120216,0,Christopher,King,ChristopherKing,113300,Information Technology,College of Nursing and Technology,19319,Sr Sys Analyst,1,CL,BUSN,CKing@uttyler.edu,CELL,903/646-1547
+TYL,5000120673,0,Matt,Scheffrahn,MattScheffrahn,113300,Information Technology,College of Nursing and Technology,19319,Sr Sys Analyst,1,CL,BUSN,mscheffrahn@uttyler.edu,CELL,903/714-6450
+TYL,5000120673,0,Matthew,Scheffrahn,MatthewScheffrahn,113300,Information Technology,College of Nursing and Technology,19319,Sr Sys Analyst,1,CL,BUSN,mscheffrahn@uttyler.edu,CELL,903/714-6450
+TYL,5000385384,0,Dakota,Dewoody,DakotaDewoody,113200,Campus Computing Services,College of Nursing and Technology,19333,Support Srv Analyst,1,CL,BUSN,ddewoody@uttyler.edu,HOME,903/353-1676
+TYL,5000110597,0,Clinton,Gordon,ClintonGordon,113200,Campus Computing Services,College of Nursing and Technology,19333,Support Srv Analyst,1,CL,BUSN,CGordon@uttyler.edu,CELL,903/312-7509
+TYL,5000420482,0,Waymon,Wesley,WaymonWesley,113200,Campus Computing Services,College of Nursing and Technology,19333,Support Srv Analyst,1,CL,BUSN,wwesley@uttyler.edu,HOME,903/581-2780
+TYL,5000051589,0,Bryan,Cross,BryanCross,113300,Information Technology,College of Nursing and Technology,19386,Sys Analyst,1,CL,BUSN,bcross@uttyler.edu,CAMP,903/566-6138
+TYL,5000076206,0,Eric,Figueroa,EricFigueroa,113300,Information Technology,College of Nursing and Technology,19386,Sys Analyst,1,CL,BUSN,efigueroa@uttyler.edu,CELL,903/780-4978
+TYL,5000405152,0,David,Christian,DavidChristian,113200,Campus Computing Services,College of Nursing and Technology,19309,Tech Support Asst Manager,1,CL,BUSN,dchristian@uttyler.edu,HOME,903/335-0671
+TYL,5000092182,0,Sherri,Whatley,SherriWhatley,113100,Accountability and Information,College of Nursing and Technology,10356,VP for IT & CIO,1,AP,BUSN,swhatley@uttyler.edu,CELL,903/258-4410
+TYL,5000435443,0,Natalie,Barrett,NatalieBarrett,115100,Business Affairs,"Education and Psychology, Finance",A004,Employee Contractor,0,POI,,,,
+TYL,5000415226,0,Rebecca,Brignac,RebeccaBrignac,115100,Business Affairs,"Education and Psychology, Finance",A004,Employee Contractor,0,POI,,,,
+TYL,5000412957,0,Michael,Quiballo,MichaelQuiballo,115100,Business Affairs,"Education and Psychology, Finance",A004,Employee Contractor,0,POI,,,,
+TYL,5000431438,0,Evelyn,Restivo,EvelynRestivo,124100,Ingenuity Center,"Education and Psychology, Finance",A002,Adjunct/Clinical Affiliate,0.0003,POI,BUSN,ERESTIVO@UTTYLER.EDU,,
+TYL,5000117273,2,Charles,Barke,CharlesBarke,103500,Psychology & Counseling,"Education and Psychology, Finance",10043,Alt Assigmt - Dept,0.0003,FA1,BUSN,CBarke@uttyler.edu,BUSN,903/262-7517
+TYL,6001118437,0,Lisa,Dempsey,LisaDempsey,103300,"Education, School of","Education and Psychology, Finance",13086,Academic Advisor II,1,CL,BUSN,ldempsey@uttyler.edu,CELL,512/573-8288
+TYL,5000117270,0,Ross,Sherman,RossSherman,103400,Education Leadership & Policy,"Education and Psychology, Finance",10007,Professor,0.0003,FA1,BUSN,rsherman@uttyler.edu,HOME,903/581-3711
+TYL,5000418266,1,Colleen,Swain,ColleenSwain,103100,College of Education & Psych,"Education and Psychology, Finance",10007,Professor,0.0003,FA1,BUSN,cswain@uttyler.edu,CELL,903/920-4332
+TYL,6001250096,2,Kathy,Ray,KathyRay,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.1333,FA2,HOME,DRKATHYRAY@YAHOO.COM,HOME,254/592-9480
+TYL,6001254496,0,Dalane,Bouillion,DalaneBouillion,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,HOME,DBOUILLION@VLKARCHITECTS.COM,BUSN,713/410-2922
+TYL,6001156042,0,Holley,Collier,HolleyCollier,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA1,BUSN,hcollier@uttyler.edu,BUSN,903/804-5148
+TYL,5000424787,0,Suzanne,Jungmann,SuzanneJungmann,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA1,BUSN,SJungmann@uttyler.edu,BUSN,936/637-0862
+TYL,5000045735,0,Amber,Penn,AmberPenn,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA1,BUSN,apenn@uttyler.edu,HOME,903/586-6510
+TYL,5000012949,0,Beatrice,Taylor,BeatriceTaylor,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA1,HOME,CHINAGURO@YAHOO.COM,HOME,903/758-8149
+TYL,6001127270,0,Steven,Wurtz,StevenWurtz,103300,"Education, School of","Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA1,BUSN,swurtz@uttyler.edu,HOME,682/553-9834
+TYL,5000360819,0,Teresa,Smith,TeresaSmith,103400,"Education, School of","Education and Psychology, Finance",19041,Administrative Asst II - Month,1,CL,BUSN,teresayoung@uttyler.edu,BUSN,903/566-7055
+TYL,5000362998,0,Julie,Delello,JulieDelello,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,0.25,FA1,BUSN,jdelello@uttyler.edu,BUSN,903/908-2565
+TYL,6001118439,0,Annamary,Consalvo,AnnamaryConsalvo,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,aconsalvo@uttyler.edu,BUSN,512/627-6441
+TYL,6001198936,0,Gina,Doepker,GinaDoepker,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,GDoepker@uttyler.edu,BUSN,229/507-8526
+TYL,5000028936,0,Frank,Dykes,FrankDykes,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,FDykes@uttyler.edu,BUSN,903/746-3877
+TYL,5000117593,0,John,Lamb,JohnLamb,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,JLamb@uttyler.edu,HOME,903/330-8165
+TYL,5000118012,0,Joanna,Neel,JoannaNeel,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,JNeel@uttyler.edu,HOME,903/839-2756
+TYL,5000418973,0,Jessica,Rueter,JessicaRueter,103300,"Education, School of","Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,jrueter@uttyler.edu,HOME,817/637-9253
+TYL,6001219585,0,Cheon-woo,Han,Cheon-wooHan,103300,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,CHan@uttyler.edu,BUSN,512/364-6464
+TYL,6001137534,0,Jennifer,Jones,JenniferJones,103400,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,jenniferjones@uttyler.edu,BUSN,469/371-0034
+TYL,6001116064,1,Gary,Miller,GaryMiller,103400,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,gmiller@uttyler.edu,BUSN,940/536-8054
+TYL,6001116063,1,Yanira,Oliveras Ortiz,YaniraOliveras Ortiz,103400,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,yoliverasortiz@uttyler.edu,BUSN,817/706-9056
+TYL,6001282828,0,Christopher,Thomas,ChristopherThomas,103300,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,CTHOMAS@UTTYLER.EDU,HOME,812/212-1309
+TYL,5000117943,0,William,Andrews,WilliamAndrews,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,BUSN,PAndrews@uttyler.edu,HOME,903/581-2085
+TYL,5000396087,0,Rachel,Bloser,RachelBloser,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,BUSN,ROates@uttyler.edu,HOME,936/465-2459
+TYL,6001137536,0,Staci,Zolkoski,StaciZolkoski,103300,"Education, School of","Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,szolkoski@uttyler.edu,HOME,214/282-6310
+TYL,5000061968,0,Ashlee,Coleman,AshleeColeman,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,BUSN,abraswell@uttyler.edu,HOME,903/372-7578
+TYL,5000084158,1,Wesley,Hickey,WesleyHickey,103400,"Education, School of","Education and Psychology, Finance",10018,Chair,0.25,FA1,BUSN,WHickey@uttyler.edu,HOME,903/570-4277
+TYL,5000362089,0,William,Goette,WilliamGoette,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,BUSN,wgoette@uttyler.edu,HOME,903/279-1765
+TYL,6001157506,0,Jana,Vanderslice,JanaVanderslice,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.2,FA2,BUSN,jvanderslice@uttyler.edu,HOME,903/283-0364
+TYL,5000084737,0,Donna,Gatewood,DonnaGatewood,103500,Psychology & Counseling,"Education and Psychology, Finance",10022,Specialist,0.2,FA2,BUSN,dgatewood@uttyler.edu,HOME,903/245-1452
+TYL,6001272157,2,Michael,Barnett,MichaelBarnett,103500,Psychology & Counseling,"Education and Psychology, Finance",10043,Alt Assigmt - Dept,0.25,FA2,HOME,MICHAELDAVIDBARNETT@GMAIL.COM,BUSN,903/566-7251
+TYL,6001278360,2,Lauren,Kirby,LaurenKirby,103500,Psychology & Counseling,"Education and Psychology, Finance",10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,LKIRBY@UTTYLER.EDU,HOME,334/703-5635
+TYL,5000441090,0,Olivia,Howard,OliviaHoward,103500,Psychology & Counseling,"Education and Psychology, Finance",10022,Specialist,0.25,FA2,HOME,OHOWARD3@PATRIOTS.UTTYLER.EDU,BUSN,903.566.7130
+TYL,5000040198,0,Rene,Hernandez,ReneHernandez,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.4,FA2,BUSN,rhernandez@uttyler.edu,HOME,915/355-1675
+TYL,5000090946,0,Katherine,Pang,KatherinePang,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.4,FA2,HOME,KPANG@LAKEWOODWELLNESSPARTNERS.COM,BUSN,214/531-7624
+TYL,5000040297,0,Lauren,Perry,LaurenPerry,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.4,FA1,BUSN,lperry@uttyler.edu,HOME,903/581-6093
+TYL,6001121026,1,Amy,Hayes,AmyHayes,103390,Education - Research - Lamb,"Education and Psychology, Finance",10046,Alt Assigmt - Ind Research,0.4325,FA3,BUSN,ahayes@uttyler.edu,BUSN,936/569-3753
+TYL,6001284906,0,Lauren,Thomas,LaurenThomas,103500,Psychology & Counseling,"Education and Psychology, Finance",13086,Academic Advisor II,0.5,CL,HOME,LAURENTHOMAS@UTTYLER.EDU,BUSN,765/265-1945
+TYL,5000012533,0,Anthony,Lawson,AnthonyLawson,103500,Psychology & Counseling,"Education and Psychology, Finance",10013,Adjunct Lecturer,0.8,FA2,BUSN,alawson@uttyler.edu,HOME,903/939-0009
+TYL,5000391195,0,Kristie,Allen,KristieAllen,103500,Psychology & Counseling,"Education and Psychology, Finance",13085,Academic Advisor III,1,CL,BUSN,kallen@uttyler.edu,BUSN,903/565-5744
+TYL,5000117388,0,Linda,Speed,LindaSpeed,103500,Psychology & Counseling,"Education and Psychology, Finance",19041,Administrative Asst II - Month,1,CL,BUSN,lspeed@uttyler.edu,HOME,903/330-9179
+TYL,6001123995,0,Debra,Ellis,DebraEllis,103100,College of Education & Psych,"Education and Psychology, Finance",19040,Administrative Asst III,1,CL,BUSN,dellis@uttyler.edu,CELL,805/712-8436
+TYL,5000386071,0,Sarah,Sass,SarahSass,103500,Psychology & Counseling,"Education and Psychology, Finance",10008,Assoc Professor,1,FA1,BUSN,ssass@uttyler.edu,BUSN,217/649-7676
+TYL,6001143376,0,Jessica,Holm,JessicaHolm,103500,Psychology & Counseling,"Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,jholm@uttyler.edu,HOME,352/266-4983
+TYL,5000420953,0,Christine,McNichols Witt,ChristineMcNichols Witt,103500,Psychology & Counseling,"Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,cmcnichols@uttyler.edu,HOME,361/442-8147
+TYL,5000026582,0,Priscilla,Gilpin,PriscillaGilpin,103300,"Education, School of","Education and Psychology, Finance",10011,Lecturer,1,FA2,BUSN,PGilpin@uttyler.edu,HOME,903/871-8273
+TYL,6001144002,1,Randall,Moate,RandallMoate,103500,Psychology & Counseling,"Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,rmoate@uttyler.edu,HOME,717/875-7469
+TYL,5000118397,0,William,Geiger,WilliamGeiger,103300,"Education, School of","Education and Psychology, Finance",10007,Professor,0.0003,FA1,BUSN,wgeiger@uttyler.edu,HOME,903/939-2504
+TYL,5000117533,1,Michael,Odell,MichaelOdell,103300,"Education, School of","Education and Psychology, Finance",10007,Professor,0.5,FA1,BUSN,MOdell@uttyler.edu,HOME,208/301-0542
+TYL,6001201949,0,Erin,West,ErinWest,103500,Psychology & Counseling,"Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,EWest@uttyler.edu,BUSN,330/780-5153
+TYL,5000419925,0,Karl,Witt,KarlWitt,103500,Psychology & Counseling,"Education and Psychology, Finance",10009,Asst Professor,1,FA1,BUSN,kwitt@uttyler.edu,BUSN,806/438-4008
+TYL,5000361928,1,Teresa,Kennedy,TeresaKennedy,103300,"Education, School of","Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,tkennedy@uttyler.edu,HOME,303/868-7455
+TYL,6001271456,0,Nakeia,Burrell,NakeiaBurrell,115200,Budget Office,"Education and Psychology, Finance",19174,Budget & Reporting  Mgr,1,CL,BUSN,NBURRELL@UTTYLER.EDU,CELL,936/645-6329
+TYL,5000439876,0,Marie,Adams,MarieAdams,115200,Budget Office,"Education and Psychology, Finance",19175,Budget & Reporting Analyst II,1,CL,BUSN,madams@uttyler.edu,HOME,850/420-0423
+TYL,5000102696,0,Launa,Bacon,LaunaBacon,115200,Budget Office,"Education and Psychology, Finance",19175,Budget & Reporting Analyst II,1,CL,BUSN,LBacon@uttyler.edu,CELL,903/360-3019
+TYL,5000430057,0,Brenda,Golemon,BrendaGolemon,115200,Budget Office,"Education and Psychology, Finance",19175,Budget & Reporting Analyst II,1,CL,BUSN,bgolemon@uttyler.edu,HOME,903/586-7269
+TYL,5000358590,0,Esteici,Licea,EsteiciLicea,115200,Budget Office,"Education and Psychology, Finance",19175,Budget & Reporting Analyst II,1,CL,BUSN,ELicea@uttyler.edu,CELL,903/780-4890
+TYL,6001217475,0,Charlotte,Rose,CharlotteRose,115300,Financial Services,"Education and Psychology, Finance",19822,Business Analyst,1,CL,BUSN,CharlotteRose@uttyler.edu,CELL,903/279-5087
+TYL,5000117624,0,O,Jones,OJones,115300,Financial Services,"Education and Psychology, Finance",19652,Buyer I,1,CL,BUSN,fjones@uttyler.edu,HOME,903/592-4013
+TYL,5000111415,0,Daniel,Pippin,DanielPippin,115300,Financial Services,"Education and Psychology, Finance",19651,Buyer II,1,CL,BUSN,DPippin@uttyler.edu,CELL,903/452-7784
+TYL,6001137750,0,Sheila,Darcey,SheilaDarcey,115300,Financial Services,"Education and Psychology, Finance",19650,Buyer III,1,CL,BUSN,sdarcey@uttyler.edu,CELL,903 714 4825
+TYL,5000009427,0,Shaquita,Leadon,ShaquitaLeadon,115300,Financial Services,"Education and Psychology, Finance",19603,Cash Manager,1,CL,BUSN,sleadon@uttyler.edu,CELL,903/658-3702
+TYL,6001119889,0,Marlena,Sanders,MarlenaSanders,115300,Financial Services,"Education and Psychology, Finance",13112,Coordinator,1,CL,BUSN,msanders@uttyler.edu,CELL,903/520-5520
+TYL,5000095437,0,Virginia,Fender,VirginiaFender,103100,College of Education & Psych,"Education and Psychology, Finance",10252,Dir Ed Cert & Progm Account,1,AP,BUSN,GFender@uttyler.edu,CELL,903/530-8717
+TYL,5000096689,0,Cindy,Troyer,CindyTroyer,115300,Financial Services,"Education and Psychology, Finance",10409,Director  Financial Srv,1,AP,BUSN,CTroyer@uttyler.edu,CELL,903/330-1243
+TYL,6001178726,0,Graciela,Buentello,GracielaBuentello,115350,Human Resources,"Education and Psychology, Finance",10554,Director of HR & Diversity,1,AP,BUSN,GBUENTELLO@UTTYLER.EDU,HOME,956/319-7169
+TYL,5000118241,0,Faye,Ingram,FayeIngram,115300,Financial Services,"Education and Psychology, Finance",19070,Disbursement and Travel Mgr,1,CL,BUSN,FIngram@uttyler.edu,HOME,903/581-0185
+TYL,6001119891,0,Lisa,Powell,LisaPowell,115300,Financial Services,"Education and Psychology, Finance",19194,Disbursements and Travel Techn,1,CL,BUSN,lpowell@uttyler.edu,CELL,903/804-5155
+TYL,6001207034,0,Patricia,Speer,PatriciaSpeer,115300,Financial Services,"Education and Psychology, Finance",19194,Disbursements and Travel Techn,1,CL,BUSN,PSpeer@uttyler.edu,CELL,903/520-2541
+TYL,6001219108,0,Danielle,McDonald,DanielleMcDonald,115200,Budget Office,"Education and Psychology, Finance",19185,Financial Reports Mgr,1,CL,BUSN,DanielleMcDonald@uttyler.edu,CELL,702/296-5813
+TYL,6001086268,0,Kenneth,Lovett,KennethLovett,115350,Human Resources,"Education and Psychology, Finance",19543,HR Assistant,1,CL,BUSN,KLOVETT@UTTYLER.EDU,CELL,903/316-2207
+TYL,5000430954,0,Rhonda,Toole,RhondaToole,115350,Human Resources,"Education and Psychology, Finance",19543,HR Assistant,1,CL,BUSN,rtoole@uttyler.edu,CELL,903/780-6709
+TYL,5000069859,0,Laquita,Graham,LaquitaGraham,115350,Human Resources,"Education and Psychology, Finance",19555,HR Manager,1,CL,CAMP,LGRAHAM@UTTYLER.EDU,HOME,903/952-7198
+TYL,6001200628,0,Casey,San,CaseySan,115350,Human Resources,"Education and Psychology, Finance",19542,HR Specialist,1,CL,BUSN,CHeys@uttyler.edu,HOME,903/617-0302
+TYL,6001271309,0,Paula,Grabowski,PaulaGrabowski,115300,Financial Services,"Education and Psychology, Finance",19640,HUB Coordinator,1,CL,OTHR,PELLIS.EASTTX@GMAIL.COM,CELL,903/922-0378
+TYL,5000076660,0,Sharon,Amaral Back,SharonAmaral Back,103100,College of Education & Psych,"Education and Psychology, Finance",18111,Instruct & Eval Support Spec,1,CL,BUSN,sback@uttyler.edu,CELL,903/520-2177
+TYL,5000404227,0,Kouider,Mokhtari,KouiderMokhtari,103300,"Education, School of","Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,kmokhtari@uttyler.edu,HOME,513/593-0239
+TYL,5000117883,0,Laura,Owens,LauraOwens,103500,Psychology & Counseling,"Education and Psychology, Finance",10011,Lecturer,1,FA2,BUSN,lowens@uttyler.edu,HOME,903/283-8894
+TYL,5000077792,0,Ryan,Lilly,RyanLilly,115300,Financial Services,"Education and Psychology, Finance",19190,Payroll Analyst,1,CL,BUSN,RLilly@uttyler.edu,HOME,903/521-8406
+TYL,6001116803,0,Stephanie,Shrewsbury,StephanieShrewsbury,115300,Financial Services,"Education and Psychology, Finance",19605,Payroll Manager,1,CL,BUSN,sshrewsbury@uttyler.edu,CELL,903/431-3465
+TYL,5000118348,0,Belinda,Dean,BelindaDean,115300,Financial Services,"Education and Psychology, Finance",19191,Payroll Techn,1,CL,BUSN,bdean@uttyler.edu,CELL,903/574-0850
+TYL,5000042038,0,Virgil,Murray,VirgilMurray,115300,Financial Services,"Education and Psychology, Finance",19818,Procurement Officer & Risk Mgr,1,CL,BUSN,LMurray@uttyler.edu,CELL,903/571-5513
+TYL,5000035889,0,Dennis,Combs,DennisCombs,103500,Psychology & Counseling,"Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,DCombs@uttyler.edu,BUSN,903.565588
+TYL,5000117517,0,Robert,Stevens,RobertStevens,103300,"Education, School of","Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,RStevens@uttyler.edu,HOME,903/526-9921
+TYL,5000091259,0,Vance,Vaughn,VanceVaughn,103400,"Education, School of","Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,VVaughn@uttyler.edu,HOME,903/675-2908
+TYL,5000101465,1,Bernadine,Hansen,BernadineHansen,103300,"Education, School of","Education and Psychology, Finance",10022,Specialist,0.252,FA2,BUSN,bhansen@uttyler.edu,HOME,903/514-5341
+TYL,5000117267,0,Eric,Stocks,EricStocks,103500,Psychology & Counseling,"Education and Psychology, Finance",10007,Professor,1,FA1,BUSN,EStocks@uttyler.edu,HOME,903/526-5955
+TYL,5000430766,1,Cynthia,Sprayberry,CynthiaSprayberry,103300,"Education, School of","Education and Psychology, Finance",10049,Tutor,0.25,CLN,BUSN,csprayberry@uttyler.edu,BUSN,832/795-2435
+TYL,6001160797,0,Paul,Fitts,PaulFitts,115300,Financial Services,"Education and Psychology, Finance",10410,Purchasing Manager,1,CL,BUSN,pfitts@uttyler.edu,CELL,936 662 5891
+TYL,5000090222,0,Angela,Bryan,AngelaBryan,115300,Financial Services,"Education and Psychology, Finance",19189,Senior Payroll Analyst,1,CL,BUSN,abryan@uttyler.edu,CELL,903/240-0805
+TYL,5000421892,0,William,Hatch,WilliamHatch,124100,Ingenuity Center,"Education and Psychology, Finance",19045,Site Cord,1,CL,BUSN,whatch@uttyler.edu,HOME,903/948-7255
+TYL,5000378504,0,Sydni,Blundell,SydniBlundell,103100,College of Education & Psych,"Education and Psychology, Finance",13670,Spec Asst to Dean/Asst Coord,1,CL,BUSN,sblundell@uttyler.edu,HOME,903/930-4975
+TYL,5000117397,0,Lisa,Wyatt,LisaWyatt,115100,Business Affairs,"Education and Psychology, Finance",19019,Sr Administrative Assoc,1,CL,BUSN,LWyatt@uttyler.edu,CELL,903/520-4703
+TYL,5000357090,0,Christopher,Powell,ChristopherPowell,124100,Ingenuity Center,"Education and Psychology, Finance",14440,Sr Lab Techn,1,CL,BUSN,cpowell@uttyler.edu,HOME,903/730-1142
+TYL,5000117637,0,Rosemary,Barke,RosemaryBarke,103500,Psychology & Counseling,"Education and Psychology, Finance",10012,Sr Lecturer,1,FA2,BUSN,RBarke@uttyler.edu,BUSN,903/262-6899
+TYL,6001278087,0,Kimberly,Laird,KimberlyLaird,115100,Business Affairs,"Education and Psychology, Finance",10110,VP for Budget & Finance / CFO,1,AP,HOME,KLAIRD@UTTYLER.EDU,HOME,214/649-7018
+TYL,6001243921,0,Ambrose,Ononye,AmbroseOnonye,104300,Electrical Engineering,"Engineering, Athletics, Marketing",A002,Adjunct/Clinical Affiliate,0,POI,BUSN,AOnonye@uttyler.edu,BUSN,281/979-1825
+TYL,6001284234,0,James,Vasil,JamesVasil,104300,Electrical Engineering,"Engineering, Athletics, Marketing",A002,Adjunct/Clinical Affiliate,0,POI,HOME,JAMES.VASIL@GMAIL.COM,CELL,214/766-1184
+TYL,5000404132,2,Nelson,Fumo,NelsonFumo,104100,College of Engineering,"Engineering, Athletics, Marketing",10044,Alt Assigmt - College,0,FA1,BUSN,nfumo@uttyler.edu,BUSN,662/312-4483
+TYL,5000081661,1,Veronica,Viesca,VeronicaViesca,114200,Patriot Center,"Engineering, Athletics, Marketing",13119,Fitness Instructor,0,CLN,BUSN,VViesca@uttyler.edu,HOME,903/343-7352
+TYL,5000430187,1,Gokhan,Saygili,GokhanSaygili,104220,Civil Eng - Research - Saygili,"Engineering, Athletics, Marketing",10041,Grant Investigator,0.0003,FA1,BUSN,gsaygili@uttyler.edu,HOME,512/934-7946
+TYL,6001281816,0,Truman,Edminster,TrumanEdminster,104200,Civil Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.0665,FA1,HOME,TEDMINSTER@EHRAINC.COM,BUSN,713/824-7367
+TYL,6001284181,0,Krishna,Goparaju,KrishnaGoparaju,104200,Civil Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.1333,FA2,HOME,KRISHNAGOPARAJU@HOTMAIL.COM,HOME,832/344-6639
+TYL,6001284178,0,Deju,Nation,DejuNation,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.1333,FA2,HOME,DEJUNATION@GMAIL.COM,HOME,832/571-0980
+TYL,6001243923,0,Jennings,Brennion,JenningsBrennion,104200,Civil Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.2,FA2,BUSN,JBrennion@uttyler.edu,BUSN,903/759-8217
+TYL,6001283691,0,Vanesha,Nicholson,VaneshaNicholson,104200,Civil Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.2,FA1,HOME,VANESHWASHINGTON@YAHOO.COM,HOME,832/368-0608
+TYL,6001284180,0,Gelareh,Sanjabi,GelarehSanjabi,104200,Civil Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.2,FA2,HOME,GELAREHBS@GMAIL.COM,HOME,757/362-7281
+TYL,5000117881,1,Joseph,Nalbone,JosephNalbone,104200,Civil Engineering,"Engineering, Athletics, Marketing",10018,Chair,0.25,FA1,BUSN,TNalbone@uttyler.edu,BUSN,903/312-2029
+TYL,6001171165,0,Bryanah,Capps,BryanahCapps,114200,Patriot Center,"Engineering, Athletics, Marketing",13119,Fitness Instructor,0.25,CLN,HOME,BRYANAHCAPPS15@GMAIL.COM,HOME,903/808-3626
+TYL,6001132013,0,Joseph,Kamto,JosephKamto,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10013,Adjunct Lecturer,0.4668,FA2,BUSN,jkamto@uttyler.edu,HOME,832/630-2683
+TYL,5000028348,0,Alisa,Everett,AlisaEverett,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CL,BUSN,aeverett@uttyler.edu,HOME,903/571-8619
+TYL,6001205404,0,Kody,Gautreaux,KodyGautreaux,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CLN,BUSN,KGautreaux@uttyler.edu,HOME,337/247-5636
+TYL,6001170387,0,Dennis,Godoy,DennisGodoy,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CLN,HOME,DGODOY@PATRIOTS.UTTYLER.EDU,HOME,903/262-6985
+TYL,6001115275,0,Mallory,Matthews,MalloryMatthews,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CLN,BUSN,MallorySanders@uttyler.edu,CELL,817/454-5577
+TYL,5000383895,1,David,Nedbalek,DavidNedbalek,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CL,BUSN,DNedbalek@uttyler.edu,HOME,903/316-3847
+TYL,5000437223,0,Hannah,Pascual,HannahPascual,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CL,BUSN,hpascual@uttyler.edu,BUSN,903/581-9453
+TYL,5000390392,0,Whitney,Simmons,WhitneySimmons,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CLN,BUSN,wsimmons@uttyler.edu,HOME,903/452-9352
+TYL,6001096619,0,Dalton,Smith,DaltonSmith,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CLN,HOME,DSMITH86@PATRIOTS.UTTYLER.EDU,HOME,214/770-3780
+TYL,6001163471,0,Anthony,Springer,AnthonySpringer,114100,Athletics,"Engineering, Athletics, Marketing",13555,Coaching Assistant,0.4875,CL,BUSN,aspringer@uttyler.edu,CELL,903/372-1188
+TYL,6001281622,1,Nael,Barakat,NaelBarakat,104400,Mechanical Engineering,"Engineering, Athletics, Marketing",10007,Professor,0.75,FA1,BUSN,NBARAKAT@UTTYLER.EDU,HOME,517/944-1302
+TYL,5000067742,0,Hassan,El-Kishky,HassanEl-Kishky,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10007,Professor,0.75,FA1,BUSN,helkishky@uttyler.edu,HOME,903/534-5892
+TYL,5000118354,0,Michael,McGinnis,MichaelMcGinnis,104200,Civil Engineering,"Engineering, Athletics, Marketing",10007,Professor,0.75,FA1,BUSN,MMcGinnis@uttyler.edu,HOME,903/245-7065
+TYL,5000117980,1,Muthukrishnan,Sathyamoorthy,MuthukrishnanSathyamoorthy,104400,Mechanical Engineering,"Engineering, Athletics, Marketing",10007,Professor,0.75,FA1,BUSN,MSathyamoorthy@uttyler.edu,HOME,903/566-2068
+TYL,6001134593,1,Tahsin,Khajah,TahsinKhajah,104400,Mechanical Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,0.9163,FA1,BUSN,tkhajah@uttyler.edu,HOME,757/692-5961
+TYL,5000358550,0,Tyler,Armstrong,TylerArmstrong,104100,College of Engineering,"Engineering, Athletics, Marketing",13086,Academic Advisor II,1,CL,BUSN,tarmstrong@uttyler.edu,CELL,254/317-2385
+TYL,6001126138,0,LaTosha,Cleaver,LaToshaCleaver,114200,Patriot Center,"Engineering, Athletics, Marketing",19020,Administrative Assoc,1,CL,BUSN,lcleaver@uttyler.edu,CELL,903/330-9797
+TYL,6001134644,0,Jill,Crist,JillCrist,104100,College of Engineering,"Engineering, Athletics, Marketing",19020,Administrative Assoc,1,CL,BUSN,jcrist@uttyler.edu,CELL,903/574-4892
+TYL,5000067753,0,Diana,Darnell,DianaDarnell,114100,Athletics,"Engineering, Athletics, Marketing",19020,Administrative Assoc,1,CL,BUSN,DDarnell@uttyler.edu,BUSN,903/566-7212
+TYL,5000007205,0,Melissa,Hill,MelissaHill,116100,Enrollment Management,"Engineering, Athletics, Marketing",19020,Administrative Assoc,1,CL,BUSN,mhill@uttyler.edu,HOME,903/871-3725
+TYL,5000071819,0,Saundra,Riley,SaundraRiley,116600,Marketing and Communications,"Engineering, Athletics, Marketing",19020,Administrative Assoc,1,CL,BUSN,CRiley@uttyler.edu,CELL,903/360-6746
+TYL,6001214434,0,Renee,Mayrant Quackenbush,ReneeMayrant Quackenbush,104200,Civil Engineering,"Engineering, Athletics, Marketing",19041,Administrative Asst II - Month,1,CL,BUSN,RQuackenbush@uttyler.edu,CELL,903 3302237
+TYL,5000120860,0,Christine,Smith,ChristineSmith,104100,College of Engineering,"Engineering, Athletics, Marketing",19041,Administrative Asst II - Month,1,CL,BUSN,ChristineSmith@uttyler.edu,CELL,903/229-0523
+TYL,5000006006,0,Kristin,Stephens,KristinStephens,104300,Electrical Engineering,"Engineering, Athletics, Marketing",19041,Administrative Asst II - Month,1,CL,BUSN,KSTEPHENS@UTTYLER.EDU,HOME,903/714-0751
+TYL,5000377013,0,Chelsea,Crain,ChelseaCrain,118200,Graduate Admissions,"Engineering, Athletics, Marketing",19040,Administrative Asst III,1,CL,BUSN,ccrain@uttyler.edu,CELL,903/730-1010
+TYL,5000036460,0,Tonya,Irwin,TonyaIrwin,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",19040,Administrative Asst III,1,CL,BUSN,tirwin@uttyler.edu,CELL,903/245-9590
+TYL,5000034787,0,Julie,Pharr,JuliePharr,114100,Athletics,"Engineering, Athletics, Marketing",19040,Administrative Asst III,1,CL,BUSN,jpharr@uttyler.edu,CELL,903/590-7370
+TYL,5000024308,0,Katrina,Smith,KatrinaSmith,104100,College of Engineering,"Engineering, Athletics, Marketing",19006,Administrative Srv Officer,1,CL,BUSN,KatrinaSmith@uttyler.edu,CELL,903/229-7093
+TYL,6001282929,0,Jill,Patton,JillPatton,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13680,Admissions Asst,1,CL,HOME,PATTONHOUSE4@GMAIL.COM,HOME,903/316-4270
+TYL,5000394028,0,Brittany,Johnson,BrittanyJohnson,116300,Admissions,"Engineering, Athletics, Marketing",13681,Admissions Data Spec I,1,CL,BUSN,brittanyjohnson@uttyler.edu,BUSN,903/565-5642
+TYL,5000076634,0,Sabah,Snoubar,SabahSnoubar,116300,Admissions,"Engineering, Athletics, Marketing",13681,Admissions Data Spec I,1,CL,BUSN,ssnoubar@uttyler.edu,HOME,903/530-3866
+TYL,5000407319,0,April,Bedan,AprilBedan,116300,Admissions,"Engineering, Athletics, Marketing",13682,Admissions Data Spec II,1,CL,BUSN,abedan@uttyler.edu,CELL,903/941-4177
+TYL,5000422133,0,Zachary,Bourne,ZacharyBourne,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,zbourne@uttyler.edu,HOME,713/501-5857
+TYL,5000101546,0,Jeffrey,Hawthorne,JeffreyHawthorne,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,jhawthorne@uttyler.edu,HOME,214/458-4403
+TYL,6001253439,0,Heather,Hernandez,HeatherHernandez,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,HSEIDENSCHMIDT@UTTYLER.EDU,CELL,817/733-8123
+TYL,5000401881,0,Ashlynn,Jones,AshlynnJones,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,ashlynnjones@uttyler.edu,BUSN,903/617-6813
+TYL,6001212990,0,Charles,Keith,CharlesKeith,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,CKeith@uttyler.edu,CELL,903/253-3577
+TYL,6001213012,0,Kathryn,Ramirez,KathrynRamirez,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,KRamirez@uttyler.edu,CELL,760/453-6626
+TYL,5000355323,0,Jessica,Sibbing,JessicaSibbing,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,jsibbing@uttyler.edu,CELL,562 2742043
+TYL,5000118150,0,Pamela,Suell,PamelaSuell,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13615,Admissions Rep,1,CL,BUSN,psuell@uttyler.edu,BUSN,713/718-5916
+TYL,5000421190,0,April,Moore,AprilMoore,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18613,Art Director,1,AP,BUSN,amoore@uttyler.edu,CELL,903/571-2048
+TYL,5000019423,0,Andrew,Barnson,AndrewBarnson,116100,Enrollment Management,"Engineering, Athletics, Marketing",19152,Assistant Director,1,CL,BUSN,abarnson@uttyler.edu,,
+TYL,6001278176,0,Tim,Fairhead,TimFairhead,114100,Athletics,"Engineering, Athletics, Marketing",19152,Assistant Director,1,CL,CAMP,TFAIRHEAD@UTTYLER.EDU,HOME,585/447-7268
+TYL,5000101698,0,Travis,Longino,TravisLongino,116100,Enrollment Management,"Engineering, Athletics, Marketing",19152,Assistant Director,1,CL,BUSN,tlongino@uttyler.edu,HOME,903/439-5698
+TYL,5000371021,0,Christopher,Thompson,ChristopherThompson,114200,Patriot Center,"Engineering, Athletics, Marketing",19152,Assistant Director,1,CL,BUSN,christopherthompson@uttyler.edu,BUSN,817/480-4801
+TYL,5000418779,0,Michael,Gangone,MichaelGangone,104200,Civil Engineering,"Engineering, Athletics, Marketing",10008,Assoc Professor,1,FA1,BUSN,mgangone@uttyler.edu,CELL,802/236-0103
+TYL,5000118036,0,Ron,Pieper,RonPieper,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10008,Assoc Professor,1,FA1,BUSN,rpieper@uttyler.edu,HOME,903/566-8188
+TYL,6001250182,0,James,Bonnette,JamesBonnette,114100,Athletics,"Engineering, Athletics, Marketing",10521,Asst AD - Compliance,1,AP,BUSN,JBONNETTE@UTTYLER.EDU,HOME,330/414-5660
+TYL,5000390035,0,Caitlin,Cronan,CaitlinCronan,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,ccronan@uttyler.edu,HOME,972/904-9050
+TYL,6001124716,0,Jake,Deer,JakeDeer,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,jdeer@uttyler.edu,CELL,928/550-0021
+TYL,6001164840,0,Kristopher,Mashe,KristopherMashe,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,kmashe@uttyler.edu,CELL,903/918-2089
+TYL,6001201612,0,Joseph,Petrich,JosephPetrich,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,JPetrich@uttyler.edu,CELL,763/291-7799
+TYL,8000149738,1,McKamie,Place,McKamiePlace,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,MPLACE@UTTYLER.EDU,CELL,254/216-3810
+TYL,6001284170,0,Chase,Rathke,ChaseRathke,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,HOME,CHASE.RATHKE@YAHOO.COM,HOME,512/529-4314
+TYL,6001143040,0,Chynna,Turner,ChynnaTurner,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,cturner@uttyler.edu,CELL,832/576-4442
+TYL,5000019201,0,Joseph,Vann,JosephVann,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,jvann@uttyler.edu,HOME,979/236-9610
+TYL,6001283205,0,Taylor,White,TaylorWhite,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,HOME,TGWHITE25@GMAIL.COM,HOME,281/352-1612
+TYL,5000116324,0,Whitney,Wyly,WhitneyWyly,114100,Athletics,"Engineering, Athletics, Marketing",10519,Asst Coach,1,AP,BUSN,wwyly@uttyler.edu,HOME,936/346-1157
+TYL,5000081800,0,Alecia,Wolf,AleciaWolf,118200,Graduate Admissions,"Engineering, Athletics, Marketing",10239,Asst Dean / Administrative,1,AP,BUSN,AWolf@uttyler.edu,CELL,903/504-9513
+TYL,5000415513,0,Michael,Giordano,MichaelGiordano,118200,Graduate Admissions,"Engineering, Athletics, Marketing",13607,Asst Dir  Admissions,1,CL,BUSN,mgiordano@uttyler.edu,CELL,203/438-5745
+TYL,6001283204,0,Tyler,Artley,TylerArtley,114200,Patriot Center,"Engineering, Athletics, Marketing",13548,Asst Dir  Recreational Sports,1,CL,CAMP,TARTLEY@UTTYLER.EDU,HOME,832/693-6952
+TYL,6001162873,0,Katie,Richards,KatieRichards,114200,Patriot Center,"Engineering, Athletics, Marketing",13548,Asst Dir  Recreational Sports,1,CL,BUSN,krichards@uttyler.edu,CELL,217/899-7133
+TYL,5000039851,0,Melanie,Jones,MelanieJones,116400,Financial Aid,"Engineering, Athletics, Marketing",13040,"Asst Dir, Financial Aid",1,CL,BUSN,MJones@uttyler.edu,HOME,903/262-4448
+TYL,5000431466,0,Mohammad,Biswas,MohammadBiswas,104100,College of Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,mbiswas@uttyler.edu,HOME,334/524-1435
+TYL,6001203205,0,Shih-Feng,Chou,Shih-FengChou,104400,Mechanical Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,SChou@uttyler.edu,HOME,618/201-0600
+TYL,6001134594,0,Chung Hyun,Goh,Chung HyunGoh,104400,Mechanical Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,cgoh@uttyler.edu,HOME,405/206-7853
+TYL,6001204254,0,Premananda,Indic,PremanandaIndic,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,PIndic@uttyler.edu,HOME,508/856-6283
+TYL,5000431631,0,Melvin,Robinson,MelvinRobinson,104100,College of Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,mrobinson@uttyler.edu,HOME,281/565-2225
+TYL,5000440199,0,Mena,Souliman,MenaSouliman,104200,Civil Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,msouliman@uttyler.edu,HOME,480/304-2162
+TYL,6001278361,0,Prabha,Sundaravadivel,PrabhaSundaravadivel,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10009,Asst Professor,1,FA1,BUSN,PSUNDARAVADIVEL@UTTYLER.EDU,HOME,214/682-2331
+TYL,5000019970,0,Sarah,Bowdin,SarahBowdin,116100,Enrollment Management,"Engineering, Athletics, Marketing",10321,Asst VP Enrll Mgmt,1,AP,BUSN,SBowdin@uttyler.edu,BUSN,903/566-7057
+TYL,6001281253,0,Kenneth,Leonhard,KennethLeonhard,116600,Marketing and Communications,"Engineering, Athletics, Marketing",10103,Asst VP Web Dev/Mkt Analytics,1,AP,CAMP,KLEONHARD@UTTYLER.EDU,BUSN,903/566-7124
+TYL,5000427988,0,Jeremy,Pope,JeremyPope,114100,Athletics,"Engineering, Athletics, Marketing",15423,Athl Groundskeeper,1,CL,BUSN,jpope@uttyler.edu,HOME,903/805-1461
+TYL,6001211484,1,Diana,Gallegos,DianaGallegos,114100,Athletics,"Engineering, Athletics, Marketing",13546,Athl Trainer,1,CL,HOME,DGALLEGOS@ATSU.EDU,HOME,210/632-1581
+TYL,5000423427,0,Matthew,Carrillo,MatthewCarrillo,114100,Athletics,"Engineering, Athletics, Marketing",13100,Athletics Academic Coordinator,1,CL,BUSN,mcarrillo@uttyler.edu,HOME,432/413-9497
+TYL,5000117369,0,Howard,Patterson,HowardPatterson,114100,Athletics,"Engineering, Athletics, Marketing",10360,Athletics Director,1,AP,BUSN,HPatterson@uttyler.edu,HOME,903/839-3371
+TYL,5000077457,0,Carlos,Alvarez,CarlosAlvarez,104100,College of Engineering,"Engineering, Athletics, Marketing",14503,College Assessment Coordinator,1,CL,BUSN,calvarez@uttyler.edu,CELL,903/926-9768
+TYL,6001133407,0,Javier,Kypuros,JavierKypuros,104100,College of Engineering,"Engineering, Athletics, Marketing",10230,"Dean, College Engineering",1,AP,BUSN,JKypuros@uttyler.edu,BUSN,903.566.7267
+TYL,6001197198,0,Scott,Lapinski,ScottLapinski,116400,Financial Aid,"Engineering, Athletics, Marketing",10320,Dir  Student Financial Aid,1,AP,BUSN,SLapinski@uttyler.edu,CELL,903/530-7292
+TYL,5000109980,0,Robert,Armstrong,RobertArmstrong,116600,Marketing and Communications,"Engineering, Athletics, Marketing",10235,Dir Media Production,1,AP,BUSN,RARMSTRONG@UTTYLER.EDU,HOME,979/571-7721
+TYL,5000120641,0,Angela,Copeland,AngelaCopeland,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13605,Director  Admissions,1,AP,BUSN,ACopeland@uttyler.edu,HOME,903/539-8312
+TYL,6001137202,0,Rick,McGill,RickMcGill,114200,Patriot Center,"Engineering, Athletics, Marketing",10545,Director  Recreational Facilit,1,AP,BUSN,rmcgill@uttyler.edu,CELL,319/464-2005
+TYL,6001201034,0,Whitney,Rains,WhitneyRains,116300,Admissions,"Engineering, Athletics, Marketing",13105,Dual Credit Coordinator,1,CL,BUSN,WRains@uttyler.edu,CELL,936/234-0440
+TYL,5000055129,0,Sarah,Yosten,SarahYosten,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18622,Editorial Specialist,1,CL,BUSN,syosten@uttyler.edu,CELL,903/348-2492
+TYL,5000054148,0,Jennifer,Scott,JenniferScott,104100,College of Engineering,"Engineering, Athletics, Marketing",13021,Engineer Recruiter,1,CL,BUSN,JScott@uttyler.edu,HOME,903/566-1652
+TYL,5000029794,0,Kimberly,Sheets,KimberlySheets,118200,Graduate Admissions,"Engineering, Athletics, Marketing",13609,Enrl Mgt Dta Anyl & Procs Cord,1,CL,BUSN,KSheets@uttyler.edu,HOME,903/566-3057
+TYL,5000382324,0,Madison,Payne,MadisonPayne,116310,Undergraduate Recruitment,"Engineering, Athletics, Marketing",13121,Enrollment Communication Coord,1,CL,BUSN,mpayne@uttyler.edu,CELL,903 316 1190
+TYL,5000008050,0,Christon,Carroll,ChristonCarroll,116100,Enrollment Management,"Engineering, Athletics, Marketing",13612,Enrolmt Srv Officer I,1,CL,OTHR,CHRISTONECARROLL@GMAIL.COM,CELL,903/245-3401
+TYL,6001176802,0,John,Nelson,JohnNelson,116100,Enrollment Management,"Engineering, Athletics, Marketing",13612,Enrolmt Srv Officer I,1,CL,HOME,LUKENELSON10@GMAIL.COM,HOME,214/789-4315
+TYL,5000354558,0,Amanda,Pierce,AmandaPierce,116100,Enrollment Management,"Engineering, Athletics, Marketing",13612,Enrolmt Srv Officer I,1,CL,BUSN,APierce@uttyler.edu,HOME,903/594-9582
+TYL,5000054913,0,Francis,Riley,FrancisRiley,116100,Enrollment Management,"Engineering, Athletics, Marketing",13613,Enrolmt Srv Officer II,1,CL,BUSN,friley@uttyler.edu,HOME,903/520-5744
+TYL,6001227133,0,Victoria,Adams,VictoriaAdams,116400,Financial Aid,"Engineering, Athletics, Marketing",19395,Financial Aid Analyst,1,CL,HOME,VICTORIANICOLEADAMS@YAHOO.COM,HOME,512/753-9844
+TYL,5000399641,0,Jessica,Miller,JessicaMiller,118200,Graduate Admissions,"Engineering, Athletics, Marketing",11900,Graduate Recruiting Supr,1,CL,BUSN,jessicamiller@uttyler.edu,HOME,615/426-4534
+TYL,6001213075,0,Zakkary,Washington,ZakkaryWashington,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18331,Graphic Designer,1,CL,BUSN,ZWashington@uttyler.edu,CELL,325/660-0635
+TYL,5000429492,0,Stephen,Cage,StephenCage,114100,Athletics,"Engineering, Athletics, Marketing",13542,Head Athl Trainer,1,CL,BUSN,scage@uttyler.edu,HOME,830/305-0317
+TYL,6001204977,0,Maggie,Koehn,MaggieKoehn,114100,Athletics,"Engineering, Athletics, Marketing",10507,Head Coach,1,AP,BUSN,MaggieWilliams@uttyler.edu,CELL,903/752-1483
+TYL,6001201788,0,Michael,McMunn,MichaelMcMunn,114100,Athletics,"Engineering, Athletics, Marketing",10507,Head Coach,1,AP,BUSN,MMcMunn@uttyler.edu,CELL,256/777-6662
+TYL,5000121701,0,Grant,Spencer,GrantSpencer,114100,Athletics,"Engineering, Athletics, Marketing",10507,Head Coach,1,AP,BUSN,gspencer@uttyler.edu,CELL,903/570-8660
+TYL,5000114361,0,Chris,Stonestreet,ChrisStonestreet,114100,Athletics,"Engineering, Athletics, Marketing",10507,Head Coach,1,AP,BUSN,cstonestreet@uttyler.edu,HOME,817/819-6049
+TYL,6001202862,0,Brent,Porche,BrentPorche,114100,Athletics,"Engineering, Athletics, Marketing",10515,Head Men's Baseball Coach,1,AP,BUSN,BPorche@uttyler.edu,BUSN,225/241-3881
+TYL,5000428808,0,Jamon,Copeland,JamonCopeland,114100,Athletics,"Engineering, Athletics, Marketing",10512,Head Men's Basketball Coach,1,AP,BUSN,jcopeland@uttyler.edu,CELL,903/574-0013
+TYL,5000118388,0,Kenneth,Jones,KennethJones,114100,Athletics,"Engineering, Athletics, Marketing",10502,Head Men's Soccer Coach,1,AP,BUSN,kjones@uttyler.edu,CELL,972/567-8071
+TYL,6001222547,0,Adam,Cohen,AdamCohen,114100,Athletics,"Engineering, Athletics, Marketing",10503,Head Tennis Coach,1,AP,BUSN,ACohen@uttyler.edu,CELL,602/319-3318
+TYL,6001281256,0,Jeannette,Mosher,JeannetteMosher,114100,Athletics,"Engineering, Athletics, Marketing",10511,Head Women's Basketball Coach,1,AP,BUSN,JMOSHER@UTTYLER.EDU,HOME,574/200-9005
+TYL,5000118220,0,Stefani,Webb,StefaniWebb,114100,Athletics,"Engineering, Athletics, Marketing",10501,Head Women's Soccer Coach,1,AP,BUSN,SWebb@uttyler.edu,CELL,972/948-3444
+TYL,5000074717,0,Michael,Reed,MichaelReed,114100,Athletics,"Engineering, Athletics, Marketing",10516,Head Women's Stball Coach,1,AP,BUSN,MReed@uttyler.edu,HOME,903/581-1149
+TYL,5000102938,0,Lyndsay,Mashe,LyndsayMashe,114100,Athletics,"Engineering, Athletics, Marketing",10513,Head Women's Volleyball Coach,1,AP,BUSN,lmashe@uttyler.edu,CELL,903/918-2112
+TYL,6001281765,0,Gilbert,Abel,GilbertAbel,104600,Construction Management,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA2,HOME,GABEL98@GMAIL.COM,HOME,310/461-9103
+TYL,6001203419,0,Joseph,Boylan,JosephBoylan,104600,Construction Management,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA2,BUSN,JBoylan@uttyler.edu,CELL,321/806-9338
+TYL,6001214432,0,Andres,Garcia,AndresGarcia,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA2,BUSN,AGarcia@uttyler.edu,HOME,956/535-3163
+TYL,6001129886,0,Tyler,Hall,TylerHall,104100,College of Engineering,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA2,BUSN,thall@uttyler.edu,HOME,303/883-6065
+TYL,6001284073,1,Shariful,Huq,SharifulHuq,104200,Civil Engineering,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA1,BUSN,SHUQ@UTTYLER.EDU,HOME,713/598-5129
+TYL,6001124283,0,Zafer,Miqdadi,ZaferMiqdadi,104100,College of Engineering,"Engineering, Athletics, Marketing",10011,Lecturer,1,FA1,BUSN,zmiqdadi@uttyler.edu,CELL,713/907-6370
+TYL,6001271773,0,Kirsten,Penberthy,KirstenPenberthy,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18620,Marketing Coordinator,1,CL,BUSN,KPENBERTHY@UTTYLER.EDU,CELL,314/808-7601
+TYL,5000406699,0,Cayla,Ward,CaylaWard,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18620,Marketing Coordinator,1,CL,BUSN,caylaward@uttyler.edu,HOME,903/530-9470
+TYL,6001284407,0,Stephen,Myers,StephenMyers,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18624,Media Production Coordinator,1,CL,HOME,STEVOXMYERS@GMAIL.COM,HOME,469/371-2409
+TYL,5000117865,0,Mukul,Shirvaikar,MukulShirvaikar,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10007,Professor,1,FA1,BUSN,mshirvaikar@uttyler.edu,HOME,214/495-9123
+TYL,5000027234,0,Hannah,Buchanan,HannahBuchanan,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18679,Public Affairs Spec I,1,CL,BUSN,HBuchanan@uttyler.edu,CELL,903/539-7196
+TYL,5000035417,0,Beverley,Golden,BeverleyGolden,116600,Marketing and Communications,"Engineering, Athletics, Marketing",10244,Sr Director Media Relations,1,AP,BUSN,bgolden@uttyler.edu,HOME,903/330-0495
+TYL,5000367169,0,Brittani,Keith,BrittaniKeith,118200,Graduate Admissions,"Engineering, Athletics, Marketing",13618,Sr Int'l Grad Admissions Rep,1,CL,BUSN,bkeith@uttyler.edu,BUSN,903/566-7447
+TYL,5000414104,0,Althea,Arnold,AltheaArnold,104600,Construction Management,"Engineering, Athletics, Marketing",10012,Sr Lecturer,1,FA2,BUSN,aarnold@uttyler.edu,HOME,979/492-8418
+TYL,1001535129,0,Seyed Mohammad Ali,Ghorshi,Seyed Mohammad AliGhorshi,104300,Electrical Engineering,"Engineering, Athletics, Marketing",10012,Sr Lecturer,1,FA1,BUSN,SGHORSHI@UTTYLER.EDU,HOME,312/468-9025
+TYL,5000107682,0,Emily,Battle,EmilyBattle,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18621,Sr. Editorial Specialist,1,CL,BUSN,EBattle@uttyler.edu,HOME,903/939-9923
+TYL,6001254450,0,Samantha,Cockrell,SamanthaCockrell,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,HOME,SCOCKRELL824@GMAIL.COM,CELL,330/651-4040
+TYL,5000433722,0,Alyssa,Finley,AlyssaFinley,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,HOME,ALYSSAFINLEY14@GMAIL.COM,HOME,903/617-4141
+TYL,5000022252,0,Pam,Hudgins,PamHudgins,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,BUSN,phudgins@uttyler.edu,CELL,903/790-0131
+TYL,5000015457,0,Nicholas,Lindsay,NicholasLindsay,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,BUSN,nlindsay@uttyler.edu,CELL,903/930-1327
+TYL,6001211257,0,Elizabeth,Lucas,ElizabethLucas,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,BUSN,ELucas@uttyler.edu,CELL,405/651-0294
+TYL,5000059642,0,William,Rawlinson,WilliamRawlinson,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,BUSN,wrawlinson@uttyler.edu,CELL,817/287-8722
+TYL,6001172702,0,Mark,Tiller,MarkTiller,116400,Financial Aid,"Engineering, Athletics, Marketing",13047,Student Financial Aid Officer,1,CL,BUSN,MTiller@uttyler.edu,HOME,214/930-1160
+TYL,5000043507,0,John,Johnson,JohnJohnson,116300,Admissions,"Engineering, Athletics, Marketing",13683,Transfer Articulation Spec,1,CL,BUSN,jjohnson@uttyler.edu,BUSN,903/565-5863
+TYL,5000362348,0,Jonathan,Mcswain,JonathanMcswain,116600,Marketing and Communications,"Engineering, Athletics, Marketing",18623,Video Producer,1,CL,BUSN,jmcswain@uttyler.edu,HOME,903/368-0744
+TYL,6001222343,0,Lucas,Roebuck,LucasRoebuck,116600,Marketing and Communications,"Engineering, Athletics, Marketing",10118,VP for Marketing & CCO,1,AP,BUSN,LRoebuck@uttyler.edu,HOME,479/427-2492
+TYL,5000117936,0,Robinette,Kelly,RobinetteKelly,116600,Marketing and Communications,"Engineering, Athletics, Marketing",10417,Webmaster,1,AP,BUSN,RKelly@uttyler.edu,CELL,903/262-0900
+TYL,6001116812,1,Rahmat,Talukder,RahmatTalukder,106100,College of Pharmacy,"Pharmacy, Student Success",10032,Clinical Assoc Professor,0,FA1,BUSN,rtalukder@uttyler.edu,CELL,903/372-8183
+TYL,5000431400,1,Lane,Brunner,LaneBrunner,106100,College of Pharmacy,"Pharmacy, Student Success",10007,Professor,0,FA1,BUSN,lbrunner@uttyler.edu,CELL,719/322-7954
+TYL,6001116678,1,Bradley,Brazill,BradleyBrazill,106100,College of Pharmacy,"Pharmacy, Student Success",10032,Clinical Assoc Professor,0.0003,FA1,BUSN,bbrazill@uttyler.edu,HOME,530/219-1440
+TYL,5000438192,1,Kathleen,Snella,KathleenSnella,106100,College of Pharmacy,"Pharmacy, Student Success",10032,Clinical Assoc Professor,0.0003,FA1,BUSN,ksnella@uttyler.edu,BUSN,903/565-5621
+TYL,5000423383,0,David,Cox,DavidCox,106100,College of Pharmacy,"Pharmacy, Student Success",10013,Adjunct Lecturer,0.1333,FA2,HOME,PCOX@UTTYLER.EDU,HOME,903/881-6500
+TYL,5000033936,0,Shlene,Eli,ShleneEli,122300,Student Services,"Pharmacy, Student Success",19071,Clerk,0.4875,CLN,BUSN,seli@uttyler.edu,HOME,903/266-0933
+TYL,5000036230,0,Kyle,Stewart,KyleStewart,122100,Student Affairs,"Pharmacy, Student Success",19072,Clerk - Hourly,0.4875,CLN,BUSN,KStewart@uttyler.edu,HOME,903/592-1731
+TYL,6001271005,0,Tracy,Walker,TracyWalker,122300,Student Services,"Pharmacy, Student Success",11257,Interpreter - Hourly,0.4875,CLN,HOME,WALKERTERP@YAHOO.COM,HOME,903/920-3765
+TYL,6001130336,0,Heather,Bloodsworth,HeatherBloodsworth,122300,Student Services,"Pharmacy, Student Success",13107,Testing Specialist,0.75,CL,BUSN,hbloodsworth@uttyler.edu,CELL,903/780-5833
+TYL,5000019479,0,Kamell,Hawkins,KamellHawkins,115600,Student Business Services,"Pharmacy, Student Success",19169,Accounting Techn,1,CL,BUSN,KHawkins@uttyler.edu,HOME,903/520-2434
+TYL,6001125024,0,Kelly,Moore,KellyMoore,106100,College of Pharmacy,"Pharmacy, Student Success",19020,Administrative Assoc,1,CL,BUSN,kellymoore@uttyler.edu,CELL,903 539 6095
+TYL,6001124227,0,Peggy,Churchman,PeggyChurchman,106100,College of Pharmacy,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,BUSN,pchurchman@uttyler.edu,BUSN,832/795-8010
+TYL,6001223032,0,Jeneane,Cremers,JeneaneCremers,106100,College of Pharmacy,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,BUSN,JCremers@uttyler.edu,CELL,903/312-1779
+TYL,5000408011,0,Morgan,Leever,MorganLeever,122100,Student Affairs,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,BUSN,mleever@uttyler.edu,HOME,682/704-0399
+TYL,6001270554,0,Carolyn,Nanni,CarolynNanni,115600,Student Business Services,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,HOME,CJNANNI22@YAHOO.COM,CELL,903/530-1495
+TYL,5000118294,0,Jennifer,Smith,JenniferSmith,106100,College of Pharmacy,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,BUSN,jsmith@uttyler.edu,HOME,903/780-8122
+TYL,6001222757,0,Ashley,Summerford,AshleySummerford,115600,Student Business Services,"Pharmacy, Student Success",19041,Administrative Asst II - Month,1,CL,BUSN,ASummerford@uttyler.edu,CELL,662/891-3063
+TYL,5000419149,0,Lauri,Dillman,LauriDillman,122500,Student Life and Leadership,"Pharmacy, Student Success",19040,Administrative Asst III,1,CL,BUSN,ldillman@uttyler.edu,HOME,903/360-6990
+TYL,5000047697,0,Ashley,Kurtz,AshleyKurtz,106100,College of Pharmacy,"Pharmacy, Student Success",19040,Administrative Asst III,1,CL,BUSN,AKurtz@uttyler.edu,CELL,903/780-0181
+TYL,5000105558,0,Laura,McMullen,LauraMcMullen,115600,Student Business Services,"Pharmacy, Student Success",19040,Administrative Asst III,1,CL,BUSN,LMcMullen@uttyler.edu,CELL,903/592-4625
+TYL,5000078173,0,Tanya,Showen,TanyaShowen,122300,Student Services,"Pharmacy, Student Success",19040,Administrative Asst III,1,CL,BUSN,tshowen@uttyler.edu,CELL,903/312-9679
+TYL,6001254058,0,Katie,Taylor,KatieTaylor,114300,Residence Life,"Pharmacy, Student Success",19040,Administrative Asst III,1,CL,BUSN,KATIETAYLOR@UTTYLER.EDU,CELL,903/790-1124
+TYL,5000104162,0,Katherine,Cline,KatherineCline,122100,Student Affairs,"Pharmacy, Student Success",19006,Administrative Srv Officer,1,CL,BUSN,KCline@uttyler.edu,CELL,903/530-7575
+TYL,5000120815,0,Tessa,Wilson,TessaWilson,106100,College of Pharmacy,"Pharmacy, Student Success",19006,Administrative Srv Officer,1,CL,BUSN,twilson@uttyler.edu,CELL,903/330-5462
+TYL,5000411471,0,Leslie,Glover,LeslieGlover,122300,Student Services,"Pharmacy, Student Success",19152,Assistant Director,1,CL,BUSN,lglover@uttyler.edu,HOME,903/721-1764
+TYL,5000097204,0,Cindy,Lowery,CindyLowery,122300,Student Services,"Pharmacy, Student Success",19152,Assistant Director,1,CL,BUSN,clowery@uttyler.edu,CELL,903/279-3522
+TYL,6001243852,0,David,Romerill,DavidRomerill,106100,College of Pharmacy,"Pharmacy, Student Success",10236,Assoc Dean / Instruction,1,AP,BUSN,DRomerill@uttyler.edu,HOME,317/502-3056
+TYL,6001218028,0,Joseph,Glavy,JosephGlavy,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,JGlavy@uttyler.edu,BUSN,917/558-3347
+TYL,6001271840,0,Ayman,Hamouda,AymanHamouda,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,AHAMOUDA@UTTYLER.EDU,HOME,339/203-7541
+TYL,6001116800,1,Juliet,Jones,JulietJones,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,sjones@uttyler.edu,HOME,304/964-0684
+TYL,6001130319,0,Leanne,Merritt,LeanneMerritt,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,lcoyne@uttyler.edu,HOME,209/955-6991
+TYL,6001138479,0,David,Pearson,DavidPearson,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,dpearson@uttyler.edu,CELL,530/902-8352
+TYL,6001157783,0,Michael,Veronin,MichaelVeronin,106100,College of Pharmacy,"Pharmacy, Student Success",10008,Assoc Professor,1,FA1,BUSN,mveronin@uttyler.edu,HOME,361/232-2281
+TYL,6001279117,0,Pamella,Ochoa,PamellaOchoa,106100,College of Pharmacy,"Pharmacy, Student Success",10237,Asst Dean / Instruction,1,AP,HOME,PAMELLA_O@YAHOO.COM,HOME,325/829-8485
+TYL,6001125027,0,Ashlea,Wilson,AshleaWilson,122100,Student Affairs,"Pharmacy, Student Success",14504,Asst Director,1,CL,BUSN,ashleawilson@uttyler.edu,BUSN,661/654-2720
+TYL,6001222580,0,May,Abdelaziz,MayAbdelaziz,106100,College of Pharmacy,"Pharmacy, Student Success",10009,Asst Professor,1,FA1,BUSN,MAbdelaziz@uttyler.edu,CELL,415/881-0139
+TYL,6001116811,0,Jody,Takemoto,JodyTakemoto,106100,College of Pharmacy,"Pharmacy, Student Success",10009,Asst Professor,1,FA1,BUSN,jtakemoto@uttyler.edu,CELL,808/226-2752
+TYL,5000117838,0,Jeramie,Reed,JeramieReed,114300,Residence Life,"Pharmacy, Student Success",16207,Building Maintenance Supvr,1,CL,BUSN,WReed@uttyler.edu,CELL,903/780-6958
+TYL,5000117384,0,Valerie,Perry,ValeriePerry,115600,Student Business Services,"Pharmacy, Student Success",19142,Bursar,1,CL,BUSN,vperry@uttyler.edu,HOME,903/245-1126
+TYL,5000358411,0,Natalie,Cooper,NatalieCooper,101310,Communication - Publications,"Pharmacy, Student Success",19814,Bus Cord,1,CL,BUSN,ncooper@uttyler.edu,CELL,903/746-0299
+TYL,5000433886,0,Peggye,Mahfood,PeggyeMahfood,122100,Student Affairs,"Pharmacy, Student Success",19815,Business & Scheduling Coord,1,CL,BUSN,pmahfood@uttyler.edu,CELL,903/521-8493
+TYL,6001222890,0,Jonathan,Newsome,JonathanNewsome,106100,College of Pharmacy,"Pharmacy, Student Success",10032,Clinical Assoc Professor,1,FA1,BUSN,JonathanNewsome@uttyler.edu,CELL,832/236-9320
+TYL,6001143596,0,Jonathan,Cho,JonathanCho,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,jcho@uttyler.edu,,
+TYL,6001223102,0,Elizabeth,Cook,ElizabethCook,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,ECook@uttyler.edu,HOME,607/321-5042
+TYL,6001117231,0,Rebecca,Dunn,RebeccaDunn,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,rdunn@uttyler.edu,CELL,806/543-2023
+TYL,6001281744,0,Norman,Fenn,NormanFenn,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,HOME,NFENN@UTTYLER.EDU,CELL,303/641-9602
+TYL,6001202134,0,Brittany,Parmentier,BrittanyParmentier,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,BParmentier@uttyler.edu,CELL,314/323-8848
+TYL,6001222882,0,Karen,Ratekin,KarenRatekin,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,KRatekin@uttyler.edu,CELL,903/316-9040
+TYL,6001281960,0,Justin,Reinert,JustinReinert,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,HOME,JREINERT@UTTYLER.EDU,HOME,484/332-7002
+TYL,6001202872,0,Rachel,Sharpton,RachelSharpton,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,RSharpton@uttyler.edu,HOME,828/778-3780
+TYL,6001223162,0,Denver,Shipman,DenverShipman,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,DShipman@uttyler.edu,CELL,316/409-6155
+TYL,6001199707,0,Osama,Shoair,OsamaShoair,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,OShoair@uttyler.edu,HOME,415/466-5835
+TYL,6001202873,0,Takova,Wallace,TakovaWallace,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,TakovaWallace@uttyler.edu,HOME,256/322-0820
+TYL,6001213174,0,Kawanda,Williams,KawandaWilliams,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,KawandaWilliams@uttyler.edu,HOME,318/288-3432
+TYL,6001203467,0,Jessica,Wooster,JessicaWooster,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,JWooster@uttyler.edu,HOME,901/626-1842
+TYL,6001281857,0,Tianrui,Yang,TianruiYang,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,HOME,YCINDY1026@GMAIL.COM,HOME,832/367-9112
+TYL,6001143597,0,Frank,Yu,FrankYu,106100,College of Pharmacy,"Pharmacy, Student Success",10033,Clinical Asst Professor,1,FA1,BUSN,fyu@uttyler.edu,CELL,901/848-7215
+TYL,6001284183,0,Winter,Smith,WinterSmith,106100,College of Pharmacy,"Pharmacy, Student Success",10034,Clinical Professor,1,FA1,CAMP,WSMITH@UTTYLER.EDU,HOME,405/464-3050
+TYL,6001281278,0,Jose,Vega,JoseVega,106100,College of Pharmacy,"Pharmacy, Student Success",10034,Clinical Professor,1,FA1,CAMP,JVEGA@UTTYLER.EDU,CELL,325/829-8982
+TYL,5000116684,0,Christina,McQuigg,ChristinaMcQuigg,115600,Student Business Services,"Pharmacy, Student Success",19177,Collections Clerk - 10036950,1,CL,BUSN,ChristinaMcquigg@uttyler.edu,CELL,903/805-2428
+TYL,5000419127,0,Kayla,Christiansen,KaylaChristiansen,115600,Student Business Services,"Pharmacy, Student Success",19178,Collections Officer,1,CL,BUSN,kchristiansen@uttyler.edu,CELL,903/530-3365
+TYL,6001045561,1,Ashleigh,Dinkins,AshleighDinkins,122100,Student Affairs,"Pharmacy, Student Success",13120,Conference & Camp Coord,1,CL,BUSN,Ashleigh.Dinkins@utsa.edu,HOME,210/870-0159
+TYL,5000359694,0,Patty,Bell,PattyBell,106100,College of Pharmacy,"Pharmacy, Student Success",13112,Coordinator,1,CL,BUSN,pbell@uttyler.edu,CELL,903/987-4230
+TYL,5000068407,0,Christopher,Cox,ChristopherCox,122100,Student Affairs,"Pharmacy, Student Success",13112,Coordinator,1,CL,BUSN,chriscox@uttyler.edu,HOME,903/360-7285
+TYL,5000100683,0,Amanda,Lynn,AmandaLynn,106100,College of Pharmacy,"Pharmacy, Student Success",13112,Coordinator,1,CL,BUSN,ARitchie@uttyler.edu,CELL,903/520-9354
+TYL,5000013051,0,Sonja,Warren,SonjaWarren,122300,Student Services,"Pharmacy, Student Success",13108,Cord  Testing Srv,1,CL,HOME,SONJAWARREN1985@GMAIL.COM,HOME,903/570-3097
+TYL,5000037830,0,Jodi,Bane,JodiBane,122300,Student Services,"Pharmacy, Student Success",11579,Counselor,1,CL,BUSN,JALEXANDER8806@GMAIL.COM,HOME,903/780-4488
+TYL,5000008443,0,Linda,Long,LindaLong,122300,Student Services,"Pharmacy, Student Success",11579,Counselor,1,CL,BUSN,llong@uttyler.edu,HOME,903/565-6338
+TYL,5000116458,0,Jahn,Quattlebaum,JahnQuattlebaum,122300,Student Services,"Pharmacy, Student Success",11579,Counselor,1,CL,BUSN,jquattlebaum@uttyler.edu,BUSN,903/565-5513
+TYL,5000066448,0,Kimber,Harvey-Livingston,KimberHarvey-Livingston,122300,Student Services,"Pharmacy, Student Success",10226,Dean,1,AP,BUSN,klivingston@uttyler.edu,HOME,903/780-3260
+TYL,5000117300,0,David,Hill,DavidHill,122100,Student Affairs,"Pharmacy, Student Success",10530,Dir of Judicial Affairs,1,AP,BUSN,DHill@uttyler.edu,CELL,903/780-1658
+TYL,5000117502,0,Vicky,Bond,VickyBond,122100,Student Affairs,"Pharmacy, Student Success",10552,Director,1,AP,BUSN,VBond@uttyler.edu,BUSN,903/565-5888
+TYL,6001142515,0,Jennifer,Waters,JenniferWaters,114300,Residence Life,"Pharmacy, Student Success",10552,Director,1,AP,BUSN,jwaters@uttyler.edu,CELL,936/585-2700
+TYL,5000401570,0,Kristine,Marquis,KristineMarquis,115600,Student Business Services,"Pharmacy, Student Success",10412,Director Student Bus Srv,1,AP,BUSN,kmarquis@uttyler.edu,HOME,903/871-2293
+TYL,6001155593,0,Joshua,Neaves,JoshuaNeaves,122500,Student Life and Leadership,"Pharmacy, Student Success",13601,"Director, Stdt Engage/Exp Lear",1,AP,BUSN,jneaves@uttyler.edu,CELL,254/592-3983
+TYL,5000067675,0,Ashley,Davis,AshleyDavis,122300,Student Services,"Pharmacy, Student Success",11578,Disability Srv Case Mgr,1,CL,HOME,ASHLEYE.DAVIS@YAHOO.COM,HOME,972.989.5127
+TYL,5000421381,0,Brista,Kent,BristaKent,115600,Student Business Services,"Pharmacy, Student Success",19124,Functional Analyst,1,CL,BUSN,bkent@uttyler.edu,HOME,940/595-5523
+TYL,5000114196,0,Samantha,Dwight,SamanthaDwight,122300,Student Services,"Pharmacy, Student Success",11575,Hlth Education Spec,1,CL,BUSN,sdwight@uttyler.edu,BUSN,903/566-7067
+TYL,6001196186,0,Demetrius,Jett,DemetriusJett,114300,Residence Life,"Pharmacy, Student Success",15314,Hvac Techn,1,CL,BUSN,DJett@uttyler.edu,CELL,903/539-9931
+TYL,6001139755,0,Thayer,Merritt,ThayerMerritt,106100,College of Pharmacy,"Pharmacy, Student Success",19307,Information Technology Cord II,1,CL,BUSN,tmerritt@uttyler.edu,CELL,916/241-3491
+TYL,6001102294,0,Benjamin,Jordan,BenjaminJordan,106192,Pharmacy -JGlavy,"Pharmacy, Student Success",14441,Lab Techn,1,CL,BUSN,BJordan@uttyler.edu,BUSN,903/920-1991
+TYL,6001206092,0,John,Fulmer,JohnFulmer,114300,Residence Life,"Pharmacy, Student Success",15289,Maintenance Worker II,1,CL,BUSN,JFulmer@uttyler.edu,CELL,903/570-4213
+TYL,6001217642,0,Ryan,Lanchester,RyanLanchester,114300,Residence Life,"Pharmacy, Student Success",15289,Maintenance Worker II,1,CL,BUSN,RLanchester@uttyler.edu,CELL,903/279-6816
+TYL,6001284182,0,Jessica,Farese,JessicaFarese,114300,Residence Life,"Pharmacy, Student Success",13068,Residence Coord I,1,CL,HOME,JESSIEFARESE@GMAIL.COM,HOME,732/850-5350
+TYL,5000350009,0,Aubrey,Rife,AubreyRife,114300,Residence Life,"Pharmacy, Student Success",13068,Residence Coord I,1,CL,BUSN,aubreyrife@uttyler.edu,HOME,469/426-5900
+TYL,5000397971,0,Nicholas,Ruth,NicholasRuth,114300,Residence Life,"Pharmacy, Student Success",13068,Residence Coord I,1,CL,BUSN,nruth@uttyler.edu,HOME,281/312-1148
+TYL,6001281711,0,Shanese,Williams,ShaneseWilliams,114300,Residence Life,"Pharmacy, Student Success",13068,Residence Coord I,1,CL,HOME,SHANESETAMAR@HOTMAIL.COM,HOME,516/444-2928
+TYL,6001223521,0,Quaderic,Howard,QuadericHoward,114300,Residence Life,"Pharmacy, Student Success",13070,Residence Coordinator II,1,CL,BUSN,QHoward@uttyler.edu,CELL,832/752-9291
+TYL,5000060687,0,Mychele,Hughes,MycheleHughes,122100,Student Affairs,"Pharmacy, Student Success",19019,Sr Administrative Assoc,1,CL,BUSN,mhughes@uttyler.edu,CELL,903/319-8710
+TYL,6001278290,0,Farah,Deba,FarahDeba,106100,College of Pharmacy,"Pharmacy, Student Success",14407,Sr Research Associate,1,CL,BUSN,FDEBA@UTTYLER.EDU,,
+TYL,5000407012,0,Charles,Brown,CharlesBrown,122100,Student Affairs,"Pharmacy, Student Success",13052,Student Development Spec I,1,CL,BUSN,charlesbrown@uttyler.edu,HOME,903/894-9934
+TYL,5000437417,0,Michael,Marlow,MichaelMarlow,122300,Student Services,"Pharmacy, Student Success",13052,Student Development Spec I,1,CL,BUSN,mmarlow@uttyler.edu,HOME,903/374-5914
+TYL,5000022379,0,James,Ragland,JamesRagland,122500,Student Life and Leadership,"Pharmacy, Student Success",13052,Student Development Spec I,1,CL,BUSN,jragland@uttyler.edu,HOME,903/573-2710
+TYL,5000420195,0,Shawn,Rogers,ShawnRogers,122100,Student Affairs,"Pharmacy, Student Success",13052,Student Development Spec I,1,CL,BUSN,shawnrogers@uttyler.edu,CELL,903/508-8576
+TYL,6001166206,0,Dana,Simmons,DanaSimmons,122400,Student Life,"Pharmacy, Student Success",13052,Student Development Spec I,1,CL,BUSN,dsimmons@uttyler.edu,CELL,479/427-1224
+TYL,6001285806,0,Robert,Smith,RobertSmith,122100,Student Affairs,"Pharmacy, Student Success",13051,Student Development Spec II,1,CL,CAMP,ROBERTSMITH@UTTYLER.EDU,HOME,814/572-8030
+TYL,6001165762,0,Camry,Tharp,CamryTharp,122500,Student Life and Leadership,"Pharmacy, Student Success",13051,Student Development Spec II,1,CL,BUSN,cfarhat@uttyler.edu,CELL,214/462-0077
+TYL,5000358741,0,Erica,Chase,EricaChase,106100,College of Pharmacy,"Pharmacy, Student Success",14430,"Supvsr, Lab Tech Srv",1,CL,BUSN,echase@uttyler.edu,CELL,530/353-7133
+TYL,6001162415,0,Blake,Bumbard,BlakeBumbard,114700,Title IX,"Pharmacy, Student Success",13114,Title IX Coordinator,1,CL,BUSN,bbumbard@uttyler.edu,CELL,214/675-7593
+TYL,5000103900,0,Elizabeth,Caulkins,ElizabethCaulkins,114700,Title IX,"Pharmacy, Student Success",13115,Title IX Investigator,1,CL,BUSN,ecaulkins@uttyler.edu,HOME,903/521-8596
+TYL,5000119587,0,Ona,Tolliver,OnaTolliver,122100,Student Affairs,"Pharmacy, Student Success",10125,Vice Pres for Student Success,1,AP,BUSN,OTolliver@uttyler.edu,HOME,214/202-1573
+TYL,5000118093,0,Holly,Landers,HollyLanders,110100,President,President,19020,Administrative Assoc,1,CL,BUSN,HLanders@uttyler.edu,CELL,903/363-6369
+TYL,5000117310,0,Melanie,Mogle,MelanieMogle,123300,Cowan Fine Arts Center,President,19020,Administrative Assoc,1,CL,BUSN,MMogle@uttyler.edu,CELL,903/312-3433
+TYL,5000117602,0,Terri,Holland,TerriHolland,123300,Cowan Fine Arts Center,President,18369,Asst Dir Cowan Center,1,CL,BUSN,tholland@uttyler.edu,HOME,903/312-9345
+TYL,5000120859,0,Laura,Jackson,LauraJackson,110100,President,President,10127,Asst VP,1,AP,BUSN,laurajackson@uttyler.edu,HOME,979/450-1139
+TYL,5000438796,0,Michael,Donley,MichaelDonley,110100,President,President,10465,Attorney,1,AP,BUSN,mdonley@uttyler.edu,BUSN,903/566-7284
+TYL,5000045428,0,Janet,Harris,JanetHarris,110200,Auditing Services,President,19136,Auditor II,1,CL,BUSN,janetharris@uttyler.edu,CELL,903/714-3668
+TYL,6001272088,0,Randall,Holland,RandallHolland,123300,Cowan Fine Arts Center,President,19005,Business Mgr - Performing Arts,1,CL,BUSN,RHOLLAND@UTTYLER.EDU,HOME,903/812-1248
+TYL,5000091107,0,Brittany,Childs,BrittanyChilds,110100,President,President,10401,Community Engagement Director,1,AP,BUSN,BChilds@uttyler.edu,CELL,903/363-7809
+TYL,5000119502,0,Brandon,Reynolds,BrandonReynolds,110100,President,President,10401,Community Engagement Director,1,AP,BUSN,BReynolds@uttyler.edu,HOME,972/467-5940
+TYL,5000115947,0,Elizabeth,Hutson,ElizabethHutson,123300,Cowan Fine Arts Center,President,18373,Coordinator of Patron Services,1,CL,BUSN,EHutson@uttyler.edu,CELL,903/724-6991
+TYL,5000118407,0,Lou,Viergever,LouViergever,110200,Auditing Services,President,10475,Director Internal Audit,1,AP,BUSN,lviergever@uttyler.edu,CELL,903/520-1357
+TYL,5000117805,0,Susan,Thomae-Morphew,SusanThomae-Morphew,123300,Cowan Fine Arts Center,President,10342,"Ex Dir,Fine & Perf Arts Cntr",1,AP,BUSN,smorphew@uttyler.edu,BUSN,903/566-7191
+TYL,5000097460,0,Janet,Robertson,JanetRobertson,110100,President,President,19010,Executive Assistant,1,CL,BUSN,jlrobertson@uttyler.edu,CELL,903/571-0613
+TYL,6001123902,0,Teri,Taylor,TeriTaylor,110100,President,President,19052,Paralegal,1,CL,BUSN,ttaylor@uttyler.edu,CELL,903/539-2576
+TYL,6001211026,0,Michael,Tidwell,MichaelTidwell,110100,President,President,10100,President,1,AP,BUSN,MTidwell@uttyler.edu,CELL,903/283-4913
+TYL,5000089209,0,Karen,Chudej,KarenChudej,110200,Auditing Services,President,19132,Senior Auditor II,1,CL,BUSN,kchudej@uttyler.edu,CELL,903/253-5230
+TYL,5000408215,0,Lisa,Jett,LisaJett,110100,President,President,19019,Sr Administrative Assoc,1,CL,BUSN,ljett@uttyler.edu,CELL,615/604-5635
+TYL,5000032745,0,Mike,Stephens,MikeStephens,123300,Cowan Fine Arts Center,President,18360,Technical Srv Mgr,1,CL,BUSN,MStephens@uttyler.edu,CELL,214/906-0852
+TYL,5000091978,1,Rosemary,Cooper,RosemaryCooper,102200,University Advancement,"Arts and Science, Advancement",10058,Extension Instructor,0.2,FA2,BUSN,rcooper@uttyler.edu,HOME,903/509-1291
+TYL,5000062050,2,Jill,Carter,JillCarter,111800,PATSS,Provost and University Academy,10043,Alt Assigmt - Dept,0,FA2,BUSN,jcarter@uttyler.edu,HOME,903/952-8121
+TYL,5000417638,3,Fletcher,Njororai,FletcherNjororai,111800,PATSS,Provost and University Academy,10043,Alt Assigmt - Dept,0,FA2,BUSN,fnjororai@uttyler.edu,HOME,940/206-8040
+TYL,6001130943,2,Jennifer,Parsons,JenniferParsons,111800,PATSS,Provost and University Academy,10043,Alt Assigmt - Dept,0,FA2,BUSN,jparsons@uttyler.edu,CELL,325/650-0657
+TYL,5000417488,1,Colin,Snider,ColinSnider,111800,PATSS,Provost and University Academy,10043,Alt Assigmt - Dept,0,FA3,BUSN,csnider@uttyler.edu,HOME,903/787-2413
+TYL,5000118018,2,Deborah,Brasher,DeborahBrasher,111500,Longview University Center,Provost and University Academy,19096,Clerical Asst,0.4875,CLN,BUSN,dbrasher@uttyler.edu,HOME,903/571-1022
+TYL,5000103146,0,Sandra,Hunt,SandraHunt,111500,Longview University Center,Provost and University Academy,19096,Clerical Asst,0.4875,CLN,BUSN,shunt@uttyler.edu,CELL,903/932-0999
+TYL,6001253907,0,Maristela,Andrade Clayton,MaristelaAndrade Clayton,103320,English Language Institute,Provost and University Academy,18112,Inst. & Eval Sup Spec - Hourly,0.4875,CLN,HOME,MACLAYTON53@YAHOO.COM,HOME,903/346-0723
+TYL,5000117562,0,Daniel,Hawley,DanielHawley,111500,Longview University Center,Provost and University Academy,14316,Technical Staff Asst,0.4875,CLN,BUSN,dhawley@uttyler.edu,HOME,903/236-8489
+TYL,5000117779,0,Lynne,Martin,LynneMartin,111500,Longview University Center,Provost and University Academy,14316,Technical Staff Asst,0.4875,CLN,BUSN,lmartin@uttyler.edu,HOME,903/295-8593
+TYL,5000117820,0,Bobbie,Reliford,BobbieReliford,111500,Longview University Center,Provost and University Academy,14316,Technical Staff Asst,0.4875,CLN,BUSN,breliford@uttyler.edu,HOME,903/663-1689
+TYL,6001283843,0,K'Lin,Noble,K'LinNoble,111700,Honors Program,Provost and University Academy,19041,Administrative Asst II - Month,0.5,CL,CAMP,KNOBLE@UTTYLER.EDU,CAMP,903/566-7482
+TYL,6001157053,0,Meghan,Aldredge,MeghanAldredge,124200,University Academy,Provost and University Academy,10054,School Teacher,0.5,FA2,BUSN,maldredge@uttyler.edu,HOME,903/930-0203
+TYL,5000107034,0,Loni,Kinsey,LoniKinsey,124200,University Academy,Provost and University Academy,10054,School Teacher,0.5,FA2,BUSN,lkinsey@uttyler.edu,BUSN,903/312-3446
+TYL,5000018032,0,Jennifer,Rasberry,JenniferRasberry,124200,University Academy,Provost and University Academy,10054,School Teacher,0.5,FA1,BUSN,jrasberry@uttyler.edu,HOME,903/780-7268
+TYL,6001136595,0,Linda,Butler,LindaButler,124200,Innovation Academy,Provost and University Academy,19006,Administrative Srv Officer,0.75,CL,BUSN,lbutler@uttyler.edu,CELL,719/580-5483
+TYL,5000042582,0,Cori,Mackey,CoriMackey,124200,University Academy,Provost and University Academy,11055,Head School Nurse - RN -PT,0.75,FA2,BUSN,cmackey@uttyler.edu,HOME,903/253-6036
+TYL,5000010884,0,Jennifer,Simmons,JenniferSimmons,120100,Library,Provost and University Academy,18070,Library Asst II,0.75,CL,BUSN,JENNIFERSIMMONS@UTTYLER.EDU,HOME,903/504-4172
+TYL,6001128733,0,Sarah,Chadee,SarahChadee,116500,Registrar,Provost and University Academy,13111,Academic Sched Coordinator,1,CL,BUSN,schadee@uttyler.edu,CELL,903/590-9038
+TYL,6001099077,0,Amelia,Duran,AmeliaDuran,111200,Assessment & Instit Eff,Provost and University Academy,19020,Administrative Assoc,1,CL,BUSN,AMCCALISTER@UTTYLER.EDU,HOME,903/721-1020
+TYL,8000067201,0,Lindsay,James,LindsayJames,112000,University College,Provost and University Academy,19020,Administrative Assoc,1,CL,BUSN,LJames@uttyler.edu,CELL,903/331-2323
+TYL,5000423283,0,Zachary,Adams,ZacharyAdams,124300,Discovery Science Place,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,zadams@uttyler.edu,CELL,903/243-6433
+TYL,6001204051,0,Kerry,Bonilla,KerryBonilla,124200,Innovation Academy,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,KBonilla@uttyler.edu,OTR,903/216-8315
+TYL,5000070108,0,Christy,Lewis,ChristyLewis,111500,Longview University Center,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,CLewis@uttyler.edu,CELL,903/926-7244
+TYL,5000045515,0,Lynette,Sutter,LynetteSutter,118300,Center for Excellence in T&L,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,lsutter@uttyler.edu,CELL,903/504-3024
+TYL,6001160593,0,Amanda,Whitt,AmandaWhitt,124200,Innovation Academy,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,awhitt@uttyler.edu,CELL,903/360-0701
+TYL,6001125586,0,Jennifer,Williamson,JenniferWilliamson,124200,Innovation Academy,Provost and University Academy,19041,Administrative Asst II - Month,1,CL,BUSN,jenniferwilliamson@uttyler.edu,HOME,903/530-0257
+TYL,6001168184,0,Amanda,Beard,AmandaBeard,136700,Office International Programs,Provost and University Academy,19040,Administrative Asst III,1,CL,BUSN,AmandaBeard@uttyler.edu,CELL,903/617-7806
+TYL,5000102714,0,Tamara,Brown,TamaraBrown,120100,Library,Provost and University Academy,19040,Administrative Asst III,1,CL,BUSN,TBrown@uttyler.edu,BUSN,903/566-7161
+TYL,5000430222,0,Regina,Minton,ReginaMinton,124200,Innovation Academy,Provost and University Academy,19040,Administrative Asst III,1,CL,BUSN,rminton@uttyler.edu,CELL,903/373-9900
+TYL,5000118335,0,Susan,Harris,SusanHarris,111600,Palestine Campus,Provost and University Academy,19006,Administrative Srv Officer,1,CL,BUSN,SHarris@uttyler.edu,HOME,903/549-2974
+TYL,5000112805,0,Pamela,Jones,PamelaJones,111500,Longview University Center,Provost and University Academy,19006,Administrative Srv Officer,1,CL,BUSN,pjones@uttyler.edu,CELL,903/926-1754
+TYL,5000089865,0,James,Peterson,JamesPeterson,111100,Academic Affairs,Provost and University Academy,19006,Administrative Srv Officer,1,CL,BUSN,rpeterso@uttyler.edu,CELL,903/521-6604
+TYL,5000105843,0,Cheryl,Wallace,CherylWallace,120100,Library,Provost and University Academy,19006,Administrative Srv Officer,1,CL,BUSN,cwallace@uttyler.edu,HOME,903/520-3962
+TYL,5000117532,2,Blake,Bextine,BlakeBextine,111400,Ofc of Research & TechTransfer,Provost and University Academy,10046,Alt Assigmt - Ind Research,1,FA1,BUSN,BBextine@uttyler.edu,HOME,903/871-2798
+TYL,5000418988,0,Carla,Reichard,CarlaReichard,111400,Ofc of Research & TechTransfer,Provost and University Academy,19152,Assistant Director,1,CL,BUSN,creichard@uttyler.edu,HOME,903/596-8776
+TYL,5000030664,0,Brenda,Burton,BrendaBurton,116500,Registrar,Provost and University Academy,13610,Assoc Registrar,1,CL,BUSN,brendaburton@uttyler.edu,HOME,917/572-3765
+TYL,5000040754,0,William,Carrell,WilliamCarrell,116500,Registrar,Provost and University Academy,13610,Assoc Registrar,1,CL,BUSN,SCarrell@uttyler.edu,BUSN,903/285-2621
+TYL,5000047184,0,Lou,Berman,LouBerman,111200,Assessment & Instit Eff,Provost and University Academy,10108,Asst VP Asesmt & Inst Effect,1,AP,BUSN,LBerman@uttyler.edu,BUSN,903/565-5955
+TYL,5000417208,0,Amy,Curry,AmyCurry,124300,Discovery Science Place,Provost and University Academy,19073,Clerk M,1,CL,BUSN,acurry@uttyler.edu,HOME,903/878-7577
+TYL,6001200144,0,Katherine,Hellmann,KatherineHellmann,111700,Honors Program,Provost and University Academy,13112,Coordinator,1,CL,BUSN,KHellmann@uttyler.edu,HOME,952/818-2191
+TYL,5000021808,0,Katie,Adams,KatieAdams,124200,University Academy,Provost and University Academy,13118,CTE Coordinator,1,CL,BUSN,kkinsey@uttyler.edu,HOME,281/627-1231
+TYL,5000053522,0,Kenneth,Weaver,KennethWeaver,124200,Innovation Academy,Provost and University Academy,18139,Curriculum Director,1,AP,BUSN,kweaver@uttyler.edu,HOME,903/987-2270
+TYL,5000394270,0,Srinivas,Kambhampati,SrinivasKambhampati,111100,Academic Affairs,Provost and University Academy,10553,Dir of Research & Scholarship,1,AP,BUSN,skambhampati@uttyler.edu,HOME,903/372-4794
+TYL,5000108394,0,Scott,Dillingham,ScottDillingham,113500,Office of Digital Learning,Provost and University Academy,10243,Dir Office of Digital Learning,1,AP,BUSN,SDillingham@uttyler.edu,HOME,903/245-2874
+TYL,5000065801,0,Jaema,Krier,JaemaKrier,124200,Innovation Academy,Provost and University Academy,10552,Director,1,AP,BUSN,jkrier@uttyler.edu,HOME,903/563-4052
+TYL,5000368079,0,Nandini,McClurg,NandiniMcClurg,136700,Office International Programs,Provost and University Academy,10552,Director,1,AP,BUSN,nmcclurg@uttyler.edu,HOME,970/443-0772
+TYL,5000119804,0,Lauralee,Meyer,LauraleeMeyer,112100,Academic Success,Provost and University Academy,10552,Director,1,AP,BUSN,lmeyer@uttyler.edu,CELL,903/521-7350
+TYL,5000415294,0,David,Jones,DavidJones,111500,Longview University Center,Provost and University Academy,10460,Director  the Longview Cntr,1,AP,BUSN,djones@uttyler.edu,HOME,903/918-4983
+TYL,5000056347,0,Jaclyn,Pedersen,JaclynPedersen,124200,Innovation Academy,Provost and University Academy,13600,Director of Professional Dev,1,AP,BUSN,jpedersen@uttyler.edu,HOME,903/570-6104
+TYL,6001213374,0,Jennifer,Bell,JenniferBell,113500,Office of Digital Learning,Provost and University Academy,15328,Ed Tech Support Spec,1,CL,BUSN,JenniferBell@uttyler.edu,CELL,903/275-9679
+TYL,5000097799,0,Brittany,Folden,BrittanyFolden,113500,Office of Digital Learning,Provost and University Academy,15328,Ed Tech Support Spec,1,CL,BUSN,BFolden@uttyler.edu,CELL,903/752-3144
+TYL,6001213436,0,Ernesto,Stepter,ErnestoStepter,113500,Office of Digital Learning,Provost and University Academy,15328,Ed Tech Support Spec,1,CL,BUSN,EStepter@uttyler.edu,CELL,414/732-5523
+TYL,5000080356,0,Ashley,Bill,AshleyBill,112100,Academic Success,Provost and University Academy,10551,Ex Director,1,AP,BUSN,abill@uttyler.edu,CELL,903/521-5347
+TYL,5000118312,0,Deborah,Gibson,DeborahGibson,111400,Ofc of Research & TechTransfer,Provost and University Academy,10551,Ex Director,1,AP,BUSN,DGibson@uttyler.edu,CELL,903/944-9198
+TYL,5000418212,1,Christopher,Rasure,ChristopherRasure,124300,Discovery Science Place,Provost and University Academy,10551,Ex Director,1,AP,BUSN,crasure@uttyler.edu,HOME,903/526-5756
+TYL,5000117275,0,Paul,Streufert,PaulStreufert,111700,Honors Program,Provost and University Academy,10551,Ex Director,1,AP,BUSN,PStreufert@uttyler.edu,CELL,903/830-2734
+TYL,5000109926,0,Jeanne,Standley,JeanneStandley,120100,Library,Provost and University Academy,10551,Executive Director,1,AP,BUSN,jstandley@uttyler.edu,CELL,903/521-3752
+TYL,5000415357,0,James,Cox,JamesCox,124300,Discovery Science Place,Provost and University Academy,18333,Exhibit Designer,1,CL,BUSN,jcox@uttyler.edu,HOME,214/641-3016
+TYL,5000117794,0,Barbara,Bextine,BarbaraBextine,124200,University Academy,Provost and University Academy,10030,Faculty Assoc,1,FA2,BUSN,barbarabextine@uttyler.edu,HOME,903/871-2798
+TYL,5000106636,0,Christian,Chesnut,ChristianChesnut,124200,Innovation Academy,Provost and University Academy,19185,Financial Reports Mgr,1,CL,BUSN,CMoist@uttyler.edu,HOME,903/217-3580
+TYL,5000052461,0,Latresa,Jackson-Hawkins,LatresaJackson-Hawkins,124300,Discovery Science Place,Provost and University Academy,19043,Grant Cord,1,CL,BUSN,ljackson@uttyler.edu,HOME,903/539-1020
+TYL,6001110407,0,Kay,Jenkins,KayJenkins,111400,Ofc of Research & TechTransfer,Provost and University Academy,19055,Grant Writer,1,CL,HOME,KAY-JENKINS@SBCGLOBAL.NET,HOME,361/790-6092
+TYL,5000086669,0,Kathy,Parker,KathyParker,124200,University Academy,Provost and University Academy,11583,Guidance Counselor/High School,1,CL,BUSN,KathyParker@uttyler.edu,HOME,903/839-6097
+TYL,6001244282,0,Brian,Head,BrianHead,112100,Academic Success,Provost and University Academy,19348,Info Analyst,1,CL,BUSN,BHead@uttyler.edu,BUSN,919/623-9342
+TYL,5000070601,0,Alicia,Krenek,AliciaKrenek,112100,Academic Success,Provost and University Academy,19353,Info Spec,1,CL,BUSN,akrenek@uttyler.edu,CELL,903/360-4085
+TYL,5000418410,0,Dalton,Abrams,DaltonAbrams,124200,University Academy,Provost and University Academy,19307,Information Technology Cord II,1,CL,BUSN,dabrams@uttyler.edu,HOME,512/966-8844
+TYL,6001126546,0,Gay,Kato,GayKato,103320,English Language Institute,Provost and University Academy,18111,Instruct & Eval Support Spec,1,CL,BUSN,gkato@uttyler.edu,CELL,903/920-4726
+TYL,5000117736,0,Jana,Roman,JanaRoman,113500,Office of Digital Learning,Provost and University Academy,18108,Instructional Designer II,1,CL,BUSN,jroman@uttyler.edu,CELL,903/253-8070
+TYL,5000093904,0,Aimee,Dennis,AimeeDennis,124200,Innovation Academy,Provost and University Academy,10214,Instructional Leader,1,AP,BUSN,adennis@uttyler.edu,CELL,903/985-3233
+TYL,5000104099,0,Rachel,Hawkins,RachelHawkins,124200,Innovation Academy,Provost and University Academy,10214,Instructional Leader,1,AP,BUSN,rhawkins@uttyler.edu,CELL,903/407-5457
+TYL,5000107498,0,Becky,Rutledge,BeckyRutledge,124200,Innovation Academy,Provost and University Academy,10214,Instructional Leader,1,AP,BUSN,brutledge@uttyler.edu,HOME,903/764-8149
+TYL,5000363342,0,Daoming,Chen,DaomingChen,136700,Office International Programs,Provost and University Academy,13065,International Advisor II,1,CL,BUSN,dchen@uttyler.edu,HOME,903/266-9398
+TYL,6001156368,0,Margaret,Morgan,MargaretMorgan,136700,Office International Programs,Provost and University Academy,13065,International Advisor II,1,CL,BUSN,mmorgan@uttyler.edu,CELL,972/415-9224
+TYL,6001219519,0,Torrey,Wang,TorreyWang,136700,Office International Programs,Provost and University Academy,13065,International Advisor II,1,CL,BUSN,TWang@uttyler.edu,CELL,574/404-1442
+TYL,5000431042,0,Frances,Sartain,FrancesSartain,124200,University Academy,Provost and University Academy,10055,Intervention Specialist,1,FA2,BUSN,jsartain@uttyler.edu,HOME,469/939-5446
+TYL,6001209828,0,Geoff,Doepker,GeoffDoepker,120100,Library,Provost and University Academy,18070,Library Asst II,1,CL,BUSN,GeoffDoepker@uttyler.edu,CELL,229/563-1127
+TYL,5000071280,0,Dorothy,Harp,DorothyHarp,120100,Library,Provost and University Academy,18070,Library Asst II,1,CL,BUSN,jharp@uttyler.edu,CELL,903/312-1748
+TYL,5000024203,0,Robyn,Perdue,RobynPerdue,120100,Library,Provost and University Academy,18070,Library Asst II,1,CL,BUSN,rperdue@uttyler.edu,HOME,903/279-7871
+TYL,5000070632,0,Howard,Rockwell,HowardRockwell,120100,Library,Provost and University Academy,18070,Library Asst II,1,CL,BUSN,hrockwell@uttyler.edu,HOME,903/245-6333
+TYL,5000050633,0,Tracy,Thompson,TracyThompson,120100,Library,Provost and University Academy,18070,Library Asst II,1,CL,BUSN,tthompson@uttyler.edu,CELL,903/316-2250
+TYL,5000118252,0,Ann,Darnley,AnnDarnley,120100,Library,Provost and University Academy,18069,Library Asst III,1,CL,BUSN,ADarnley@uttyler.edu,CELL,903/508-8422
+TYL,5000383831,0,Wilson,DeWoody,WilsonDeWoody,113500,Office of Digital Learning,Provost and University Academy,19316,LMS Administrator,1,CL,BUSN,wdewoody@uttyler.edu,CELL,903/767-0076
+TYL,6001199720,0,Juan,Cabrera,JuanCabrera,124200,Innovation Academy,Provost and University Academy,15289,Maintenance Worker II,1,CL,BUSN,JCabrera@uttyler.edu,HOME,903/316-3956
+TYL,6001166349,0,Suzanne,Abbey,SuzanneAbbey,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,sabbey@uttyler.edu,CELL,214 8024187
+TYL,5000072969,0,Vandy,Dubre,VandyDubre,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,vdubre@uttyler.edu,HOME,903/566-2763
+TYL,5000118213,0,Margo,Duncan,MargoDuncan,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,MDuncan@uttyler.edu,HOME,903/638-0328
+TYL,6001129819,0,Rebecca,Fernandez,RebeccaFernandez,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,rfernandez@uttyler.edu,CELL,210/529-1998
+TYL,6001205254,0,Christine,Forisha,ChristineForisha,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,CForisha@uttyler.edu,CELL,832/428-1142
+TYL,5000395878,0,Terra,Gullings,TerraGullings,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,tbianchi@uttyler.edu,HOME,281/740-5989
+TYL,6001161891,0,Sarah,Norrell,SarahNorrell,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,snorrell@uttyler.edu,CELL,903/340-4419
+TYL,5000429069,0,Alma,Ravenell,AlmaRavenell,120100,Library,Provost and University Academy,10080,Professional Librarian,1,AP,BUSN,aravenell@uttyler.edu,HOME,903/930-5461
+TYL,5000071318,0,Elizabeth,Bonner,ElizabethBonner,116500,Registrar,Provost and University Academy,19023,Records Specialist,1,CL,BUSN,ebonner@uttyler.edu,CELL,903/520-5245
+TYL,6001097583,0,Rachaelle,Browning,RachaelleBrowning,116500,Registrar,Provost and University Academy,19023,Records Specialist,1,CL,CAMP,RBROWNING@UTTYLER.EDU,HOME,903/340-1739
+TYL,6001196582,0,Catherine,Salinas,CatherineSalinas,116500,Registrar,Provost and University Academy,19023,Records Specialist,1,CL,BUSN,CSalinas@uttyler.edu,CELL,432/853-0172
+TYL,5000031149,0,Sonja,Morale,SonjaMorale,116500,Registrar,Provost and University Academy,10317,Registrar,1,AP,BUSN,SMorale@uttyler.edu,HOME,903/561-3885
+TYL,5000074455,0,Morgan,Birdwell,MorganBirdwell,124200,University Academy,Provost and University Academy,19053,School Aide,1,FA2,BUSN,MBirdwell@uttyler.edu,OTR,903/922-4939
+TYL,6001283748,0,Allison,Freeman,AllisonFreeman,124200,University Academy,Provost and University Academy,19053,School Aide,1,CL,HOME,ADFREEMAN0909@GMAIL.COM,HOME,903/373-1680
+TYL,6001161892,0,Rica,Payton,RicaPayton,124200,University Academy,Provost and University Academy,19053,School Aide,1,FA2,BUSN,rpayton@uttyler.edu,CELL,903/291-8814
+TYL,6001283750,0,Nicole,Arnold,NicoleArnold,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,HOME,NICOLEARNOLD76@YAHOO.COM,HOME,903/720-9982
+TYL,6001223255,0,Jamie,Atchley,JamieAtchley,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JAtchley@uttyler.edu,HOME,903/724-8901
+TYL,5000027601,0,Karen,Buckland,KarenBuckland,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,kbuckland@uttyler.edu,CELL,903/724-9502
+TYL,6001155954,0,Jaime,Burke Hicks,JaimeBurke Hicks,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,jburke@uttyler.edu,HOME,903/472-8679
+TYL,6001283755,0,Julie,Canales,JulieCanales,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,JCANALESINTX@GMAIL.COM,HOME,903/431-7817
+TYL,6001159346,0,Jordan,Carns,JordanCarns,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,jcarns@uttyler.edu,HOME,520/895-9443
+TYL,6001162416,0,Kayla,Clark,KaylaClark,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,kaylaclark@uttyler.edu,HOME,903/452-3853
+TYL,6001120275,0,Patricia,Davis,PatriciaDavis,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,pdavis@uttyler.edu,HOME,903/452-9156
+TYL,5000094365,0,Jay,DeWitt,JayDeWitt,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,jdewitt@uttyler.edu,HOME,903/561-2936
+TYL,5000055920,0,Kelly,Dyer,KellyDyer,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,kdyer@uttyler.edu,HOME,903/933-1759
+TYL,5000438689,0,Jessie,English,JessieEnglish,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,ENGLISHJME@GMAIL.COM,HOME,903/353-6662
+TYL,5000391573,0,Sarah,Evans,SarahEvans,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,sevans@uttyler.edu,CELL,903/235-7253
+TYL,5000020000,0,Kristian,Fischer,KristianFischer,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,FISCHER.KRISTIAN.E@GMAIL.COM,HOME,903/253-2855
+TYL,5000367407,0,Sybil,Fisher,SybilFisher,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,sfisher@uttyler.edu,HOME,903/705-2715
+TYL,5000099576,0,Jonathan,Gray,JonathanGray,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,JCGRAY78@YAHOO.COM,HOME,903/241-2540
+TYL,5000040119,0,Nicole,Hart,NicoleHart,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,nwebb@uttyler.edu,HOME,903/720-9211
+TYL,6001284071,0,Ashlee,Hazelbaker,AshleeHazelbaker,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,MELEAHADAILY@GMAIL.COM,HOME,903/570-4153
+TYL,5000418402,0,Laura,Hilbig,LauraHilbig,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,lhilbig@uttyler.edu,HOME,903/245-3821
+TYL,6001157604,0,Hollie,Hogan,HollieHogan,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,hhogan@uttyler.edu,HOME,903/241-8818
+TYL,5000087697,0,Mary,Howell,MaryHowell,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,MHowell@uttyler.edu,HOME,903/780-2185
+TYL,5000437221,0,Staci,Kilsby,StaciKilsby,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,SKILSBY@UTTIA.ORG,HOME,903/590-6293
+TYL,6001244191,0,Lauren,Kraus,LaurenKraus,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,LaurenKraus@uttyler.edu,HOME,903/452-4686
+TYL,6001109370,0,Lanette,Lanchester,LanetteLanchester,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,LLanchester@uttyler.edu,HOME,903/747-2597
+TYL,6001223253,0,Leanne,Lewis,LeanneLewis,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,LeanneLewis@uttyler.edu,HOME,903/352-1064
+TYL,5000366185,0,Jenna,Long,JennaLong,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JLong@uttyler.edu,HOME,903/780-5384
+TYL,6001220066,0,Paige,Marley,PaigeMarley,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,PMarley@uttyler.edu,BUSN,832/622-3088
+TYL,6001283745,0,Heather,McCullin,HeatherMcCullin,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,HAMCCULLIN@GMAIL.COM,HOME,817/718-6409
+TYL,5000019351,0,Jenny,McDonald,JennyMcDonald,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JMcdonald@uttyler.edu,HOME,903/723-9180
+TYL,6001162929,0,Jason,McGregor,JasonMcGregor,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JmcGregor@uttyler.edu,CELL,903/241-5872
+TYL,5000074964,0,Rachel,Mcdaniel,RachelMcdaniel,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,rmcdaniel@uttyler.edu,HOME,903/355-0072
+TYL,6001223328,0,Jennifer,Mitchell,JenniferMitchell,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JenniferMitchell@uttyler.edu,HOME,903/407-1332
+TYL,5000119243,0,Benjamin,Moran,BenjaminMoran,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,bmoran@uttyler.edu,HOME,903/948-6058
+TYL,5000054831,0,Jill,Newsome,JillNewsome,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,JNewsome@uttyler.edu,HOME,903/570-0642
+TYL,6001223254,0,Shelly,Parsons,ShellyParsons,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,SParsons@uttyler.edu,HOME,903/948-5554
+TYL,5000045670,0,Samantha,Rector,SamanthaRector,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,srector@uttyler.edu,HOME,903/452-4557
+TYL,5000011732,0,Heather,Richmond,HeatherRichmond,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,heatherrichmond@uttyler.edu,HOME,903/284-8613
+TYL,6001120283,0,Larry,Richmond,LarryRichmond,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,lrichmond@uttyler.edu,HOME,903/284-7819
+TYL,5000066856,0,Betsy,Rountree,BetsyRountree,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,brountree@uttyler.edu,CELL,903/360-0806
+TYL,6001283747,0,Patadora,Sams,PatadoraSams,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,PSAMS@UTTIA.ORG,HOME,903/714-8961
+TYL,6001086919,0,Rachel,Schulik,RachelSchulik,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,RSchulik@uttyler.edu,HOME,903/235-4747
+TYL,6001283746,0,Christi,Smith,ChristiSmith,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,TOBESTRONG2017@GMAIL.COM,HOME,469/374-4984
+TYL,6001283754,0,Rae Lynn,Sutsch,Rae LynnSutsch,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,RSUTSCH@ATT.NET,HOME,903/954-1372
+TYL,6001223256,0,Samantha,Swanson,SamanthaSwanson,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,SSwanson@uttyler.edu,HOME,903/747-0979
+TYL,6001223433,0,Sara,Teichgraeber,SaraTeichgraeber,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,STeichgraeber@uttyler.edu,HOME,903/617-6351
+TYL,5000406007,0,Chandra,Tucker,ChandraTucker,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,DATJAT30@HOTMAIL.COM,HOME,940/390-7000
+TYL,5000360537,0,Oscar,Urieta Albarran,OscarUrieta Albarran,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,OUrietaAlbarran@uttyler.edu,HOME,903/574-1664
+TYL,6001243967,0,Aki,Vanbuskirk,AkiVanbuskirk,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,AVanbuskirk@uttyler.edu,HOME,903/581-7453
+TYL,5000430038,0,Michael,Vogt,MichaelVogt,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,mvogt@uttyler.edu,HOME,903/603-5783
+TYL,6001124396,0,Tori,Weisenburn,ToriWeisenburn,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,tweisenburn@uttyler.edu,HOME,903/948-7676
+TYL,5000361248,0,Emily,Wood,EmilyWood,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA1,BUSN,ewood@uttyler.edu,CELL,903/521-0089
+TYL,5000046394,0,Natalie,Woods,NatalieWoods,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,BUSN,njames@uttyler.edu,HOME,903/720-4326
+TYL,6001283749,0,Kazia,Wren,KaziaWren,124200,University Academy,Provost and University Academy,10054,School Teacher,1,FA2,HOME,KAZIAWREN@GMAIL.COM,HOME,903/738-4314
+TYL,6001115389,0,Jahir,Sanchez,JahirSanchez,124300,Discovery Science Place,Provost and University Academy,18334,Shop and Maintenance Asst,1,CL,BUSN,jahirsanchez@uttyler.edu,HOME,903/245-3031
+TYL,5000034286,0,Chelsea,Nardozza,ChelseaNardozza,124200,University Academy,Provost and University Academy,13103,Special Education Coord,1,FA2,BUSN,CNardozza@uttyler.edu,HOME,903/570-5666
+TYL,5000044224,0,Pamela,Beall,PamelaBeall,116500,Registrar,Provost and University Academy,19063,Special Programs Manager,1,CL,BUSN,PBEALL@UTTYLER.EDU,CELL,903/752-3252
+TYL,5000417221,0,Paul,Parchert,PaulParchert,116500,Registrar,Provost and University Academy,19063,Special Programs Manager,1,CL,BUSN,pparchert@uttyler.edu,HOME,414/801-2554
+TYL,6001285790,0,Kimberly,Tucker,KimberlyTucker,116500,Registrar,Provost and University Academy,19063,Special Programs Manager,1,CL,HOME,KIMBERLYGTUCKER80@GMAIL.COM,HOME,903/245-0584
+TYL,5000118005,0,Elizabeth,Bruce,ElizabethBruce,111100,Academic Affairs,Provost and University Academy,19019,Sr Administrative Assoc,1,CL,BUSN,BBruce@uttyler.edu,CELL,859/240-8363
+TYL,6001116393,0,Angela,Nunez,AngelaNunez,111400,Ofc of Research & TechTransfer,Provost and University Academy,19038,Sr Grant Coordinator,1,CL,BUSN,anunez@uttyler.edu,CELL,903/952-2057
+TYL,6001129595,0,Rachel,Evans,RachelEvans,103320,English Language Institute,Provost and University Academy,13052,Student Development Spec I,1,CL,BUSN,revans@uttyler.edu,HOME,903.316.8125
+TYL,5000084348,0,Jo,Simmons,JoSimmons,124200,Innovation Academy,Provost and University Academy,10053,Superintendent,1,AP,BUSN,josimmons@uttyler.edu,BUSN,903/456-7832
+TYL,5000418854,0,Sean,Winters,SeanWinters,124100,University Academy,Provost and University Academy,19335,Support Analyst I,1,CL,BUSN,swinters@uttyler.edu,HOME,903/423-7156
+TYL,5000061396,0,Christopher,Martin,ChristopherMartin,111500,Longview University Center,Provost and University Academy,19333,Support Srv Analyst,1,CL,BUSN,ChrisMartin@uttyler.edu,CELL,903/241-6107
+TYL,6001141755,0,Amir,Mirmiran,AmirMirmiran,111100,Academic Affairs,Provost and University Academy,10105,VP For Academic Affs & Provost,1,AP,BUSN,amirmiran@uttyler.edu,CELL,786/338-8695
+TYL,5000023818,2,Gus,Gordon,GusGordon,102200,"Accounting, Finance & B Law",Soules and Operations,10044,Alt Assigmt - College,0.0003,FA1,BUSN,GGordon@uttyler.edu,HOME,903/939-2067
+TYL,5000016530,2,Taylor,Alvarez,TaylorAlvarez,102300,HR Development,Soules and Operations,10043,Alt Assigmt - Dept,0.0003,FA3,BUSN,talvarez@uttyler.edu,HOME,903/767-6577
+TYL,5000118094,2,Vivek,Pandey,VivekPandey,102100,Dean - Business & Technology,Soules and Operations,10043,Alt Assigmt - Dept,0.0003,FA1,BUSN,vpandey@uttyler.edu,BUSN,903/312-9664
+TYL,5000094714,1,Yi,Sun,YiSun,102300,HR Development,Soules and Operations,10046,Alt Assigmt - Ind Research,0.0003,FA2,BUSN,JSun@uttyler.edu,BUSN,903/565-5912
+TYL,5000365564,0,Dianna,Wrinkle,DiannaWrinkle,121100,Physical Plant,Soules and Operations,A004,Employee Contractor,0.0003,POI,,,,
+TYL,5000079603,0,Paula,Anthony-McMann,PaulaAnthony-McMann,104500,Computer Science,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,PAnthonyMcMann@uttyler.edu,BUSN,903/360-7676
+TYL,5000119820,0,Afton,Barber,AftonBarber,102400,Management & Marketing,Soules and Operations,10013,Adjunct Lecturer,0.2,FA3,BUSN,abarber@uttyler.edu,HOME,903/721-9020
+TYL,5000379648,0,Christian,Bushardt,ChristianBushardt,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,HOME,CBUSHARDT@UTTYLER.EDU,HOME,601/466-2219
+TYL,5000012303,0,Sharon,Cathcart,SharonCathcart,104500,Computer Science,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,SCathcart@uttyler.edu,HOME,903/894-6330
+TYL,5000008359,1,Terry,Cowan,TerryCowan,102500,Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,tcowan@uttyler.edu,HOME,903/581-2238
+TYL,5000028368,0,Randell,Farley,RandellFarley,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,HOME,RFARLEY2@PATRIOTS.UTTYLER.EDU,HOME,903/253-4902
+TYL,5000012149,1,Michael,Henderson,MichaelHenderson,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,mhenderson@uttyler.edu,CELL,903/283-0211
+TYL,5000385837,0,Samuel,Kaemmerling,SamuelKaemmerling,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,skaemmerling@uttyler.edu,HOME,936/632-0460
+TYL,5000063957,0,Traci,Kenner,TraciKenner,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,HOME,TRACI.KENNER@YAHOO.COM,HOME,903.539.6157
+TYL,5000017245,0,Joshua,Leamons,JoshuaLeamons,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,jleamons@uttyler.edu,BUSN,806/252-9810
+TYL,5000386240,0,Jason,Mazingo,JasonMazingo,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2,FA2,BUSN,jmazingo@uttyler.edu,HOME,903/445-7357
+TYL,5000056247,2,Adrienne,Hampton,AdrienneHampton,102100,Dean - Business & Technology,Soules and Operations,10058,Extension Instructor,0.2,FA2,BUSN,ahampton@uttyler.edu,BUSN,903/235-5665
+TYL,5000117991,0,Kerri,Camp,KerriCamp,102400,Management & Marketing,Soules and Operations,10044,Alt Assigmt - College,0.25,FA1,BUSN,KCamp@uttyler.edu,BUSN,903/952-1163
+TYL,5000361911,1,Andrea,Ellinger,AndreaEllinger,102300,HR Development,Soules and Operations,10043,Alt Assigmt - Dept,0.25,FA2,BUSN,AndreaEllinger@uttyler.edu,HOME,217/778-0375
+TYL,6001122419,1,Kimmy,Nimon,KimmyNimon,102300,HR Development,Soules and Operations,10043,Alt Assigmt - Dept,0.25,FA1,BUSN,knimon@uttyler.edu,HOME,214/675-4872
+TYL,6001122901,2,Lidong,Wu,LidongWu,104500,Computer Science,Soules and Operations,10043,Alt Assigmt - Dept,0.25,FA1,BUSN,lwu@uttyler.edu,,
+TYL,5000383884,1,Brent,Beal,BrentBeal,102400,Management & Marketing,Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,bbeal@uttyler.edu,HOME,225/802-7015
+TYL,5000118037,1,Tammy,Cowart,TammyCowart,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,tcowart@uttyler.edu,HOME,903/566-2019
+TYL,6001045740,2,Nicholas,Fessler,NicholasFessler,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,nfessler@uttyler.edu,BUSN,660/441-3222
+TYL,5000416505,1,Venugopal,Gopalakrishna Remani,VenugopalGopalakrishna Remani,102400,Management & Marketing,Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,venugopal@uttyler.edu,HOME,330/289-4055
+TYL,5000417439,0,Chialing,Hsieh,ChialingHsieh,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,chsieh@uttyler.edu,HOME,972/336-1676
+TYL,5000383599,1,Sherry,Jackson,SherryJackson,102400,Management & Marketing,Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA2,BUSN,savery@uttyler.edu,HOME,903/283-2771
+TYL,5000382356,1,Roger,Lirely,RogerLirely,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,rlirely@uttyler.edu,HOME,828/734-2132
+TYL,5000117555,1,Mark,Miller,MarkMiller,102500,Technology,Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA2,BUSN,MMiller@uttyler.edu,HOME,903/565-0960
+TYL,6001137130,2,Tom,Roberts,TomRoberts,104500,Computer Science,Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA1,BUSN,tomroberts@uttyler.edu,HOME,903/630-2509
+TYL,5000117682,1,Geunhwan,Shin,GeunhwanShin,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA2,BUSN,HShin@uttyler.edu,HOME,903/262-4468
+TYL,5000025215,1,Veronda,Willis,VerondaWillis,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA2,BUSN,VerondaWillis@uttyler.edu,HOME,903/581-1793
+TYL,5000122128,1,Chen,Wu,ChenWu,102200,"Accounting, Finance & B Law",Soules and Operations,10046,Alt Assigmt - Ind Research,0.25,FA2,BUSN,cwu@uttyler.edu,HOME,903/871-3376
+TYL,5000011223,1,Stephen,Rainwater,StephenRainwater,104500,Computer Science,Soules and Operations,10018,Chair,0.25,FA1,BUSN,srainwater@uttyler.edu,HOME,903/566-4572
+TYL,5000384819,2,Krist,Swimberghe,KristSwimberghe,102400,Management & Marketing,Soules and Operations,10018,Chair,0.25,FA1,BUSN,kswimberghe@uttyler.edu,HOME,318/834-9960
+TYL,5000039062,0,Debra,Blain,DebraBlain,115500,University Police,Soules and Operations,16348,Communications Operator,0.25,CLN,BUSN,DebraBlain@uttyler.edu,CELL,903/539-1909
+TYL,5000037009,0,Elisabeth,Carr,ElisabethCarr,115500,University Police,Soules and Operations,16348,Communications Operator,0.25,CLN,BUSN,epeden@uttyler.edu,HOME,903/352-4495
+TYL,5000117303,3,Gail,Johnson,GailJohnson,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.2665,FA2,BUSN,GJohnson@uttyler.edu,BUSN,903/279-4930
+TYL,5000062766,4,Kerrie Anne,Clark,Kerrie AnneClark,102100,Dean - Business & Technology,Soules and Operations,10551,Executive Director,0.3685,AP,BUSN,KAClark@uttyler.edu,HOME,512/731-3215
+TYL,5000438700,0,Bryn,Brown,BrynBrown,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.4,FA1,BUSN,BBrown@uttyler.edu,BUSN,817/586-9398
+TYL,6001087869,0,John,Connolly II,JohnConnolly II,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.4,FA2,HOME,JCONNOLLY@PATRIOTS.UTTYLER.EDU,BUSN,805/458-4987
+TYL,5000052572,0,Gigi,Delk,GigiDelk,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.4,FA2,BUSN,GDelk@uttyler.edu,HOME,903/839-8417
+TYL,6001197842,0,Christopher,Shaw,ChristopherShaw,102200,"Accounting, Finance & B Law",Soules and Operations,10013,Adjunct Lecturer,0.4,FA2,BUSN,CShaw@uttyler.edu,BUSN,903/618-9083
+TYL,5000013814,0,Kristen,Stovall,KristenStovall,102100,Dean - Business & Technology,Soules and Operations,10013,Adjunct Lecturer,0.4,FA2,HOME,KRISTEN.STOVALL@TVCC.EDU,HOME,903/566-7310
+TYL,6001213433,0,Darrien,Robinson,DarrienRobinson,115500,University Police,Soules and Operations,16347,"Guard, University Police",0.4875,CL,BUSN,DarrienRobinson@uttyler.edu,CELL,903/353-6994
+TYL,5000380734,0,Charles,Steen,CharlesSteen,115500,University Police,Soules and Operations,16347,"Guard, University Police",0.4875,CLN,BUSN,CSteen@uttyler.edu,HOME,903/724-4039
+TYL,6001200570,0,Terence,Johnson,TerenceJohnson,121200,Building Maintenance,Soules and Operations,15290,Maintenance Worker I,0.4875,CL,BUSN,TerenceJohnson@uttyler.edu,CELL,214/205-3369
+TYL,6001143549,0,Roger,Henry,RogerHenry,115500,University Police,Soules and Operations,16337,Police Officer,0.4875,CLN,BUSN,rhenry@uttyler.edu,HOME,903/245-2943
+TYL,6001089045,0,Unisha,Maskey,UnishaMaskey,102400,Management & Marketing,Soules and Operations,14419,Research Asst - Hourly,0.4875,CLN,BUSN,umaskey@uttyler.edu,CELL,903/258-4450
+TYL,6001120376,0,Kevin,James,KevinJames,102400,Management & Marketing,Soules and Operations,10009,Asst Professor,0.5,FA1,BUSN,kjames@uttyler.edu,HOME,830/481-0501
+TYL,6001136538,1,Hui,Liang,HuiLiang,102100,Dean - Business & Technology,Soules and Operations,10009,Asst Professor,0.5,FA1,BUSN,hjames@uttyler.edu,HOME,830/328-0266
+TYL,5000054710,1,Mary,Fischer,MaryFischer,102200,"Accounting, Finance & B Law",Soules and Operations,10007,Professor,0.5,FA1,BUSN,MFischer@uttyler.edu,HOME,903/561-0089
+TYL,5000117507,0,Jerry,Tomlin,JerryTomlin,121600,Utilities,Soules and Operations,15135,Utilities Station Operator,0.5,CL,BUSN,JTomlin@uttyler.edu,CELL,903/253-4514
+TYL,5000415212,0,Marina,Astakhova,MarinaAstakhova,102400,Management & Marketing,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,mastakhova@uttyler.edu,HOME,330/931-5414
+TYL,5000117978,0,Mary,Fagan,MaryFagan,102400,Management & Marketing,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,mfagan@uttyler.edu,HOME,972/863-1437
+TYL,5000378512,0,Dominick,Fazarro,DominickFazarro,102500,Technology,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,dfazarro@uttyler.edu,HOME,469/910-9181
+TYL,5000379076,0,Heshium,Lawrence,HeshiumLawrence,102500,Technology,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,hlawrence@uttyler.edu,BUSN,903/565-5663
+TYL,5000061342,0,Rochell,McWhorter,RochellMcWhorter,102300,HR Development,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,RMcWhorter@uttyler.edu,HOME,903/520-6234
+TYL,5000085925,2,Paul,Roberts,PaulRoberts,102300,HR Development,Soules and Operations,10008,Assoc Professor,0.75,FA1,BUSN,PRoberts@uttyler.edu,BUSN,903/520-6499
+TYL,5000383191,0,Stephen,Bushardt,StephenBushardt,102400,Management & Marketing,Soules and Operations,10007,Professor,0.75,FA1,BUSN,sbushardt@uttyler.edu,HOME,903/330-5575
+TYL,5000415214,0,John,Cater,JohnCater,102400,Management & Marketing,Soules and Operations,10007,Professor,0.75,FA1,BUSN,jcater@uttyler.edu,HOME,903/707-2107
+TYL,5000117541,0,Greg,Wang,GregWang,102300,HR Development,Soules and Operations,10007,Professor,0.75,FA1,BUSN,GWang@uttyler.edu,HOME,903/830-2197
+TYL,5000071969,0,Barbara,Wooldridge,BarbaraWooldridge,102400,Management & Marketing,Soules and Operations,10007,Professor,0.75,FA1,BUSN,BWooldridge@uttyler.edu,BUSN,903 3606045
+TYL,5000052817,0,Marilyn,Young,MarilynYoung,102400,Management & Marketing,Soules and Operations,10007,Professor,0.75,FA1,BUSN,myoung@uttyler.edu,HOME,903/561-4738
+TYL,5000119862,0,Ada,Bravo,AdaBravo,102100,Dean - Business & Technology,Soules and Operations,13088,Academic Advisor I,1,CL,BUSN,ABravo@uttyler.edu,CELL,903/312-9476
+TYL,5000402698,0,Rebecca,Kling,RebeccaKling,102100,Dean - Business & Technology,Soules and Operations,13086,Academic Advisor II,1,CL,BUSN,rkling@uttyler.edu,CELL,903/275-3030
+TYL,5000008970,0,Roger,Sims,RogerSims,102100,Dean - Business & Technology,Soules and Operations,13086,Academic Advisor II,1,CL,BUSN,rsims@uttyler.edu,HOME,903/534-9868
+TYL,5000094852,0,Amanda,Watkins,AmandaWatkins,102100,Dean - Business & Technology,Soules and Operations,13085,Academic Advisor III,1,CL,BUSN,AWatkins@uttyler.edu,CELL,979/204-8186
+TYL,5000363791,0,RaeJean,Griffin,RaeJeanGriffin,102400,Management & Marketing,Soules and Operations,19020,Administrative Assoc,1,CL,BUSN,RGriffin@uttyler.edu,BUSN,903/565-5585
+TYL,6001120443,0,Janice,Helfers,JaniceHelfers,102100,Dean - Business & Technology,Soules and Operations,19020,Administrative Assoc,1,CL,BUSN,jhelfers@uttyler.edu,HOME,214/554-3834
+TYL,5000030747,0,Johnna,Thedford,JohnnaThedford,115500,University Police,Soules and Operations,19020,Administrative Assoc,1,CL,BUSN,jthedford@uttyler.edu,CELL,903/521-3685
+TYL,5000024798,0,Rosalinda,Edwards,RosalindaEdwards,114400,Copy Center,Soules and Operations,19041,Administrative Asst II - Month,1,CL,BUSN,redwards@uttyler.edu,HOME,903/372-3915
+TYL,6001222480,0,Jeffrey,Lindenmoyer,JeffreyLindenmoyer,104500,Computer Science,Soules and Operations,19041,Administrative Asst II - Month,1,CL,BUSN,JLindenmoyer@uttyler.edu,CELL,904/716-5311
+TYL,5000361956,0,Jacqueline,Richardson,JacquelineRichardson,102200,"Accounting, Finance & B Law",Soules and Operations,19041,Administrative Asst II - Month,1,CL,BUSN,jrichardson@uttyler.edu,CELL,409/789-1557
+TYL,5000433832,0,Kim,Stapp,KimStapp,115450,Environmental H&S,Soules and Operations,19041,Administrative Asst II - Month,1,CL,BUSN,kstapp@uttyler.edu,CELL,714/270-4560
+TYL,5000117695,0,Donna,Beddingfield,DonnaBeddingfield,121100,Physical Plant,Soules and Operations,19006,Administrative Srv Officer,1,CL,BUSN,DBeddingfield@uttyler.edu,HOME,903/839-3195
+TYL,5000117524,0,Amy,Weakley,AmyWeakley,102100,Dean - Business & Technology,Soules and Operations,19006,Administrative Srv Officer,1,CL,BUSN,AWeakley@uttyler.edu,BUSN,903/565-5582
+TYL,5000118164,0,Rodney,Mabry,RodneyMabry,102200,"Accounting, Finance & B Law",Soules and Operations,10043,Alt Assigmt - Dept,1,FA1,BUSN,rmabry@uttyler.edu,CELL,903/530-4727
+TYL,5000118246,0,Thomas,Pinkerton,ThomasPinkerton,121100,Physical Plant,Soules and Operations,19152,Assistant Director,1,CL,BUSN,tpinkerton@uttyler.edu,HOME,903/539-5590
+TYL,6001203991,0,Mohammed,Ali,MohammedAli,102500,Technology,Soules and Operations,10008,Assoc Professor,1,FA1,BUSN,MohammedAli@uttyler.edu,BUSN,903/237-9003
+TYL,5000118110,0,Leonard,Brown,LeonardBrown,104500,Computer Science,Soules and Operations,10008,Assoc Professor,1,FA1,BUSN,LBrown@uttyler.edu,CELL,817 2265981
+TYL,6001144006,0,Robert,Schumaker,RobertSchumaker,104500,Computer Science,Soules and Operations,10008,Assoc Professor,1,FA1,BUSN,rschumaker@uttyler.edu,CELL,203/516-0077
+TYL,5000093413,0,Narayanan,Subramanian,NarayananSubramanian,104500,Computer Science,Soules and Operations,10008,Assoc Professor,1,FA1,BUSN,NSubramanian@uttyler.edu,HOME,903/561-5416
+TYL,6001122431,0,Abdullahel,Bari,AbdullahelBari,102400,Management & Marketing,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,abari@uttyler.edu,BUSN,318/436-1371
+TYL,6001120375,0,Kyung-Ah,Byun,Kyung-AhByun,102400,Management & Marketing,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,kbyun@uttyler.edu,BUSN,319/321-2197
+TYL,6001155821,0,Shirl,Donaldson,ShirlDonaldson,102500,Technology,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,sdonaldson@uttyler.edu,HOME,765/426-7143
+TYL,6001144007,1,Junghwa,Hong,JunghwaHong,102100,Dean - Business & Technology,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,jhong@uttyler.edu,,
+TYL,6001278362,0,David,Hull,DavidHull,104500,Computer Science,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,DHULL@UTTYLER.EDU,HOME,913/660-8379
+TYL,6001200260,0,Timothy,Nix,TimothyNix,104500,Computer Science,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,TNix@uttyler.edu,BUSN,979/595-5638
+TYL,6001201415,0,Jie,Yang,JieYang,102400,Management & Marketing,Soules and Operations,10009,Asst Professor,1,FA1,BUSN,JYang@uttyler.edu,BUSN,516/639-8440
+TYL,6001282727,0,Jordan,Ratliff,JordanRatliff,115500,University Police,Soules and Operations,13101,Campus Park and Transp Coord,1,CL,HOME,JORDAN.RATLIFFVS@GMAIL.COM,HOME,903/752-0709
+TYL,5000021425,0,Michael,Medders,MichaelMedders,115500,University Police,Soules and Operations,10345,Chief University Police,1,AP,BUSN,MMedders@uttyler.edu,CELL,903/360-4189
+TYL,6001112254,0,Halley,Graham,HalleyGraham,102100,Dean - Business & Technology,Soules and Operations,14503,College Assessment Coordinator,1,CL,BUSN,HGraham@uttyler.edu,BUSN,832/689-8172
+TYL,6001157646,0,Natalie,Goodall,NatalieGoodall,115500,University Police,Soules and Operations,16345,Communications Operator,1,CL,BUSN,nboggs@uttyler.edu,CELL,903/539-0559
+TYL,6001285548,0,Mary,Perez,MaryPerez,115500,University Police,Soules and Operations,16345,Communications Operator,1,CL,HOME,BETHWRIGHT688@GMAIL.COM,HOME,903/343-4612
+TYL,5000119938,0,Rachel,Phenix,RachelPhenix,115500,University Police,Soules and Operations,16345,Communications Operator,1,CL,BUSN,rphenix@uttyler.edu,CELL,903/812-0433
+TYL,5000370680,0,Zachary,Speer,ZacharySpeer,115500,University Police,Soules and Operations,16345,Communications Operator,1,CL,BUSN,ZSpeer@uttyler.edu,CELL,903/279-7865
+TYL,5000117302,0,Todd,Haines,ToddHaines,114400,Copy Center,Soules and Operations,18725,Copy Cntr Mgr,1,CL,BUSN,THaines@uttyler.edu,HOME,903/570-8331
+TYL,5000118323,0,Richard,Legler,RichardLegler,121200,Building Maintenance,Soules and Operations,16206,Custodial Manager,1,CL,BUSN,RLegler@uttyler.edu,BUSN,903/566-7385
+TYL,5000117478,0,Paula,Tate,PaulaTate,115450,Environmental H&S,Soules and Operations,10301,Dir Environmental Hlth & Safet,1,AP,BUSN,PTate@uttyler.edu,CELL,903/530-6465
+TYL,6001203153,0,Andrew,Krouse,AndrewKrouse,121100,Physical Plant,Soules and Operations,10552,Director,1,AP,BUSN,AKrouse@uttyler.edu,CAMP,903/565-5658
+TYL,5000436073,0,Jody,Davis,JodyDavis,121200,Building Maintenance,Soules and Operations,15212,Electrician II,1,CL,BUSN,jodydavis@uttyler.edu,HOME,903/570-0742
+TYL,5000079824,0,Randal,Duke,RandalDuke,115500,University Police,Soules and Operations,16340,Emergency Mgmt Coordinator,1,CL,BUSN,rduke@uttyler.edu,HOME,903/363-6430
+TYL,5000006581,0,Bonnie,Davis,BonnieDavis,121600,Utilities,Soules and Operations,15143,Energy Manager,1,CL,BUSN,bdavis@uttyler.edu,HOME,903/245-2152
+TYL,5000118276,0,Steven,Foreman,StevenForeman,121600,Utilities,Soules and Operations,15134,Energy Mgt Techn II,1,CL,BUSN,SForeman@uttyler.edu,HOME,972/202-9917
+TYL,5000417809,0,Terry,Rhame,TerryRhame,121200,Building Maintenance,Soules and Operations,15293,Grounds Maintenance Worker,1,CL,BUSN,trhame@uttyler.edu,CELL,903/630-0486
+TYL,5000438014,0,Cheyanne,Bowen,CheyanneBowen,115500,University Police,Soules and Operations,16355,Guard Supervisor,1,CL,BUSN,cbowen@uttyler.edu,CELL,903/352-9218
+TYL,6001143861,0,Matthew,Graham,MatthewGraham,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,matthewgraham@uttyler.edu,CELL,903/494-1435
+TYL,5000406332,0,John,Gundy,JohnGundy,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,jgundy@uttyler.edu,HOME,903/922-7028
+TYL,5000007241,0,Rual,Moore,RualMoore,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,rmoore@uttyler.edu,CELL,903/539-7170
+TYL,6001223093,0,Brandon,Perez,BrandonPerez,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,BPerez@uttyler.edu,CELL,903/574-9745
+TYL,5000069468,0,William,Sawyer,WilliamSawyer,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,wsawyer@uttyler.edu,HOME,903/204-2631
+TYL,6001222400,0,Darren,Smith,DarrenSmith,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,DarrenSmith@uttyler.edu,HOME,903/216-9993
+TYL,6001162600,0,Joshua,Smith,JoshuaSmith,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,josmith@uttyler.edu,HOME,903/426-1555
+TYL,5000084504,0,Paul,Williams,PaulWilliams,115500,University Police,Soules and Operations,16343,"Guard, University Police",1,CL,BUSN,pwilliams@uttyler.edu,HOME,903/571-0710
+TYL,5000118369,0,Michael,McFarlin,MichaelMcFarlin,121200,Building Maintenance,Soules and Operations,15314,Hvac Techn,1,CL,BUSN,MMcfarlin@uttyler.edu,CELL,903/571-8063
+TYL,5000116566,0,Amy,Clem,AmyClem,102400,Management & Marketing,Soules and Operations,10011,Lecturer,1,FA2,BUSN,aclem@uttyler.edu,HOME,903/312-1003
+TYL,5000020180,0,Jennifer,Hicks Martinez,JenniferHicks Martinez,102400,Management & Marketing,Soules and Operations,10011,Lecturer,1,FA2,BUSN,jmartinez@uttyler.edu,HOME,903/216-3436
+TYL,5000113458,0,Jerry,Massey,JerryMassey,102100,Dean - Business & Technology,Soules and Operations,10011,Lecturer,1,FA1,BUSN,jmassey@uttyler.edu,HOME,903/258-3827
+TYL,5000029536,0,Brandy,Meadows,BrandyMeadows,102100,Dean - Business & Technology,Soules and Operations,10011,Lecturer,1,FA1,BUSN,bmeadows@uttyler.edu,HOME,903/253-2241
+TYL,6001272047,0,Timothy,Morgan,TimothyMorgan,102400,Management & Marketing,Soules and Operations,10011,Lecturer,1,FA1,BUSN,TMORGAN@UTTYLER.EDU,HOME,561/339-5609
+TYL,6001122418,0,Jennifer,Reynolds,JenniferReynolds,102200,"Accounting, Finance & B Law",Soules and Operations,10011,Lecturer,1,FA1,BUSN,jreynolds@uttyler.edu,BUSN,903/780-4062
+TYL,5000408860,0,Caroline,Sturrock,CarolineSturrock,121500,Mail Services,Soules and Operations,19086,Mail Clerk I,1,CL,BUSN,csturrock@uttyler.edu,CELL,903/617-9201
+TYL,5000041523,0,Page,Chapman,PageChapman,121500,Mail Services,Soules and Operations,19081,Mail Srv & Receiving Supvr,1,CL,BUSN,PChapman@uttyler.edu,HOME,903/530-4200
+TYL,6001254063,0,Ruben,Chavez,RubenChavez,121200,Building Maintenance,Soules and Operations,15290,Maintenance Worker I,1,CL,BUSN,RCHAVEZ@UTTYLER.EDU,CELL,903/952-8487
+TYL,6001216655,0,Austin,Ferrell,AustinFerrell,121200,Building Maintenance,Soules and Operations,15290,Maintenance Worker I,1,CL,BUSN,AFerrell@uttyler.edu,CELL,903/738-1068
+TYL,6001215710,0,Russell,Fortner,RussellFortner,121200,Building Maintenance,Soules and Operations,15290,Maintenance Worker I,1,CL,BUSN,RFortner@uttyler.edu,HOME,903/262-4085
+TYL,5000117448,0,George,Salter,GeorgeSalter,121200,Building Maintenance,Soules and Operations,15290,Maintenance Worker I,1,CL,BUSN,GSalter@uttyler.edu,HOME,903/714-0120
+TYL,5000439375,0,Daniel,Istrate,DanielIstrate,121200,Building Maintenance,Soules and Operations,15289,Maintenance Worker II,1,CL,BUSN,distrate@uttyler.edu,HOME,903/740-1836
+TYL,6001125273,0,Jeffrey,Liebno,JeffreyLiebno,121200,Building Maintenance,Soules and Operations,15289,Maintenance Worker II,1,CL,BUSN,jliebno@uttyler.edu,CELL,903/245-1773
+TYL,6001124280,0,Casey,Smith,CaseySmith,121200,Building Maintenance,Soules and Operations,15289,Maintenance Worker II,1,CL,BUSN,caseysmith@uttyler.edu,HOME,903/253-8096
+TYL,5000117913,0,Tyson,Hughes,TysonHughes,121200,Building Maintenance,Soules and Operations,15294,Maintenance Worker II - Hourly,1,CL,BUSN,THughes@uttyler.edu,HOME,903/780-7297
+TYL,6001158410,0,Christopher,Bratton,ChristopherBratton,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,cbratton@uttyler.edu,CELL,704/291-1433
+TYL,5000118194,0,Bobby,Hudson,BobbyHudson,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,BHudson@uttyler.edu,HOME,903/753-5006
+TYL,6001197450,0,Jack,Lanier,JackLanier,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,JLanier@uttyler.edu,CELL,903/920-4941
+TYL,5000431718,0,Michael,Marcano,MichaelMarcano,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,mmarcano@uttyler.edu,HOME,903/571-3237
+TYL,6001223295,0,Donald,Myers,DonaldMyers,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,DMyers@uttyler.edu,HOME,903/373-4678
+TYL,5000118297,0,Charles,Petrovich,CharlesPetrovich,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,SPetrovich@uttyler.edu,HOME,903/391-3750
+TYL,6001161153,0,Brad,Williams,BradWilliams,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,BUSN,bradwilliams@uttyler.edu,CELL,903/920-2017
+TYL,6001271242,0,Ronald,Young,RonaldYoung,115500,University Police,Soules and Operations,16336,Police Officer,1,CL,HOME,RYOUNGFOREVER133@GMAIL.COM,HOME,903/574-3920
+TYL,6001122864,0,Miguel,Caldas,MiguelCaldas,102400,Management & Marketing,Soules and Operations,10007,Professor,1,FA1,BUSN,mcaldas@uttyler.edu,BUSN,985/869-1637
+TYL,5000360497,0,Duane,Doty,DuaneDoty,102400,Management & Marketing,Soules and Operations,10007,Professor,1,FA1,BUSN,HDoty@uttyler.edu,HOME,903/566-1315
+TYL,5000430994,0,Ann,Gilley,AnnGilley,102300,HR Development,Soules and Operations,10007,Professor,1,FA1,BUSN,agilley@uttyler.edu,BUSN,903/566-7324
+TYL,5000118206,0,Arun,Kulkarni,ArunKulkarni,104500,Computer Science,Soules and Operations,10007,Professor,1,FA1,BUSN,akulkarni@uttyler.edu,HOME,903/581-9527
+TYL,5000428073,0,Russell,Murphy,RussellMurphy,121200,Building Maintenance,Soules and Operations,15056,Project Cord NonExempt - Month,1,CL,BUSN,rmurphy@uttyler.edu,HOME,903/790-4114
+TYL,5000418434,0,John,Thorn,JohnThorn,121200,Building Maintenance,Soules and Operations,15056,Project Cord NonExempt - Month,1,CL,BUSN,jthorn@uttyler.edu,HOME,903/948-2122
+TYL,6001253520,0,Brandi,Ballard,BrandiBallard,115450,Environmental H&S,Soules and Operations,16619,Safety Specialist I,1,CL,HOME,BBALLARD929@GMAIL.COM,CELL,817/727-1171
+TYL,6001216814,0,Christopher,Frydenlund,ChristopherFrydenlund,115450,Environmental H&S,Soules and Operations,16619,Safety Specialist I,1,CL,BUSN,CFrydenlund@uttyler.edu,CELL,707/217-8563
+TYL,5000086830,0,Beverly,Kennedy,BeverlyKennedy,115500,University Police,Soules and Operations,16320,"Sergeant, Campus Security",1,CL,BUSN,bkennedy@uttyler.edu,HOME,903/330-7408
+TYL,5000059786,0,Olimpia,Morales,OlimpiaMorales,115500,University Police,Soules and Operations,16320,"Sergeant, Campus Security",1,CL,BUSN,omorales@uttyler.edu,CELL,903/944-9164
+TYL,5000037719,0,Kay,Pleasant,KayPleasant,104500,Computer Science,Soules and Operations,10012,Sr Lecturer,1,FA2,BUSN,KPleasant@uttyler.edu,CELL,903/570-7823
+TYL,8000086612,0,Leslie,Stewart,LeslieStewart,102200,"Accounting, Finance & B Law",Soules and Operations,10012,Sr Lecturer,1,FA2,BUSN,LVoss@uttyler.edu,HOME,432/559-3679
+TYL,8000086612,0,Leslie,Voss,LeslieVoss,102200,"Accounting, Finance & B Law",Soules and Operations,10012,Sr Lecturer,1,FA2,BUSN,LVoss@uttyler.edu,HOME,432/559-3679
+TYL,5000006167,0,James,Spanko,JamesSpanko,121200,Building Maintenance,Soules and Operations,15288,Sr Maintenance Worker,1,CL,BUSN,JSpanko@uttyler.edu,HOME,903/590-9635
+TYL,6001136069,1,Manuel,Reyes,ManuelReyes,102230,Acctg & Finance - Hibbs Ins,Soules and Operations,14409,Sr Research Analyst,1,CL,BUSN,MLREYES2@UTEP.EDU,HOME,915/603-1174
+TYL,5000117829,0,Patrick,Clark,PatrickClark,121600,Utilities,Soules and Operations,15125,Utilities Ops Supvr,1,CL,BUSN,RClark@uttyler.edu,HOME,903/894-7462
+TYL,5000118370,0,Walter,McDermott,WalterMcDermott,121600,Utilities,Soules and Operations,15135,Utilities Station Operator,1,CL,BUSN,WMcdermott@uttyler.edu,HOME,903/596-8231
+TYL,5000118580,0,Glenn,Skelton,GlennSkelton,121600,Utilities,Soules and Operations,15135,Utilities Station Operator,1,CL,BUSN,GSkelton@uttyler.edu,HOME,903/922-3102
+TYL,5000117824,0,Allan,Idjao,AllanIdjao,121600,Utilities,Soules and Operations,15132,Utilities Station Operator II,1,CL,BUSN,aidjao@uttyler.edu,HOME,903/839-8652
+TYL,5000118073,0,Manny,Mirano,MannyMirano,121600,Utilities,Soules and Operations,15132,Utilities Station Operator II,1,CL,BUSN,mmirano@uttyler.edu,HOME,903/561-1606
+TYL,6001201029,0,William,Stuff,WilliamStuff,115700,VP General Operations,Soules and Operations,10104,VP for Ops & Strat Init / COO,1,AP,BUSN,JStuff@uttyler.edu,CELL,317/796-6198
