@@ -21,3 +21,9 @@ print {1,2,3,5}.intersection([3,4])
 print {1,2,3,4}.issubset(range(-5,5))
 s={1.44}
 s.add((1,2,3))
+print s
+s1 = {x for x in 'pumpkin'}
+print s1
+s2 = {c*3 for c in "skull"}
+print s2
+print s1 | s2
